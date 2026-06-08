@@ -1,0 +1,25 @@
+{
+  "row_index": 113,
+  "slug": "school_113",
+  "rijschool": "Autorijschool Westelaken t.h.o.d.n. DriveYou",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 76,
+  "sentiment": "positive",
+  "themes_positive": [
+    "rustige en geduldige instructeurs",
+    "duidelijke uitleg",
+    "lessen op eigen tempo",
+    "fijne en leerzame sfeer",
+    "goede communicatie",
+    "flexibel plannen",
+    "vertrouwen opbouwen",
+    "snelle regeling van lessen/proefles"
+  ],
+  "themes_negative": [
+    "gevoel een nummertje te zijn",
+    "kritiek op laag slagingspercentage"
+  ],
+  "confidence": "high",
+  "rationale": "De meeste quotes prijzen vooral de rustige, geduldige en duidelijke begeleiding en de prettige sfeer, met één duidelijke negatieve review over onpersoonlijke behandeling en lage slagingskans."
+}

@@ -1,0 +1,21 @@
+{
+  "row_index": 59,
+  "slug": "school_059",
+  "rijschool": "Rijschool van Venrooij",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 94,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "rustige en geduldige instructeur",
+    "duidelijke uitleg en heldere communicatie",
+    "gezellige, ontspannen sfeer in de auto",
+    "leerzame en comfortabele lessen",
+    "veel vertrouwen en op gemak stellen",
+    "flexibele planning",
+    "snel slagen / in één keer geslaagd"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over Frank als geduldig, duidelijk en gezellig, met een ontspannen leeromgeving en vaak in één keer slagen."
+}

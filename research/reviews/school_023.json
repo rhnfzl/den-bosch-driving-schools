@@ -1,0 +1,60 @@
+{
+  "row_index": 23,
+  "slug": "school_023",
+  "rijschool": "Sterre Autorijschool",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": true,
+  "reviews_read": 12,
+  "sentiment": "positive",
+  "sentiment_index": 78,
+  "english_in_reviews": "no",
+  "review_summary": "Students consistently praise the owner-instructor Rene as calm, patient and clear, good with nerves/faalangst, flexible with planning, and effective (several passing in one go within 30-40 lessons). The substantive review bodies come from Trustoo and the school's own site and are uniformly positive; however no independent klantenvertellen profile exists, and the school's Google rating is only 3.8/5 (4 reviews), notably lower than the curated Trustoo aggregate.",
+  "themes_positive": [
+    "patient and calm instructor",
+    "clear explanation",
+    "good with nervous learners / faalangst",
+    "flexible lesson planning",
+    "builds confidence",
+    "passing in one go (within 30-40 lessons)",
+    "personal / tailored approach",
+    "pleasant relaxed atmosphere"
+  ],
+  "themes_negative": [
+    "low CBR exam pass rate (43-44%, below location average ~54%)",
+    "modest Google rating (3.8/5) inconsistent with curated directory score"
+  ],
+  "red_flags": [
+    "No independent klantenvertellen (verified-customer) profile found for this school",
+    "Most substantive review bodies sit on Trustoo (premium-partner directory) and the school's own website, both less rigorous than verified platforms",
+    "Google rating only 3.8/5 over 4 reviews per clickdrive, but individual Google review texts were not readable",
+    "Many Trustoo entries are short praise; full bodies are uniformly glowing with no critical/mixed text surfaced"
+  ],
+  "representative_quotes": [
+    "Ik heb een uitstekende ervaring met Rene een hele aardige man waar je nooit verveelde of met tegen zin in de auto stapte daarom verdiend hij een 5 Sterre review. Ook waren de lessen erg goed en kan je makkelijk binnen 30 lessen slagen.",
+    "Ik heb een geweldige ervaring gehad bij autorijschool Sterre en geef daarom met volle overtuiging 5 sterren! Vanaf de eerste les voelde ik me op mijn gemak. De instructeur is geduldig, duidelijk in de uitleg en neemt echt de tijd om je alles goed te leren.",
+    "Ook de flexibiliteit in het plannen van lessen was een groot pluspunt. Dankzij autorijschool Sterre ben ik in een keer geslaagd, en dat had ik zonder deze begeleiding niet gekund.",
+    "Rene is een fijne rijschool houder en instructeur om mee samen te werken, hij neemt de tijd voor je in de rijlessen en legt alle goed uit, en bovendien stelt hij je op je gemak.",
+    "Goede rijinstructeur, die duidelijk is in wat er verwacht wordt van een leerling. Daarnaast is de rijinstructeur een man waarmee iemand een soepel gesprek kan voeren wat de lessen veel prettiger maakt.",
+    "Fijne instructeur. Heel rustig qua uitleg en tips geven. Ook met onrust en zenuwen van mijn kant goede tips gekregen om dat beter te laten gaan!",
+    "Rijden met Rene is persoonlijk - oprecht - veilig en doelgericht maar dan wel met de juiste persoonlijke aanpak die bij je past! Voor iemand met faalangst zijn de lessen van Rene echt super, ik zag hem meer als een rij-coach dan als een instructeur.",
+    "Ik heb mijn rijlessen bij Rene als zeer prettig ervaren. Hij nam altijd ruim de tijd om dingen uit te leggen en gaf goede tips en adviezen.",
+    "De rijlessen van Rene zijn top! Ik ben in een keer geslaagd na 40 rijlessen, dus zijn lesmethode is zeker effectief. Ik ging met veel zelfvertrouwen het examen in.",
+    "Ik heb altijd met veel plezier bij Rene in de auto gelest! Er werd naast gezelligheid veel aandacht besteed aan de aspecten die ik lastig vond. Ook zijn de lessen niet te lang, waardoor er vooral in het begin niet te veel op je afkomt.",
+    "Een Super rijschool, Rene en Mayer jullie zijn geweldig. Bedankt voor jullie inzet. Echte vakmanschap en echte aanrader.",
+    "Ik heb echt een leerzame en leuke periode gehad tijdens de rijlessen."
+  ],
+  "platforms_found": [
+    "Trustoo (39 reviews aggregated from 2 sources)",
+    "Google (3.8/5, 4 reviews, via clickdrive.nl)",
+    "Sterre Autorijschool own website (testimonials)",
+    "Rijschoolspecialist.nl (1 review)"
+  ],
+  "sources": [
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/sterre-autorijschool",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/sterre-autorijschool",
+    "https://sterre-autorijschool.nl",
+    "https://www.rijschoolspecialist.nl/sterre-autorijschool",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/sterre-autorijschool"
+  ]
+}

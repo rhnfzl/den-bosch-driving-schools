@@ -1,0 +1,22 @@
+{
+  "row_index": 6,
+  "slug": "school_006",
+  "rijschool": "Les & Slaag",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "duidelijke uitleg",
+    "rustige en geduldige instructeur",
+    "persoonlijke begeleiding",
+    "snel leren",
+    "goede voorbereiding op examen",
+    "zelfvertrouwen opbouwen",
+    "goede communicatie",
+    "vaste instructeur"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over de rustige, duidelijke en persoonlijke lessen, met veel geslaagde examens en sterke voorbereiding op het examen."
+}

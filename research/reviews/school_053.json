@@ -1,0 +1,60 @@
+{
+  "row_index": 53,
+  "slug": "school_053",
+  "rijschool": "Verkeersschool Marc van Hazendonk",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 16,
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "no",
+  "review_summary": "Students consistently describe Marc as a patient, experienced (30+ years) one-man driving school with clear explanations, a personal approach where you are not just a number, and good exam preparation, with many passing first time including BE/aanhanger lessons. Reviews are uniformly 5-star and positive; the only mild constructive note is one student wishing Marc would occasionally say when things go well, not only correct mistakes.",
+  "representative_quotes": [
+    "Fijne en leerzame lessen gehad. Marc is erg betrokken en onthoudt de kleine dingen van je waardoor je geen nummer bent.",
+    "Duidelijke uitleg en alle ruimte voor vragen. Maakt graag extra tijd voor je vrij en denkt met je mee om een leerzame vlotte opleiding te volgen.",
+    "Van de week mijn BE Rijbewijs gehaald bij Marc en in 1X geslaagd! Een goede ervaring gehad en het wordt zeker duidelijk uitgelegd.",
+    "Heb fijne lessen gehad bij Marc, goede uitleg en tips om je verder op weg te helpen. Altijd eerlijk en legt graag alles uit wanneer je vragen heb, al is het tig keer dezelfde vraag.",
+    "Fijn aanhangerrijles gehad van Marc. In een keer geslaagd. Hij geeft goed uitleg, is aardig en heeft geduld.",
+    "Marc heeft veel kennis en ervaring en legt alles rustig en duidelijk uit. Neemt de tijd voor je... Fijne vent om les van te krijgen.",
+    "Marc is een hele fijne en aardige man die goed weet op welke momenten hij duidelijk moet zijn en op welke momenten hij zijn leerlingen zelf moet laten werken. Hij kan goed inschatten wat iemand lastig vindt en zal daarop dan ook vaker oefenen.",
+    "Dankzij jouw geduld en duidelijke uitleg voelde ik me snel op mijn gemak en heb ik veel zelfvertrouwen gekregen in het verkeer.",
+    "Ik kwam met heel veel verkeerde informatie en twee keer zakken van een andere rijschool af, toen ben ik met Marc in contact gekomen en die heeft mij supergoed geholpen.",
+    "Goede opbouw van lessen, duidelijke uitleg & instructies en goede begeleiding voor en tijdens het examen.",
+    "Af en toe aangeven dat iets goed gaat mag nog wel. Verder is verkeersschool Marc van Hazendonk ook een fijne rijschool.",
+    "Als eigenwijze kerel kon ik het goed vinden met Marc. Ik was het niet altijd eens met de situaties, maar Marc had altijd z'n antwoord klaar en kon perfect uitleggen waarom iets wel/niet op die manier moest."
+  ],
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "experienced instructor",
+    "personal approach (not a number)",
+    "good exam preparation",
+    "passed first time",
+    "flexible / makes extra time",
+    "good with BE/aanhanger lessons"
+  ],
+  "themes_negative": [
+    "occasionally only corrects, rarely gives positive feedback",
+    "below-average CBR first-time pass rate (per open data, not from reviews)"
+  ],
+  "red_flags": [
+    "Reviews are uniformly 5/5 with no critical reviews visible; the curated testimonials on the school's own rijles4you.nl page are solicited and one-sided",
+    "Small review volume (11-15 Google reviews; only 1 review on rijschoolspecialist)",
+    "Several Google entries are 'Geen beschrijving' (star-only, no text)",
+    "Single-instructor (Marc only), so reviews cannot distinguish instructor quality"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/verkeersschool-marc-van-hazendonk",
+    "https://www.rijscholenvergelijken.nl/rijscholen/verkeersschool-marc-van-hazendonk-rosmalen",
+    "https://www.rijles4you.nl/recensies.html",
+    "https://www.rijschoolspecialist.nl/verkeersschool-marc-van-hazendonk",
+    "https://clickdrive.nl/de/fahrschulen/rosmalen/verkeersschool-marc-van-hazendonk"
+  ],
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl and rijscholenvergelijken.nl)",
+    "rijles4you.nl (school's own curated testimonials)",
+    "rijschoolspecialist.nl"
+  ],
+  "verified_reviews_note": "No klantenvertellen.nl presence found for this school."
+}

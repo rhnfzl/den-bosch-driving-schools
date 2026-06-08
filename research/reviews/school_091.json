@@ -1,0 +1,40 @@
+{
+  "row_index": 91,
+  "slug": "school_091",
+  "rijschool": "Autorijschool Tarin",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 6,
+  "sentiment": "positive",
+  "sentiment_index": 80,
+  "english_in_reviews": "no",
+  "review_summary": "All six readable reviews are 5-star Google reviews praising a patient, flexible instructor (named Nazar in one) who keeps students at ease, communicates well and helps them pass, often first time. There is no verified (klantenvertellen) review text and no negative or English-language reviews, and the CBR/DriveDutch first-time pass rate (16%, 0% on 6 first exams) is strikingly low versus the glowing tone.",
+  "platforms_found": ["Google (via clickdrive.nl)", "CBR (statistics only)", "DriveDutch (statistics only)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-tarin",
+    "https://clickdrive.nl/en/driving-schools/rosmalen/autorijschool-tarin",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-tarin",
+    "https://www.drivedutch.nl/nl/forum/Autorijschool%20Tarin/ROSMALEN/731076700000"
+  ],
+  "representative_quotes": [
+    "Ik heb 2 jaar geleden mijn rijbewijs gehaald bij autorijschool Tarin, en ik was erg blij met de lessen en de tips die ik kreeg!",
+    "in een keer geslaagd bij rijschool tarin !! hele fijne/leerzame rijschool en een geduldige instructeur die zijn best doet om je te laten slagen zeker een aanrader voor iedereen",
+    "De lessen waren niet alleen informatief en goed gestructureerd, maar ook erg plezierig.",
+    "De instructeur van rijschool Tarin is geduldig, deskundig en zorgd ervoor dat je je op je gemak voelt achter het stuur.",
+    "Ik heb erg aangename auto-rijlessen gehad van Nazar. Nazar kwam altijd zijn afspraken na, communiceerde vlot en is erg flexibel.",
+    "Daarnaast is het prettig om naast hem te zitten omdat het niet erg is als je fouten maakt en hij daarvan niet in de stress raakt.",
+    "Nazar past zich aan aan jouw tempo en is erg geduldig. Ik heb fijne gesprekken met hem gehad, gerelateerd aan de rijlesen en ook daar buiten.",
+    "In 1x mijn rijbewijs gehaald. Flexibele rij-instructeur met gezellige en leerzame lessen."
+  ],
+  "themes_positive": ["patient", "flexible", "clear explanation", "good with nervous learners", "passed first time", "reliable communication", "comfortable atmosphere"],
+  "themes_negative": ["very low CBR first-time pass rate (statistical, not from reviews)"],
+  "red_flags": [
+    "Only 6 reviews, all on a single platform (Google), all 5 stars - no critical or even lukewarm reviews",
+    "No independent verified reviews (no klantenvertellen / Trustpilot / Trustoo presence)",
+    "One reviewer is named 'Omed Tarin', sharing the school's surname - likely owner/family, undermines independence",
+    "Two reviewers ('Hester Frazer' and 'Femke Frazer') share a surname, suggesting related reviewers",
+    "Several reviews are short generic one-liners ('aanrader', 'in 1x geslaagd')",
+    "CBR shows 0% first-time pass over 6 first exams and 16% overall - sharply at odds with the uniformly glowing reviews"
+  ]
+}

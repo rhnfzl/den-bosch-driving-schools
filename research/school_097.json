@@ -1,0 +1,33 @@
+{
+  "row_index": 97,
+  "slug": "school_097",
+  "rijschool": "Autorijschool Sekandary",
+  "plaats": "S-HERTOGENBOSCH",
+  "website": "https://www.autorijschoolsekandary.com",
+  "phone": "+31 6 45394946",
+  "address": "Piano 26",
+  "postcode": "5231DT",
+  "kvk_number": null,
+  "cbr_rijschoolnummer": null,
+  "english_instruction": "unknown",
+  "english_confidence": "low",
+  "english_evidence": null,
+  "english_source": null,
+  "transmission": "unknown",
+  "transmission_source": null,
+  "founding_year": null,
+  "founding_year_basis": "unknown",
+  "founding_confidence": "low",
+  "google_rating": null,
+  "review_count": null,
+  "price_signal": null,
+  "waitlist_signal": null,
+  "notes": "Brand-new / very small school: only 1 CBR exam in last 12 months (debesterijscholen.nl rank 101). Official site autorijschoolsekandary.com is a basic JouwWeb page with image filenames dated 2025-Jan 2026, suggesting a 2025 launch, but no explicit 'sinds YYYY' so founding_year left unknown. Site states NO English, transmission, price, or founding info. IMPORTANT DISAMBIGUATION: the rijloket.nl page titled 'Autorijschool Sekandary' is data-contaminated - its Contact block lists 'Website inseen.nl, Telefoon 06 42117033' and its reviews repeatedly reference 'INSEEN', motorcycle lessons, and instructors Ramon/Ronnie/Erwin/Edwin/Ronny; those English-language and 5.0-rating reviews belong to a DIFFERENT school (Rijschool Inseen), NOT Sekandary, so they were not attributed here. Genuine Sekandary phone (+31 6 45394946) differs from the Inseen number on that page. itheorie.nl national database confirms address Piano 26, 5231DT 's-Hertogenbosch but the driving-school number field rendered empty.",
+  "sources": [
+    "https://debesterijscholen.nl/s-hertogenbosch",
+    "https://www.autorijschoolsekandary.com",
+    "https://itheorie.nl/en/driving-school-details/17285858-autorijschool-sekandary",
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/autorijschool-sekandary-s-hertogenbosch",
+    "https://rijscholen-gids.nl/s-hertogenbosch"
+  ]
+}

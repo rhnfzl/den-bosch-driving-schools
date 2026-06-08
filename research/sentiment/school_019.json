@@ -1,0 +1,22 @@
+{
+  "row_index": 19,
+  "slug": "school_019",
+  "rijschool": "Autorijschool \"De Parel\"",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 3,
+  "sentiment_index": 68,
+  "sentiment": "positive",
+  "themes_positive": [
+    "rustige instructeur",
+    "veel kennis en ervaring",
+    "goede leskwaliteit",
+    "leerling slaagt",
+    "aanrader"
+  ],
+  "themes_negative": [
+    "komt niet opdagen bij afspraak",
+    "niet bereikbaar terugbellen"
+  ],
+  "confidence": "medium",
+  "rationale": "De meeste quotes zijn positief over de rustige, kundige lesgever en het resultaat, maar er is ook een duidelijke klacht over een gemiste afspraak en geen terugbelactie."
+}

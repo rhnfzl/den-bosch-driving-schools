@@ -1,0 +1,34 @@
+{
+  "row_index": 120,
+  "slug": "school_120",
+  "rijschool": "Rijopleiding Rosmalen",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "red_flags": [
+    "No readable customer review text found on any platform (klantenvertellen, Google, Trustpilot, Trustoo, Facebook)",
+    "clickdrive.nl per-school page explicitly states 'Er zijn nog geen beoordelingen gevonden voor deze rijschool' / 'No reviews have been found for this driving school yet'",
+    "No klantenvertellen.nl page exists for this school",
+    "CBR shows only 1 first exam taken in the measurement period (1 Apr 2025 - 31 Mar 2026), indicating a near-dormant / very low-volume school",
+    "rijlessen.nl directory aggregate score (7.8) shown without any review bodies; appears directory/CBR-derived rather than genuine customer reviews"
+  ],
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "review_summary": "No genuine, readable customer reviews could be found for Rijopleiding Rosmalen on any credible platform. clickdrive.nl explicitly reports no reviews for this school, there is no klantenvertellen page, and CBR data shows only a single exam in the past year, suggesting a very small or near-dormant operation. There is no review text on which to base a sentiment or authenticity judgement.",
+  "platforms_found": [
+    "clickdrive.nl (per-school page, explicitly 0 reviews)",
+    "cbr.nl (official register, 1 exam / no reviews)",
+    "rijlessen.nl (directory listing with aggregate score only, no review bodies)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/rijopleiding-rosmalen",
+    "https://clickdrive.nl/en/driving-schools/rosmalen/rijopleiding-rosmalen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijopleiding-rosmalen",
+    "https://rijlessen.nl/rijscholen/rosmalen/rijschool-217-autorijschool-van-heugten"
+  ]
+}

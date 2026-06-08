@@ -1,0 +1,21 @@
+{
+  "row_index": 87,
+  "slug": "school_087",
+  "rijschool": "Autorijschool Van Heugten",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 10,
+  "sentiment_index": 92,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "duidelijke uitleg",
+    "geduldige en gedreven instructeur",
+    "goede begeleiding en structuur",
+    "prettige en gezellige sfeer",
+    "goed contact tussen leerling en instructeur",
+    "fijne lesauto",
+    "helpt om in één keer te slagen"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes prijzen vooral de duidelijke, geduldige en motiverende lessen van Hans en noemen meerdere keren dat leerlingen zich prettig voelden en in één keer slaagden."
+}

@@ -1,0 +1,22 @@
+{
+  "row_index": 44,
+  "slug": "school_044",
+  "rijschool": "Rijles Mera",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 93,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "patient instructors",
+    "clear explanations",
+    "calm and supportive lessons",
+    "builds confidence",
+    "friendly atmosphere",
+    "first-time pass success",
+    "helpful guidance",
+    "students feel safe and comfortable"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "The quotes overwhelmingly praise Mera’s patience, clear teaching, confidence-building support, and frequent first-time passing results, with no substantive complaints."
+}

@@ -1,0 +1,22 @@
+{
+  "row_index": 51,
+  "slug": "school_051",
+  "rijschool": "Time2drive",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 93,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldige en rustige instructeur",
+    "duidelijke uitleg en goede begeleiding",
+    "vriendelijke, professionele sfeer",
+    "vertrouwen opbouwen en stress verminderen",
+    "flexibel en goed georganiseerd",
+    "goed Engels voor niet-Nederlandstaligen"
+  ],
+  "themes_negative": [
+    "wachttijd voor lessen"
+  ],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over Peter’s geduld, duidelijke uitleg en rustige, stressvrije begeleiding, met alleen een kleine klacht over wachttijd."
+}

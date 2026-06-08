@@ -1,0 +1,50 @@
+{
+  "row_index": 110,
+  "slug": "school_110",
+  "rijschool": "Rijschool Pip",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "sentiment": "positive",
+  "sentiment_index": 78,
+  "english_in_reviews": "yes",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "review_summary": "The only review text available anywhere is four short, anonymous testimonials curated on Rijschool Pip's own website; they praise instructor Linda for calm, structured, supportive lessons that helped students pass first time, and one is written in English by an apparent expat student. No independent, verifiable reviews (klantenvertellen, Google, Trustpilot, Trustoo, clickdrive) could be found for this brand-new (2024) one-person school.",
+  "representative_quotes": [
+    "Gelukt…wat een feest! Bedankt Linda, jij hebt hier echt verschil gemaakt!",
+    "Thank you for time and knowledge which you shared with me. It was a pleasure to be your student.",
+    "Top rijinstructeur. Veel tips en tricks meegekregen, leert mij actief hoe ik auto moet rijden en neemt niet snel de pedalen over.",
+    "Door de leerzame rijlessen in een keer geslaagd!"
+  ],
+  "themes_positive": [
+    "calm and reassuring",
+    "good with nervous learners",
+    "structured step-by-step (RIS method)",
+    "passed first time",
+    "clear explanation and useful tips",
+    "personal attention",
+    "welcoming to autism/ADHD learners"
+  ],
+  "themes_negative": [
+    "no independent reviews to corroborate",
+    "very new and tiny school (few exams)",
+    "currently not accepting new students (waitlist)"
+  ],
+  "platforms_found": [
+    "rijschoolpip.nl (own website testimonials)"
+  ],
+  "red_flags": [
+    "Only review text is self-published on the school's own website",
+    "All testimonials are anonymous (signed 'Anoniem')",
+    "No independent/verified review platform carries this school (no klantenvertellen, Google, Trustpilot, Trustoo, or clickdrive page found)",
+    "Brand-new school active since 2024 with only ~4 CBR first exams; sample far too small to judge",
+    "Testimonials are short, generic and self-curated (cannot rule out cherry-picking)"
+  ],
+  "sources": [
+    "https://rijschoolpip.nl",
+    "https://rijschoolpip.nl/rijles",
+    "https://rijschoolpip.nl/rijles-bij-rustige-vrouwelijke-instructeur-rosmalen",
+    "https://rijloket.nl/rijscholen/rosmalen/rijschool-pip-rosmalen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-pip"
+  ]
+}

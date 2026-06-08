@@ -1,0 +1,41 @@
+{
+  "row_index": 109,
+  "slug": "school_109",
+  "rijschool": "Flex Rijschool",
+  "review_trust": "weak",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 11,
+  "sentiment": "mixed",
+  "sentiment_index": 42,
+  "english_in_reviews": "no",
+  "review_summary": "The school's own website claims 4.8/5 and shows only glowing testimonials, but the independent Google profile of the matching CBR-registered Rijschool Flex (Schuilenburg 3, Dordrecht, instructor Prim) sits at just 2.9/5 from 8 reviews, with several 1-star reviews alleging a scam and dangerous instruction (driving through red lights with a learner). Positive reviews are mostly short, generic one-liners and at least one website testimonial is recycled from an older Google review.",
+  "platforms_found": ["Google (via clickdrive.nl)", "school website rijschoolflexdordrecht.nl", "rijschoolspecialist.nl", "educarplatform.nl", "CBR.nl"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/dordrecht/rijschool-flex",
+    "https://rijschoolflexdordrecht.nl",
+    "https://www.rijschoolspecialist.nl/rijschool-flex",
+    "https://www.educarplatform.nl/rijscholen/dordrecht/4538-rijschool-flex",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-flex"
+  ],
+  "representative_quotes": [
+    "Scam!!!!!! 0 ster. Blijf van deze rijschool af als je geld niet kwijt wil raken.",
+    "Levensgevaarlijk, instructeur laat regels na! Rijd meerdere keren gewoon door rood licht in Alblasserdam met leerling! Zou niet gaan lessen hier levens gevaarlijk",
+    "Hele hoge kwaliteit, topper! Topper!",
+    "Positief, goede tips! Top, alleen maar positief en goeie tips",
+    "Hele goede duidelijke instructies en een GOED mens De Heer Prim... Had mij geen betere rijschool kunnen wensen!",
+    "Perfect! Super top lessen zowel motor als auto!",
+    "Ik heb mijn motorrijbewijs A gehaald bij rijschool Flex. Dankzij de begeleiding van Prim slaagde ik in een keer voor beide examens.",
+    "Net geslaagd voor mijn praktijkexamen! Tijdens het hele traject ben ik fantastisch begeleid door Prim van Rijschool Flex."
+  ],
+  "themes_positive": ["clear instructions", "passed on first try", "good with motorcycle/A licence", "flexible times (website claim)"],
+  "themes_negative": ["alleged scam / losing money", "dangerous driving (ran red lights with learner)", "multiple bare 1-star ratings", "low CBR pass rate", "website self-rating contradicts independent Google score"],
+  "red_flags": [
+    "Plaats in source data is 's-Hertogenbosch but the assigned website and the actual CBR-registered school are in Dordrecht (location mismatch).",
+    "Website claims 4.8/5 and shows only positive testimonials while the independent Google profile is 2.9/5 from 8 reviews.",
+    "Two specific, serious 1-star complaints: 'Scam' and 'levensgevaarlijk' (drove through red lights multiple times with a learner).",
+    "Three of the eight Google reviews are bare 1-star ratings with no text.",
+    "At least one website testimonial ('Antony' = 'De Heer Prim...') is recycled verbatim from a years-old 4-star Google review by 'Prewien George'.",
+    "Do not confuse with 'Rijschool Flexdrive' (instructor Sumit, 4.9/5) which is a separate school in Dordrecht."
+  ]
+}

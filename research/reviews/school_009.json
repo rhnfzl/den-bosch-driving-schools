@@ -1,0 +1,60 @@
+{
+  "row_index": 9,
+  "slug": "school_009",
+  "rijschool": "Autorijschool Safe Away",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 11,
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "yes",
+  "themes_positive": [
+    "patient instructor",
+    "clear step-by-step explanation",
+    "good with nervous/anxious learners",
+    "builds confidence",
+    "passed exam first try",
+    "multilingual (Dutch/Arabic/English)",
+    "friendly and respectful"
+  ],
+  "themes_negative": [
+    "low CBR pass rate vs city average (objective data, not from reviews)",
+    "reviews concentrated on one platform (Google) and skew uniformly 5-star",
+    "many reviews are rating-only or very short"
+  ],
+  "representative_quotes": [
+    "I honestly couldn't have asked for a better instructor at Safe Away! I'd done about 25 lessons with another school and still didn't know the basics, but with Safe Away everything finally started to click.",
+    "My instructor was so patient, explained everything step by step, and never made me feel rushed.",
+    "On my test day I was super stressed, but he helped calm me down and made me believe in myself. Thanks to him, I passed my driving test without any mistakes!",
+    "Passed my exam in first try thanks to ahmad. He is a great teacher and teaches in a friendly manner.",
+    "Ahmad is one of the best teachers! He is very patient and truly enthusiastic about his work. I highly recommend him.",
+    "Patience & loves his job! Got his way of building your confidence especially if you have no experience with driving. Highly recommend!",
+    "They are very experienced and talented teachers. And they are respectful to the students thank you.",
+    "Een respectabele en betrouwbare coach. Ik beveel hem van harte aan. Heel erg bedankt, meneer Saif, voor uw hulp. Ik waardeer uw inzet enorm.",
+    "ابو عمر الملك ولله احسن مدرب بلا عالم معاملي حلوي واهتمام بل طلاب",
+    "ممتازة شكرا لك استاذ احمد",
+    "جيد جدن"
+  ],
+  "red_flags": [
+    "Reviews are overwhelmingly 5-star with very similar positive tone (best, top instructor, passed first try), which can over-represent successful outcomes.",
+    "A meaningful share of the Google reviews are rating-only or one-word ('jiid jidan'/'mumtaza') with no substantive text.",
+    "Single-platform footprint: real review text only found on Google (via the school's Trustindex-verified widget and aggregators like rijloket); no klantenvertellen, Trustpilot, or Trustoo presence and Facebook shows 0 reviews.",
+    "Objective CBR data contradicts the glowing tone: first-time pass rate ~32% and herexamen ~47% (city average ~50-56%), i.e. below average, despite reviews claiming a high success rate."
+  ],
+  "review_summary": "Across ~11 readable Google reviews students consistently praise the instructor(s) (Ahmad, and a coach named Saif) as patient, clear and good at calming nervous learners, with several reporting they passed the CBR exam on the first try; multiple reviews are written in English by expat learners and the school explicitly teaches in Dutch, Arabic and English. The picture is uniformly glowing but thin and single-platform, and the actual CBR pass statistics are below the city average, so treat the 5.0 rating with some caution.",
+  "platforms_found": [
+    "Google (5.0, ~59 reviews) via safeaway.nl Trustindex widget and rijloket.nl aggregator",
+    "Facebook (page exists, 0 reviews)",
+    "CBR.nl (pass-rate data only, no review text)"
+  ],
+  "sources": [
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/autorijschool-safe-away-s-hertogenbosch",
+    "https://safeaway.nl/reviews",
+    "https://safeaway.nl/en/reviews",
+    "https://www.rijschoolbijmij.nl/rijschool/686/autorijschool-safe-away",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-safe-away",
+    "https://vindjerijschool.nl/rijscholen/s-hertogenbosch/autorijschool-safe-away"
+  ],
+  "sentiment_index": 90
+}

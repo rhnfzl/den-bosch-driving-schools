@@ -1,0 +1,25 @@
+{
+  "row_index": 27,
+  "slug": "school_027",
+  "rijschool": "Autorijschool Avalon",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 72,
+  "sentiment": "positive",
+  "themes_positive": [
+    "geduld en rust",
+    "duidelijke uitleg",
+    "persoonlijke begeleiding",
+    "veilig en op je gemak voelen",
+    "goede voorbereiding op examen",
+    "zelfvertrouwen en reflectie",
+    "flexibel inspelen op behoeften",
+    "snel terecht kunnen"
+  ],
+  "themes_negative": [
+    "agressief/asociaal rijgedrag van een instructeur",
+    "slechte aanbeveling door incident"
+  ],
+  "confidence": "high",
+  "rationale": "De meeste quotes zijn specifiek en lovend over geduldige, rustige en persoonlijke begeleiding die helpt bij zelfvertrouwen en examenvoorbereiding, met één zware maar geïsoleerde negatieve klacht over een instructeur."
+}

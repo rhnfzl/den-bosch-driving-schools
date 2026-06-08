@@ -1,0 +1,53 @@
+{
+  "row_index": 106,
+  "slug": "school_106",
+  "rijschool": "Autorijschool John Van Zuijdam",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 6,
+  "sentiment": "mixed",
+  "sentiment_index": 38,
+  "english_in_reviews": "no",
+  "review_summary": "Only a handful of reviews exist (4 Google reviews averaging 2.0/5, plus 2 generic 5-star one-liners on an aggregator). The one positive Google review praises a friendly instructor with good humour and steady learning progress, but the majority are 1-star and complain that the instructor gets irritated at small mistakes, cares more about his car than the pupil, and one even flags a safety issue (driving without lights).",
+  "representative_quotes": [
+    "Super fijne rijlessen! Hele aardige man met leuke humor. Ik leer elke les weer goeie dingen. Ik heb net een stuk of 25 lessen gehad en het examen wordt aangevraagd (Luna Brinks, 5/5)",
+    "Het lijkt alsof deze man niet voor zijn plezier instructeur is. Bij de kleinste fouten is de man al geïrriteerd en is de rijles al niet meer leuk. (Erikction, 1/5)",
+    "Ook laat hij je lang door lessen en geeft hij meer om zijn auto dan om de leerling. Uiteindelijk kijk je op tegen je rijlessen, terwijl het juist leuk moet zijn. (Erikction, 1/5)",
+    "Rijden zonder licht (L, 1/5 - title: 'Rijden met verkeerde verlichting')",
+    "1e keer geslaagd veel geleerd Goede uitleg, examines verliep soepel want is was goed voorbereid (Sjuul, rijschoolspecialist.nl, 5/5)",
+    "Snel geslaagd voor mijn rijbewijs correct alles uitgelegd geeft tips om snel door je rijopleiding te komen. toppie een aanrader, mijn vrouw ook de eerste keer geslaagd. (gijs, rijschoolspecialist.nl, 5/5)"
+  ],
+  "themes_positive": [
+    "friendly instructor",
+    "good sense of humour",
+    "clear explanation",
+    "steady learning progress",
+    "passed first time"
+  ],
+  "themes_negative": [
+    "instructor easily irritated at small mistakes",
+    "lessons unpleasant / not enjoyable",
+    "stretches out lessons (more lessons than needed)",
+    "cares more about his car than the pupil",
+    "safety concern (driving without lights)"
+  ],
+  "red_flags": [
+    "Very low review volume: only 4 Google reviews and 2 aggregator reviews, too few to judge confidently",
+    "Google average is only 2.0/5 with 3 of 4 ratings at 1 star",
+    "One 1-star Google review is rating-only with no text",
+    "The two 5-star reviews on rijschoolspecialist.nl are generic one-liners with typos that read like solicited/padded reviews and conflict with the negative Google picture",
+    "No independent verified reviews (no klantenvertellen presence found)",
+    "Marketing copy on aggregators ('85%+ pass rate', 'focus on safety') is contradicted by a review flagging driving without lights"
+  ],
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl and rijlessen.nl)",
+    "rijschoolspecialist.nl"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/hedel/autorijschool-john-van-zuijdam",
+    "https://rijlessen.nl/rijscholen/hedel/rijschool-4156-autorijschool-john-van-zuijdam",
+    "https://www.rijschoolspecialist.nl/autorijschool-john-van-zuijdam",
+    "https://www.rijschoolbijmij.nl/rijschool/711/autorijschool-john-van-zuijdam"
+  ]
+}

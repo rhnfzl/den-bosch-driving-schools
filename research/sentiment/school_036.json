@@ -1,0 +1,21 @@
+{
+  "row_index": 36,
+  "slug": "school_036",
+  "rijschool": "Praktijkfixers",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 10,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "snel slagen",
+    "duidelijke uitleg",
+    "goede begeleiding",
+    "prettige en relaxte sfeer",
+    "ervaren en hardwerkende instructeurs",
+    "goede communicatie",
+    "eerlijk en geen verkooptrucs"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend, met herhaald succes in één keer slagen en veel waardering voor duidelijke begeleiding, sfeer en eerlijkheid."
+}

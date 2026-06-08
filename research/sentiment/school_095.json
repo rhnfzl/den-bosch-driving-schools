@@ -1,0 +1,20 @@
+{
+  "row_index": 95,
+  "slug": "school_095",
+  "rijschool": "Autorijschool 119",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 9,
+  "sentiment_index": 94,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "duidelijke uitleg en feedback",
+    "rustige en beleefde instructeur",
+    "gezellige sfeer tijdens lessen",
+    "persoonlijke inzet en extra lessen",
+    "goed voorbereid op examen",
+    "snel vooruitgang en in één keer geslaagd"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel allemaal enthousiast en benadrukken duidelijke, rustige begeleiding, extra inzet van de instructeur en succesvolle examenresultaten."
+}

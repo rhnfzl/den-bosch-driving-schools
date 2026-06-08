@@ -1,0 +1,30 @@
+{
+  "row_index": 39,
+  "slug": "school_039",
+  "rijschool": "Rob Moggre",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 70,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": ["calm/patient instruction", "clear explanation", "passed first time", "good with nervous/faalangst learners"],
+  "themes_negative": ["all visible reviews 5-star with very similar wording (possible review-bias pattern)"],
+  "red_flags": [
+    "No verbatim individual review text could be read/captured for this specific school; aggregators (Trustoo, clickdrive) exposed only aggregate scores and the school's self-description, not review bodies.",
+    "No klantenvertellen.nl (independent verified) page exists for this school.",
+    "A secondary aggregator (rijschoolbijmij.nl) flagged that all visible Google reviews are 5-star and share near-identical themes ('rustig, geduldig, duidelijk, gezellig') - a low-variance pattern worth caution.",
+    "A separate similarly-named school 'Autorijschool Rob' (Future Traffic, instructor Andre) was found in search results and its reviews were deliberately NOT used to avoid misattribution."
+  ],
+  "platforms_found": ["Google (5.0/5, 24 reviews via clickdrive.nl)", "Trustoo (9.2/10, 26 reviews)"],
+  "review_summary": "Aggregate signals are consistently positive (Google 5.0/24, Trustoo 9.2/26) and a secondary aggregator paraphrases recurring themes of calm, patient, clear instruction and passing first time, plus faalangst support; however, no verbatim individual reviews for this specific school could be read or captured, so no quote-level evidence is available and trust is insufficient.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/rob-moggre",
+    "https://trustoo.nl/noord-brabant/rosmalen/rijschool/autorijschool-rob-moggre",
+    "https://www.rijschoolbijmij.nl/rijschool/609/autorijschool-rob-moggre",
+    "https://www.autorijschoolmoggre.nl",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rob-moggre"
+  ]
+}

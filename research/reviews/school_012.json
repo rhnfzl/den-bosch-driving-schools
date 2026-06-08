@@ -1,0 +1,42 @@
+{
+  "row_index": 12,
+  "slug": "school_012",
+  "rijschool": "Rijschool Kaniwar",
+  "plaats": "'s-Hertogenbosch",
+  "website": "https://www.rijschoolkaniwar.nl",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 3,
+  "sentiment": "mixed",
+  "sentiment_index": 45,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Het was een zeer slechte ervaring die ik niemand nog een keer zou aanraden.",
+    "Goed"
+  ],
+  "themes_positive": [],
+  "themes_negative": [
+    "very bad experience reported",
+    "would not recommend"
+  ],
+  "red_flags": [
+    "Only 3 Google reviews total; no other platform presence",
+    "No verified reviews (no klantenvertellen, Trustpilot, Facebook, or Trustoo profile found)",
+    "Two of three reviews have no substance: one is only 'Goed', one has no text at all",
+    "The single substantive review is a 1-star complaint with no specifics",
+    "Aggregator data is inconsistent (clickdrive mislabels the negative reviewer's star/title), so even the numeric rating is unreliable",
+    "Below-average CBR pass rate (~45-51% first attempt vs ~54-61% local average) - context, not a review signal"
+  ],
+  "platforms_found": [
+    "Google (via rijscholenvergelijken.nl, clickdrive.nl, rijschoolbijmij.nl)",
+    "CBR (stats only, no reviews)"
+  ],
+  "sources": [
+    "https://www.rijscholenvergelijken.nl/rijscholen/rijschool-kaniwar-s-hertogenbosch",
+    "https://clickdrive.nl/ar/driving-schools/s-hertogenbosch/rijschool-kaniwar",
+    "https://www.rijschoolbijmij.nl/rijschool/661/rijschool-kaniwar",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-kaniwar"
+  ],
+  "review_summary": "Almost no written review evidence exists: only three Google reviews total, of which one is an unexplained 1-star 'very bad experience, would not recommend' complaint, one says only 'Goed', and one has no text. There is no presence on any verified-review platform (klantenvertellen, Trustpilot, Facebook), so the school's quality cannot be meaningfully judged from reviews."
+}

@@ -1,0 +1,42 @@
+{
+  "row_index": 6,
+  "slug": "school_006",
+  "rijschool": "Les & Slaag",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 18,
+  "platforms_found": ["Google reviews (via clickdrive.nl)", "rijschoolspecialist.nl", "autorijschooltarieven.nl", "CBR (pass-rate data only)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/sint-michielsgestel/les-slaag",
+    "https://www.rijschoolspecialist.nl/les-slaag",
+    "https://www.autorijschooltarieven.nl/rijschool/les-slaag",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/les-slaag"
+  ],
+  "representative_quotes": [
+    "Goede rijschool, snel geleerd en Eric denkt goed mee en is altijd rustig in de auto. Communicaties daarnaast ook erg goed.",
+    "Heel fijn. Hij legt erg goed uit waardoor je het snel begrijpt. Je reflecteert samen zodat je begrijpt wat er fout ging om het de volgende keer te voorkomen. Net ongeweest en natuurlijk geslaagd.",
+    "Goede rijschool waar je echt snel leert! Eric denkt goed met je mee en bereid je goed en zorgvuldig mogelijk voor op het examen, terwijl hij je ook goed gerust weet te stellen.",
+    "Goede rijlessen en steeds dezelfde instructeur wat heel fijn is! Eric bereid je heel goed voor op het examen en ik heb daardoor ook mijn praktijk in 1 keer gehaald na 33 uur! Zeker een aanrader!",
+    "Mijn dochter is na lessen bij Eric een eerste keer geslaagd. Eric heeft een fijne lesstructuur en pakt verbeteringen die nog nodig zijn direct en in een volgende les op!",
+    "Mijn zoon is heel snel geslaagd! Eric wist precies hoe hij hem klaar moest stomen voor het examen. Hij gaf hem veel vertrouwen en alles was netjes en snel geregeld.",
+    "Super fijne rijschool!! Ik ben in een keer geslaagd door de goede lessen. Het is super doelgericht en de lessen worden per leerling persoonlijk afgesteld.",
+    "Heel fijne ervaring gehad. Rijles met veel interactie waardoor het leren snel en gemakkelijker verloopt.",
+    "Fijne ervaring en mooi afgerond!",
+    "De rede dat ik bij jou heb gelest was omdat ik moest leren rijden met maar een oog. Je hebt me zelfvertrouwen gegeven en gewezen op dingen die tijdens het rijexamen vaak gevraagd worden. Na 4 uur les heb ik een nieuw rijbewijs gekregen.",
+    "Je hebt een vriendelijke, rustige manier om dingen uit te leggen en met veel geduld. Door voorbeelden in de praktijk te laten zien is de rede om iets te doen ook duidelijker.",
+    "Erg betrokken leraar, rustige uitleg en zorgt dat je echt kan rijden na je examen."
+  ],
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "themes_positive": ["clear explanation", "calm/rustig instructor", "patient", "personalised lessons", "same instructor every time", "good exam preparation", "passed first time", "joint reflection on mistakes", "builds confidence", "good with nervous/insecure learners"],
+  "themes_negative": [],
+  "red_flags": [
+    "No independent verified-review profile (no klantenvertellen), so reviews are not confirmed-customer verified",
+    "Bulk of substance comes from Google reviews aggregated via a third-party (clickdrive.nl); only a couple of standalone reviews found elsewhere",
+    "A few one-line generic 5-star entries (e.g. 'Top rijschool!') among otherwise specific reviews",
+    "No negative or low-star reviews surfaced, so the picture may be skewed positive"
+  ],
+  "review_summary": "Students consistently describe Eric (sole instructor, one car) as calm, patient and clear, with personalised lessons, a structured exam-focused approach and joint reflection on mistakes; many report passing in one go, including a notable case of learning to drive with one eye. All reviews are in Dutch with Dutch reviewer names and no mention of English-language instruction."
+}

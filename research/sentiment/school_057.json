@@ -1,0 +1,22 @@
+{
+  "row_index": 57,
+  "slug": "school_057",
+  "rijschool": "Autorijschool Sam",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 96,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "aardige en geduldige instructeurs",
+    "rustige en duidelijke uitleg",
+    "persoonlijke aandacht en meedenken",
+    "professioneel en toegewijd",
+    "stipt en efficiënt lesgebruik",
+    "flexibele tijden",
+    "goede prijs",
+    "hoge slagingskans"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over de geduldige, duidelijke en professionele begeleiding, met meerdere vermeldingen van snel slagen en sterke persoonlijke aandacht."
+}

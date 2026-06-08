@@ -1,0 +1,45 @@
+{
+  "row_index": 79,
+  "slug": "school_079",
+  "rijschool": "Rijschool Arthur",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable review text found on any platform (klantenvertellen, Google, Trustpilot, Facebook all absent or empty)",
+    "clickdrive.nl shows only 1 Google review (4.0/5) with no visible text body",
+    "Multiple aggregators (rijschoolspecialist.nl, rijscholen-gids.nl, telefoonboek.nl, autorijschooltarieven.nl) show 0 reviews",
+    "No klantenvertellen.nl page exists for this school",
+    "clickdrive.nl 'Over' description is mistakenly copied from a different school (Autorijschool Wakelkamp, Veghel) - data-quality issue",
+    "rijschoolbijmij.nl explicitly states no Google reviews are available"
+  ],
+  "platforms_found": [
+    "clickdrive.nl (1 Google review, no text)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)",
+    "telefoonboek.nl (0 reviews)",
+    "autorijschooltarieven.nl (0 reviews)",
+    "rijschoolbijmij.nl (no Google reviews available)",
+    "vindjerijschool.nl (CBR stats only)",
+    "cbr.nl (official stats only)"
+  ],
+  "english_in_reviews_detail": "No reviews available to assess; aggregator listings indicate lesson language is Dutch (Nederlands).",
+  "review_summary": "No readable customer review text could be found for Rijschool Arthur (Vught) on any credible platform. The school is a real, CBR-registered one-person business (rijschoolnummer 3716Z1) with a ~72% first-attempt pass rate at CBR Den Bosch, but it has essentially no online review footprint: at most a single Google star rating (4.0/5) with no written content, and zero reviews across all other directories. There is no evidence corpus to judge sentiment or authenticity.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vught/rijschool-arthur",
+    "https://www.rijschoolspecialist.nl/rijschool-arthur",
+    "https://rijscholen-gids.nl/vught/rijschool-arthur",
+    "https://www.telefoonboek.nl/bedrijven/t3238684/vught/rijschool-arthur",
+    "https://www.rijschoolbijmij.nl/rijschool/754/rijschool-arthur",
+    "https://vindjerijschool.nl/rijscholen/vught/rijschool-arthur",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-arthur",
+    "https://www.autorijschooltarieven.nl/rijschool/rs-arthur"
+  ]
+}

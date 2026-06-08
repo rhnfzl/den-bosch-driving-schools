@@ -1,0 +1,24 @@
+{
+  "row_index": 33,
+  "slug": "school_033",
+  "rijschool": "Autorijschool Reches",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 11,
+  "sentiment_index": 93,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "veel geduld",
+    "duidelijke uitleg",
+    "rustige lessen",
+    "persoonlijke aandacht",
+    "individuele begeleiding",
+    "deskundige/ervaren instructeur",
+    "goed op je gemak stellen",
+    "snelle voortgang",
+    "veilig leren motorrijden",
+    "hoog slagingspercentage"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn unaniem lovend over Amit als rustige, geduldige en duidelijke instructeur die persoonlijke begeleiding biedt en leerlingen snel laat slagen."
+}

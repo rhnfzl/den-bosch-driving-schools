@@ -1,0 +1,50 @@
+{
+  "row_index": 96,
+  "slug": "school_096",
+  "rijschool": "rijschoolGP",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 12,
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/rijschoolgp",
+    "https://clickdrive.nl/en/driving-schools/oss/rijschoolgp",
+    "https://www.educarplatform.nl/rijscholen/hedel/5922-rijschoolgp"
+  ],
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl per-school page, 16 reviews, 5.0/5)"
+  ],
+  "sentiment": "very_positive",
+  "sentiment_index": 95,
+  "english_in_reviews": "no",
+  "themes_positive": [
+    "calm/relaxed instructor",
+    "patient",
+    "clear explanation",
+    "good with nervous/insecure learners (onzekerheid/spanning)",
+    "passed in one attempt",
+    "flexible lesson times and pickup locations",
+    "safe driving focus",
+    "friendly/pleasant atmosphere"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "All reviews are 5/5 with no negative or mixed reviews present (one-man owner-operated school)",
+    "Single review source (Google reviews only); no independent verified platform (no klantenvertellen/Trustpilot/Facebook review page exists)",
+    "Several reviews are short one-liners ('Gijs is een fijn en prettig persoon in omgang.')"
+  ],
+  "representative_quotes": [
+    "Ik begon mijn rijlessen erg onzeker en vol spanning, Gijs heeft mij het zelfvertrouwen geven die ik nodig had en is erg geduldig.",
+    "Hij legt alles rustig en duidelijk uit en past zich aan, aan jou tempo. Precies wat ik nodig had! In een keer geslaagd",
+    "Gijs is een rustige en goedlachse instructeur die mij veilig de weg op heeft geholpen.",
+    "Zijn kalme en duidelijke instructies hebben voor een mooie roze pas gezorgd. Ik kan rijschool GP Rosmalen ten zeerste aanraden.",
+    "In één keer geslaagd! Dankzij de kundige rijles van Gijs ben ik direct geslaagd.",
+    "Gijs bleef in iedere situatie rustig en blijft ten alle tijde vriendelijk. Mocht je nog iemand zoeken om over voetbal te praten ben je hier aan het juiste adres. Aanrader!",
+    "Fijne rijlessen en in 40 uur mijn rijbewijs in 1x gehaald! Dankjewel Gijs.",
+    "Gijs is een hele fijne, rustige en veilige rijinstructeur. Geeft je goede tips en leert je snel. Zeker aan te raden om bij hem te gaan lessen!!",
+    "Het waren leuke en leerzame lessen. Een fijne rijschool om in een keer je rijbewijs te halen.",
+    "Fijn gezelschap en een relaxte leer ervaring.",
+    "Gijs is een fijn en prettig persoon in omgang."
+  ],
+  "review_summary": "Students consistently describe Gijs Peters as a calm, patient, friendly instructor who explains clearly, adapts to the learner's pace, helps nervous/insecure students gain confidence, and is flexible with timing and pickup; many report passing on the first attempt. All available reviews are Google 5-star with no negative feedback, but they come from a single platform and are unverified."
+}

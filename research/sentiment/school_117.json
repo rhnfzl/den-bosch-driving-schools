@@ -1,0 +1,21 @@
+{
+  "row_index": 117,
+  "slug": "school_117",
+  "rijschool": "Autorijschool Harri",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 7,
+  "sentiment_index": 92,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "vriendelijke instructeur",
+    "rustig en stap-voor-stap uitleg",
+    "persoonlijke aandacht voor lastige punten",
+    "kalm blijven bij fouten",
+    "vertrouwen opbouwen",
+    "makkelijk afspraken maken",
+    "soepele lessen"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn bijna unaniem lovend over de rustige, duidelijke en persoonlijke begeleiding door de instructeur en de soepele organisatie van de lessen."
+}

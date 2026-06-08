@@ -1,0 +1,21 @@
+{
+  "row_index": 30,
+  "slug": "school_030",
+  "rijschool": "Rij-Nu",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "goede lessen",
+    "duidelijke en vlotte communicatie",
+    "geduld en rust in de auto",
+    "leerzame en fijne lessen",
+    "goede voorbereiding op examen",
+    "vriendelijke en motiverende instructeurs",
+    "snel slagen / in één keer geslaagd"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over de lessen, communicatie, sfeer en examenvoorbereiding, met meerdere vermeldingen van in één keer slagen."
+}

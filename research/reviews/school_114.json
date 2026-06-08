@@ -1,0 +1,31 @@
+{
+  "row_index": 114,
+  "slug": "school_114",
+  "rijschool": "Optimum Rijschool 's-Hertogenbosch",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable customer review text found on any platform (klantenvertellen, Google, Trustpilot, Facebook, Trustoo)",
+    "Only an aggregate Google rating of 5.0/5 based on just 2 reviews (clickdrive) with no review bodies displayed",
+    "EduCar lists the school as 0.0 (0 reviews); no klantenvertellen page exists for this school",
+    "Very low exam volume (CBR: 3 first exams, 33% first-time pass; debesterijscholen lists 0/2 = 0% for the period) indicating a very small operation with little track record",
+    "Cannot judge authenticity or sentiment from 2 unreadable star-only ratings"
+  ],
+  "platforms_found": ["clickdrive.nl (Google aggregate, 2 reviews, no text)", "educarplatform.nl (0 reviews)", "cbr.nl (exam stats only)", "debesterijscholen.nl (exam stats only)", "iTheorie (directory listing only)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vlijmen/optimum-rijschool-s-hertogenbosch",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/optimum-rijschool-s-hertogenbosch",
+    "https://www.educarplatform.nl/rijscholen/elshout/5991-optimum-rijschool-s-hertogenbosch",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/optimum-rijschool-s-hertogenbosch",
+    "https://debesterijscholen.nl/s-hertogenbosch"
+  ],
+  "review_summary": "No readable customer review text exists for Optimum Rijschool 's-Hertogenbosch (Vlijmen) on any platform. Clickdrive shows only an aggregate Google rating of 5.0/5 based on 2 reviews with no visible review bodies, EduCar lists 0 reviews, and there is no klantenvertellen, Trustpilot or Facebook review page. With no verbatim review content and only 2 star-only ratings, authenticity and sentiment cannot be assessed."
+}

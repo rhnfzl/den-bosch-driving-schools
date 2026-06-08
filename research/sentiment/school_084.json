@@ -1,0 +1,22 @@
+{
+  "row_index": 84,
+  "slug": "school_084",
+  "rijschool": "Beekwilder autorijlessen",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 96,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "rustige en duidelijke uitleg",
+    "geduldig en positief",
+    "stelt leerlingen op hun gemak",
+    "persoonlijke aandacht en meedenken",
+    "gezellige lessen",
+    "veel geleerd en zelfvertrouwen opgebouwd",
+    "goede begeleiding richting examen",
+    "in één keer geslaagd"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over de rustige, duidelijke en geduldige begeleiding, met veel waardering voor persoonlijke aandacht en succesvolle examens."
+}

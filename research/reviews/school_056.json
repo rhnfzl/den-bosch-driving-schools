@@ -1,0 +1,35 @@
+{
+  "row_index": 56,
+  "slug": "school_056",
+  "rijschool": "Rijschool Polman",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "sentiment": "positive",
+  "sentiment_index": 80,
+  "english_in_reviews": "no",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "platforms_found": ["Google (via clickdrive.nl)", "Trustoo"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-polman",
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/autorijschool-jan-polman",
+    "https://rijscholen-gids.nl/s-hertogenbosch/rijschool-polman",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-polman"
+  ],
+  "representative_quotes": [
+    "Goede rijschool, geduldige instructeur.",
+    "Fijne en eerlijke rijschool. Zeer ervaren!",
+    "Jan Polman is een zeer geduldig man en prettig in omgang. Ik raad deze rijschool aan!"
+  ],
+  "themes_positive": ["patient", "experienced", "honest/fair", "pleasant to deal with"],
+  "themes_negative": [],
+  "red_flags": [
+    "Very few readable reviews (only ~3-4 Google review bodies available)",
+    "All readable reviews are short one-liners with little concrete detail (no exam-day stories, no instruction specifics)",
+    "Trustoo shows an aggregate 8.0 over '16 reviews' but only a single review body is actually displayed (same as the Google one), so the count cannot be corroborated from text",
+    "No independent/verified-customer platform (no klantenvertellen page); rijscholen-gids shows 0 reviews",
+    "Cannot judge spread of sentiment because no negative/mixed reviews are readable"
+  ],
+  "review_summary": "Across the few readable reviews (3 Google one-liners; the lone Trustoo review body repeats the same Google review), students describe Jan Polman as a patient, experienced and pleasant one-man driving school and recommend it, but the corpus is too thin and generic to judge authenticity or capture any negative experiences.",
+  "verified_reviews_note": "No klantenvertellen.nl (verified-customer) page exists for this school."
+}

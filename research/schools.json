@@ -1,0 +1,1091 @@
+[
+  {
+    "row_index": 1,
+    "slug": "school_001",
+    "rijschool": "Jve Rijopleidingen B.V. t.h.o.d.n. ANWB Rijopleiding",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 264,
+    "first_rate": 59,
+    "all_rate": 61
+  },
+  {
+    "row_index": 2,
+    "slug": "school_002",
+    "rijschool": "Rijschool Inseen",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 196,
+    "first_rate": 49,
+    "all_rate": 51
+  },
+  {
+    "row_index": 3,
+    "slug": "school_003",
+    "rijschool": "Rijschool Masto",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 178,
+    "first_rate": 49,
+    "all_rate": 48
+  },
+  {
+    "row_index": 4,
+    "slug": "school_004",
+    "rijschool": "Verkeersschool Bakker V.O.F.",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 175,
+    "first_rate": 59,
+    "all_rate": 57
+  },
+  {
+    "row_index": 5,
+    "slug": "school_005",
+    "rijschool": "Autorijschool van Hoorn",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 172,
+    "first_rate": 59,
+    "all_rate": 62
+  },
+  {
+    "row_index": 6,
+    "slug": "school_006",
+    "rijschool": "Les & Slaag",
+    "plaats": "SINT-MICHIELSGESTEL",
+    "aantal_examens": 130,
+    "first_rate": 55,
+    "all_rate": 59
+  },
+  {
+    "row_index": 7,
+    "slug": "school_007",
+    "rijschool": "Verkeersschool Erico v.d. Broek",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 118,
+    "first_rate": 64,
+    "all_rate": 64
+  },
+  {
+    "row_index": 8,
+    "slug": "school_008",
+    "rijschool": "Rijschool Danny van den Bergh",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 109,
+    "first_rate": 56,
+    "all_rate": 57
+  },
+  {
+    "row_index": 9,
+    "slug": "school_009",
+    "rijschool": "Autorijschool Safe Away",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 109,
+    "first_rate": 32,
+    "all_rate": 40
+  },
+  {
+    "row_index": 10,
+    "slug": "school_010",
+    "rijschool": "Autorijschool Johan Helvoirt",
+    "plaats": "HELVOIRT",
+    "aantal_examens": 105,
+    "first_rate": 45,
+    "all_rate": 50
+  },
+  {
+    "row_index": 11,
+    "slug": "school_011",
+    "rijschool": "G.J.C.J. Hanegraaf",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 103,
+    "first_rate": 4,
+    "all_rate": 18
+  },
+  {
+    "row_index": 12,
+    "slug": "school_012",
+    "rijschool": "Rijschool Kaniwar",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 99,
+    "first_rate": 51,
+    "all_rate": 45
+  },
+  {
+    "row_index": 13,
+    "slug": "school_013",
+    "rijschool": "Autorijschool van Grunderbeek",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 98,
+    "first_rate": 58,
+    "all_rate": 67
+  },
+  {
+    "row_index": 14,
+    "slug": "school_014",
+    "rijschool": "HalimRijschool",
+    "plaats": "VUGHT",
+    "aantal_examens": 97,
+    "first_rate": 24,
+    "all_rate": 31
+  },
+  {
+    "row_index": 15,
+    "slug": "school_015",
+    "rijschool": "Van der Steen t.h.o.d.n. NXXT",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 95,
+    "first_rate": 37,
+    "all_rate": 48
+  },
+  {
+    "row_index": 16,
+    "slug": "school_016",
+    "rijschool": "P. Heins Rijopleidingen",
+    "plaats": "AMMERZODEN",
+    "aantal_examens": 90,
+    "first_rate": 48,
+    "all_rate": 49
+  },
+  {
+    "row_index": 17,
+    "slug": "school_017",
+    "rijschool": "M. van Heugten",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 87,
+    "first_rate": 63,
+    "all_rate": 59
+  },
+  {
+    "row_index": 18,
+    "slug": "school_018",
+    "rijschool": "Autorijschool Van Grootel",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 87,
+    "first_rate": 44,
+    "all_rate": 37
+  },
+  {
+    "row_index": 19,
+    "slug": "school_019",
+    "rijschool": "Autorijschool \"De Parel\"",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 87,
+    "first_rate": 17,
+    "all_rate": 30
+  },
+  {
+    "row_index": 20,
+    "slug": "school_020",
+    "rijschool": "Motorrijles Max",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 86,
+    "first_rate": 54,
+    "all_rate": 43
+  },
+  {
+    "row_index": 21,
+    "slug": "school_021",
+    "rijschool": "Autorijschool Coenen",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 83,
+    "first_rate": 60,
+    "all_rate": 58
+  },
+  {
+    "row_index": 22,
+    "slug": "school_022",
+    "rijschool": "Autorijschool Gertine Kollenburg",
+    "plaats": "ALEM",
+    "aantal_examens": 83,
+    "first_rate": 44,
+    "all_rate": 45
+  },
+  {
+    "row_index": 23,
+    "slug": "school_023",
+    "rijschool": "Sterre Autorijschool",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 83,
+    "first_rate": 34,
+    "all_rate": 43
+  },
+  {
+    "row_index": 24,
+    "slug": "school_024",
+    "rijschool": "Autorijschool Valentina T.H.O.D.N. NXXT",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 82,
+    "first_rate": 49,
+    "all_rate": 59
+  },
+  {
+    "row_index": 25,
+    "slug": "school_025",
+    "rijschool": "Rijschool Azizi",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 80,
+    "first_rate": 35,
+    "all_rate": 40
+  },
+  {
+    "row_index": 26,
+    "slug": "school_026",
+    "rijschool": "Autorijschool Amir",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 79,
+    "first_rate": 69,
+    "all_rate": 53
+  },
+  {
+    "row_index": 27,
+    "slug": "school_027",
+    "rijschool": "Autorijschool Avalon",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 78,
+    "first_rate": 42,
+    "all_rate": 51
+  },
+  {
+    "row_index": 28,
+    "slug": "school_028",
+    "rijschool": "Autorijschool Driss",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 76,
+    "first_rate": 69,
+    "all_rate": 66
+  },
+  {
+    "row_index": 29,
+    "slug": "school_029",
+    "rijschool": "Rijschool Willi Horváth",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 76,
+    "first_rate": 42,
+    "all_rate": 49
+  },
+  {
+    "row_index": 30,
+    "slug": "school_030",
+    "rijschool": "Rij-Nu",
+    "plaats": "VUGHT",
+    "aantal_examens": 75,
+    "first_rate": 49,
+    "all_rate": 59
+  },
+  {
+    "row_index": 31,
+    "slug": "school_031",
+    "rijschool": "J.M. van Eijk",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 74,
+    "first_rate": 58,
+    "all_rate": 61
+  },
+  {
+    "row_index": 32,
+    "slug": "school_032",
+    "rijschool": "Rijschool Erik Brok",
+    "plaats": "HERPT",
+    "aantal_examens": 67,
+    "first_rate": 39,
+    "all_rate": 46
+  },
+  {
+    "row_index": 33,
+    "slug": "school_033",
+    "rijschool": "Autorijschool Reches",
+    "plaats": "VUGHT",
+    "aantal_examens": 67,
+    "first_rate": 23,
+    "all_rate": 30
+  },
+  {
+    "row_index": 34,
+    "slug": "school_034",
+    "rijschool": "Autorijschool Kwaks",
+    "plaats": "NULAND",
+    "aantal_examens": 65,
+    "first_rate": 54,
+    "all_rate": 57
+  },
+  {
+    "row_index": 35,
+    "slug": "school_035",
+    "rijschool": "Autorijschool Heinsman",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 62,
+    "first_rate": 37,
+    "all_rate": 44
+  },
+  {
+    "row_index": 36,
+    "slug": "school_036",
+    "rijschool": "Praktijkfixers",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 62,
+    "first_rate": 41,
+    "all_rate": 44
+  },
+  {
+    "row_index": 37,
+    "slug": "school_037",
+    "rijschool": "Rijschool Ron Veen t.h.o.d.n. NXXT",
+    "plaats": "HEDEL",
+    "aantal_examens": 61,
+    "first_rate": 29,
+    "all_rate": 39
+  },
+  {
+    "row_index": 38,
+    "slug": "school_038",
+    "rijschool": "Autorijschool Marcel van den Heuvel",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 59,
+    "first_rate": 74,
+    "all_rate": 78
+  },
+  {
+    "row_index": 39,
+    "slug": "school_039",
+    "rijschool": "Rob Moggre",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 58,
+    "first_rate": 63,
+    "all_rate": 64
+  },
+  {
+    "row_index": 40,
+    "slug": "school_040",
+    "rijschool": "WeGo academy",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 58,
+    "first_rate": 29,
+    "all_rate": 31
+  },
+  {
+    "row_index": 41,
+    "slug": "school_041",
+    "rijschool": "Autorijschool De Groene Golf",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 56,
+    "first_rate": 44,
+    "all_rate": 48
+  },
+  {
+    "row_index": 42,
+    "slug": "school_042",
+    "rijschool": "Rijschool Guido",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 54,
+    "first_rate": 42,
+    "all_rate": 50
+  },
+  {
+    "row_index": 43,
+    "slug": "school_043",
+    "rijschool": "Autorijschool Nieuwelaar",
+    "plaats": "VUGHT",
+    "aantal_examens": 51,
+    "first_rate": 61,
+    "all_rate": 65
+  },
+  {
+    "row_index": 44,
+    "slug": "school_044",
+    "rijschool": "Rijles Mera",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 51,
+    "first_rate": 65,
+    "all_rate": 59
+  },
+  {
+    "row_index": 45,
+    "slug": "school_045",
+    "rijschool": "Rijschool Henk van Heck",
+    "plaats": "ROSSUM GLD",
+    "aantal_examens": 47,
+    "first_rate": 39,
+    "all_rate": 57
+  },
+  {
+    "row_index": 46,
+    "slug": "school_046",
+    "rijschool": "Auto en Motorrijschool Erik Barella",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 46,
+    "first_rate": 71,
+    "all_rate": 76
+  },
+  {
+    "row_index": 47,
+    "slug": "school_047",
+    "rijschool": "Autorijschool Hans de Ruiter t.h.o.d.n. LesGO",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 46,
+    "first_rate": 42,
+    "all_rate": 59
+  },
+  {
+    "row_index": 48,
+    "slug": "school_048",
+    "rijschool": "rij-correct",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 46,
+    "first_rate": 46,
+    "all_rate": 48
+  },
+  {
+    "row_index": 49,
+    "slug": "school_049",
+    "rijschool": "Autorijschool Driezeeg",
+    "plaats": "BERLICUM NB",
+    "aantal_examens": 45,
+    "first_rate": 32,
+    "all_rate": 49
+  },
+  {
+    "row_index": 50,
+    "slug": "school_050",
+    "rijschool": "Verkeersschool Vlaspoel",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 44,
+    "first_rate": 62,
+    "all_rate": 68
+  },
+  {
+    "row_index": 51,
+    "slug": "school_051",
+    "rijschool": "Time2drive",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 44,
+    "first_rate": 58,
+    "all_rate": 59
+  },
+  {
+    "row_index": 52,
+    "slug": "school_052",
+    "rijschool": "Autorijschool Thomassen",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 42,
+    "first_rate": 55,
+    "all_rate": 60
+  },
+  {
+    "row_index": 53,
+    "slug": "school_053",
+    "rijschool": "Verkeersschool Marc van Hazendonk",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 42,
+    "first_rate": 28,
+    "all_rate": 48
+  },
+  {
+    "row_index": 54,
+    "slug": "school_054",
+    "rijschool": "NRV Autorijschool",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 41,
+    "first_rate": 73,
+    "all_rate": 71
+  },
+  {
+    "row_index": 55,
+    "slug": "school_055",
+    "rijschool": "Rijschool Van Dijk",
+    "plaats": "HEDEL",
+    "aantal_examens": 41,
+    "first_rate": 67,
+    "all_rate": 71
+  },
+  {
+    "row_index": 56,
+    "slug": "school_056",
+    "rijschool": "Rijschool Polman",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 41,
+    "first_rate": 48,
+    "all_rate": 61
+  },
+  {
+    "row_index": 57,
+    "slug": "school_057",
+    "rijschool": "Autorijschool Sam",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 40,
+    "first_rate": 55,
+    "all_rate": 53
+  },
+  {
+    "row_index": 58,
+    "slug": "school_058",
+    "rijschool": "Rijschool van Herwaarden",
+    "plaats": "KERKDRIEL",
+    "aantal_examens": 40,
+    "first_rate": 33,
+    "all_rate": 38
+  },
+  {
+    "row_index": 59,
+    "slug": "school_059",
+    "rijschool": "Rijschool van Venrooij",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 39,
+    "first_rate": 80,
+    "all_rate": 72
+  },
+  {
+    "row_index": 60,
+    "slug": "school_060",
+    "rijschool": "Autorijschool van de Sande",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 39,
+    "first_rate": 63,
+    "all_rate": 59
+  },
+  {
+    "row_index": 61,
+    "slug": "school_061",
+    "rijschool": "Autorijschool de Gier",
+    "plaats": "VUGHT",
+    "aantal_examens": 38,
+    "first_rate": 74,
+    "all_rate": 79
+  },
+  {
+    "row_index": 62,
+    "slug": "school_062",
+    "rijschool": "Autorijschool de Leeuw",
+    "plaats": "VUGHT",
+    "aantal_examens": 38,
+    "first_rate": 53,
+    "all_rate": 53
+  },
+  {
+    "row_index": 63,
+    "slug": "school_063",
+    "rijschool": "Autorijschool Boone",
+    "plaats": "BERLICUM",
+    "aantal_examens": 37,
+    "first_rate": 65,
+    "all_rate": 68
+  },
+  {
+    "row_index": 64,
+    "slug": "school_064",
+    "rijschool": "Autorijschool Wagenaar",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 36,
+    "first_rate": 44,
+    "all_rate": 58
+  },
+  {
+    "row_index": 65,
+    "slug": "school_065",
+    "rijschool": "Rijschool Maximo",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 35,
+    "first_rate": 68,
+    "all_rate": 69
+  },
+  {
+    "row_index": 66,
+    "slug": "school_066",
+    "rijschool": "Anton Snelrijles",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 35,
+    "first_rate": 68,
+    "all_rate": 63
+  },
+  {
+    "row_index": 67,
+    "slug": "school_067",
+    "rijschool": "Frans Kollenburg Autorijschool",
+    "plaats": "ALEM",
+    "aantal_examens": 35,
+    "first_rate": 55,
+    "all_rate": 49
+  },
+  {
+    "row_index": 68,
+    "slug": "school_068",
+    "rijschool": "Autorijschool J.P. Valentijn t.h.o.d.n. NXXT",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 35,
+    "first_rate": 22,
+    "all_rate": 43
+  },
+  {
+    "row_index": 69,
+    "slug": "school_069",
+    "rijschool": "Rijschool Starters",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 35,
+    "first_rate": 35,
+    "all_rate": 37
+  },
+  {
+    "row_index": 70,
+    "slug": "school_070",
+    "rijschool": "Autorijschool Eddy Kok",
+    "plaats": "NIEUWKUIJK",
+    "aantal_examens": 34,
+    "first_rate": 88,
+    "all_rate": 82
+  },
+  {
+    "row_index": 71,
+    "slug": "school_071",
+    "rijschool": "Rijschool OnlyLadies",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 33,
+    "first_rate": 18,
+    "all_rate": 33
+  },
+  {
+    "row_index": 72,
+    "slug": "school_072",
+    "rijschool": "Haarsteegse Autorijschool",
+    "plaats": "HAARSTEEG",
+    "aantal_examens": 32,
+    "first_rate": 67,
+    "all_rate": 59
+  },
+  {
+    "row_index": 73,
+    "slug": "school_073",
+    "rijschool": "Pieters Rijopleidingen",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 31,
+    "first_rate": 72,
+    "all_rate": 71
+  },
+  {
+    "row_index": 74,
+    "slug": "school_074",
+    "rijschool": "Van der Ven Rijopleidingen",
+    "plaats": "HEDEL",
+    "aantal_examens": 31,
+    "first_rate": 72,
+    "all_rate": 71
+  },
+  {
+    "row_index": 75,
+    "slug": "school_075",
+    "rijschool": "Rijschool Stolzenbach",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 31,
+    "first_rate": 50,
+    "all_rate": 45
+  },
+  {
+    "row_index": 76,
+    "slug": "school_076",
+    "rijschool": "Rijschool Asro",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 30,
+    "first_rate": 92,
+    "all_rate": 93
+  },
+  {
+    "row_index": 77,
+    "slug": "school_077",
+    "rijschool": "Rijschool Azeze",
+    "plaats": "VUGHT",
+    "aantal_examens": 30,
+    "first_rate": 21,
+    "all_rate": 30
+  },
+  {
+    "row_index": 78,
+    "slug": "school_078",
+    "rijschool": "Rijschool De Draak",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 29,
+    "first_rate": 75,
+    "all_rate": 76
+  },
+  {
+    "row_index": 79,
+    "slug": "school_079",
+    "rijschool": "Rijschool Arthur",
+    "plaats": "VUGHT",
+    "aantal_examens": 29,
+    "first_rate": 74,
+    "all_rate": 72
+  },
+  {
+    "row_index": 80,
+    "slug": "school_080",
+    "rijschool": "Rijschool Vlijmen",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 29,
+    "first_rate": 53,
+    "all_rate": 55
+  },
+  {
+    "row_index": 81,
+    "slug": "school_081",
+    "rijschool": "Rijschool van de Griendt",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 27,
+    "first_rate": 56,
+    "all_rate": 59
+  },
+  {
+    "row_index": 82,
+    "slug": "school_082",
+    "rijschool": "LEF Rijopleiding",
+    "plaats": "VUGHT",
+    "aantal_examens": 25,
+    "first_rate": 70,
+    "all_rate": 76
+  },
+  {
+    "row_index": 83,
+    "slug": "school_083",
+    "rijschool": "Auto- & Motorrijschool Signaal",
+    "plaats": "VUGHT",
+    "aantal_examens": 25,
+    "first_rate": 56,
+    "all_rate": 64
+  },
+  {
+    "row_index": 84,
+    "slug": "school_084",
+    "rijschool": "Beekwilder autorijlessen",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 24,
+    "first_rate": 84,
+    "all_rate": 83
+  },
+  {
+    "row_index": 85,
+    "slug": "school_085",
+    "rijschool": "Autorijschool Zone073",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 24,
+    "first_rate": 67,
+    "all_rate": 71
+  },
+  {
+    "row_index": 86,
+    "slug": "school_086",
+    "rijschool": "Autorijschool M. Van Boxtel",
+    "plaats": "SINT MICHIELSGESTEL",
+    "aantal_examens": 23,
+    "first_rate": 67,
+    "all_rate": 70
+  },
+  {
+    "row_index": 87,
+    "slug": "school_087",
+    "rijschool": "Autorijschool Van Heugten",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 23,
+    "first_rate": 67,
+    "all_rate": 70
+  },
+  {
+    "row_index": 88,
+    "slug": "school_088",
+    "rijschool": "Autorijschool FMY",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 22,
+    "first_rate": 50,
+    "all_rate": 68
+  },
+  {
+    "row_index": 89,
+    "slug": "school_089",
+    "rijschool": "Rijschool Attent",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 21,
+    "first_rate": 33,
+    "all_rate": 48
+  },
+  {
+    "row_index": 90,
+    "slug": "school_090",
+    "rijschool": "Rijcoach yvon",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 20,
+    "first_rate": 33,
+    "all_rate": 45
+  },
+  {
+    "row_index": 91,
+    "slug": "school_091",
+    "rijschool": "Autorijschool Tarin",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 19,
+    "first_rate": 0,
+    "all_rate": 16
+  },
+  {
+    "row_index": 92,
+    "slug": "school_092",
+    "rijschool": "Rijschool Jan Dekkers",
+    "plaats": "AMMERZODEN",
+    "aantal_examens": 17,
+    "first_rate": 86,
+    "all_rate": 82
+  },
+  {
+    "row_index": 93,
+    "slug": "school_093",
+    "rijschool": "Rijcoach Maasdriel",
+    "plaats": "KERKDRIEL",
+    "aantal_examens": 17,
+    "first_rate": 40,
+    "all_rate": 59
+  },
+  {
+    "row_index": 94,
+    "slug": "school_094",
+    "rijschool": "Autorijschool E. van Weert",
+    "plaats": "NULAND",
+    "aantal_examens": 16,
+    "first_rate": 58,
+    "all_rate": 69
+  },
+  {
+    "row_index": 95,
+    "slug": "school_095",
+    "rijschool": "Autorijschool 119",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 15,
+    "first_rate": 60,
+    "all_rate": 60
+  },
+  {
+    "row_index": 96,
+    "slug": "school_096",
+    "rijschool": "rijschoolGP",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 15,
+    "first_rate": 57,
+    "all_rate": 60
+  },
+  {
+    "row_index": 97,
+    "slug": "school_097",
+    "rijschool": "Autorijschool Sekandary",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 15,
+    "first_rate": 33,
+    "all_rate": 53
+  },
+  {
+    "row_index": 98,
+    "slug": "school_098",
+    "rijschool": "Autorijschool Bert van Doornmalen",
+    "plaats": "AMMERZODEN",
+    "aantal_examens": 14,
+    "first_rate": 78,
+    "all_rate": 64
+  },
+  {
+    "row_index": 99,
+    "slug": "school_099",
+    "rijschool": "Rijschool Eye 4 You",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 14,
+    "first_rate": 50,
+    "all_rate": 57
+  },
+  {
+    "row_index": 100,
+    "slug": "school_100",
+    "rijschool": "AROS Autorijschool",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 14,
+    "first_rate": 33,
+    "all_rate": 21
+  },
+  {
+    "row_index": 101,
+    "slug": "school_101",
+    "rijschool": "Rijschool Hellen",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 12,
+    "first_rate": 25,
+    "all_rate": 25
+  },
+  {
+    "row_index": 102,
+    "slug": "school_102",
+    "rijschool": "Rijschool Sosan",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 11,
+    "first_rate": 25,
+    "all_rate": 36
+  },
+  {
+    "row_index": 103,
+    "slug": "school_103",
+    "rijschool": "Rijschool Story",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 10,
+    "first_rate": 71,
+    "all_rate": 70
+  },
+  {
+    "row_index": 104,
+    "slug": "school_104",
+    "rijschool": "Autorijschool Kentie",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 10,
+    "first_rate": 43,
+    "all_rate": 60
+  },
+  {
+    "row_index": 105,
+    "slug": "school_105",
+    "rijschool": "Autorijschool Zainab",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 10,
+    "first_rate": 40,
+    "all_rate": 40
+  },
+  {
+    "row_index": 106,
+    "slug": "school_106",
+    "rijschool": "Autorijschool John Van Zuijdam",
+    "plaats": "HEDEL",
+    "aantal_examens": 8,
+    "first_rate": 86,
+    "all_rate": 75
+  },
+  {
+    "row_index": 107,
+    "slug": "school_107",
+    "rijschool": "Rijschool Eigen-Wijs",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 8,
+    "first_rate": 40,
+    "all_rate": 63
+  },
+  {
+    "row_index": 108,
+    "slug": "school_108",
+    "rijschool": "Pass2Drive",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 8,
+    "first_rate": 25,
+    "all_rate": 38
+  },
+  {
+    "row_index": 109,
+    "slug": "school_109",
+    "rijschool": "Flex Rijschool",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 6,
+    "first_rate": 0,
+    "all_rate": 50
+  },
+  {
+    "row_index": 110,
+    "slug": "school_110",
+    "rijschool": "Rijschool Pip",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 5,
+    "first_rate": 75,
+    "all_rate": 80
+  },
+  {
+    "row_index": 111,
+    "slug": "school_111",
+    "rijschool": "Toon Lambooij",
+    "plaats": "DEN DUNGEN",
+    "aantal_examens": 5,
+    "first_rate": 50,
+    "all_rate": 60
+  },
+  {
+    "row_index": 112,
+    "slug": "school_112",
+    "rijschool": "Autorijschool Joyce",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 5,
+    "first_rate": 25,
+    "all_rate": 40
+  },
+  {
+    "row_index": 113,
+    "slug": "school_113",
+    "rijschool": "Autorijschool Westelaken t.h.o.d.n. DriveYou",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 5,
+    "first_rate": 25,
+    "all_rate": 40
+  },
+  {
+    "row_index": 114,
+    "slug": "school_114",
+    "rijschool": "Optimum Rijschool 's-Hertogenbosch",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 5,
+    "first_rate": 33,
+    "all_rate": 40
+  },
+  {
+    "row_index": 115,
+    "slug": "school_115",
+    "rijschool": "Verkeersschool Twins",
+    "plaats": "HEDEL",
+    "aantal_examens": 5,
+    "first_rate": 67,
+    "all_rate": 40
+  },
+  {
+    "row_index": 116,
+    "slug": "school_116",
+    "rijschool": "Rij en VerkeersAcademie",
+    "plaats": "BERLICUM",
+    "aantal_examens": 4,
+    "first_rate": 50,
+    "all_rate": 75
+  },
+  {
+    "row_index": 117,
+    "slug": "school_117",
+    "rijschool": "Autorijschool Harri",
+    "plaats": "VLIJMEN",
+    "aantal_examens": 4,
+    "first_rate": 50,
+    "all_rate": 50
+  },
+  {
+    "row_index": 118,
+    "slug": "school_118",
+    "rijschool": "Autorijschool van Heeswijk",
+    "plaats": "SINT-MICHIELSGESTEL",
+    "aantal_examens": 3,
+    "first_rate": 100,
+    "all_rate": 100
+  },
+  {
+    "row_index": 119,
+    "slug": "school_119",
+    "rijschool": "M & S Rijopleidingen en Coaching V.O.F.",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 3,
+    "first_rate": null,
+    "all_rate": 67
+  },
+  {
+    "row_index": 120,
+    "slug": "school_120",
+    "rijschool": "Rijopleiding Rosmalen",
+    "plaats": "ROSMALEN",
+    "aantal_examens": 1,
+    "first_rate": 100,
+    "all_rate": 100
+  },
+  {
+    "row_index": 121,
+    "slug": "school_121",
+    "rijschool": "RijbijSabah.nl",
+    "plaats": "S-HERTOGENBOSCH",
+    "aantal_examens": 1,
+    "first_rate": null,
+    "all_rate": 0
+  }
+]

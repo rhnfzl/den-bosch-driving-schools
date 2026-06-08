@@ -1,0 +1,22 @@
+{
+  "row_index": 101,
+  "slug": "school_101",
+  "rijschool": "Rijschool Hellen",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 8,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "rustige en duidelijke uitleg",
+    "fijne en gezellige lessen",
+    "persoonlijke aanpak en eigen tempo",
+    "vriendelijk en begripvol",
+    "leert veilig rijden",
+    "goede communicatie",
+    "veel leren en zelfvertrouwen",
+    "in één keer geslaagd"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn consequent erg positief over de rustige, vriendelijke en leerzame lessen, met meerdere vermeldingen van in één keer slagen."
+}

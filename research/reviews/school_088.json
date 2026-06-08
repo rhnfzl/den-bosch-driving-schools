@@ -1,0 +1,41 @@
+{
+  "row_index": 88,
+  "slug": "school_088",
+  "rijschool": "Autorijschool FMY",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable review text could be found on any platform for Autorijschool FMY",
+    "klantenvertellen.nl has no page for this school (the verified-review platform returns a different school, Time2drive)",
+    "rijschoolspecialist.nl explicitly shows 'There are no reviews yet' (0 reviews)",
+    "rijschoolbijmij.nl states there are no Google reviews listed and virtually no verifiable online information about this school/address; its 2.0 score is based on lack of verifiable data, not on customer experience",
+    "clickdrive.nl shows a Google review count of 39 but renders a 0,0/5 rating and exposes no review bodies (likely JS-loaded; not retrievable)",
+    "Google Maps returned only a limited/blocked view with no review bodies",
+    "Very small school: only ~12-14 CBR first exams in the measurement period, ~50-64% first-time pass rate"
+  ],
+  "platforms_found": [
+    "clickdrive.nl",
+    "rijschoolspecialist.nl",
+    "rijschoolbijmij.nl",
+    "rijloket.nl",
+    "cbr.nl",
+    "Google Maps (blocked)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-fmy",
+    "https://www.rijschoolspecialist.nl/autorijschool-fmy",
+    "https://www.rijschoolbijmij.nl/rijschool/2252/autorijschool-fmy",
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/autorijschool-fmy-s-hertogenbosch",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-fmy"
+  ],
+  "review_summary": "No verifiable, readable customer review text could be found for Autorijschool FMY on any platform. klantenvertellen.nl has no listing; rijschoolspecialist.nl shows zero reviews; rijschoolbijmij.nl explicitly notes there are no Google reviews and almost no verifiable information online. clickdrive.nl cites a Google review count of 39 but exposes no review bodies and shows a 0,0/5 rating. There is therefore insufficient real review evidence to judge sentiment or authenticity."
+}

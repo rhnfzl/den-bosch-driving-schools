@@ -1,0 +1,69 @@
+{
+  "row_index": 15,
+  "slug": "school_015",
+  "rijschool": "Van der Steen t.h.o.d.n. NXXT",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 55,
+  "english_in_reviews": "unclear",
+  "review_summary": "No location-specific reviews exist for this particular NXXT franchise school (Corne/Augustina van der Steen, Veldpad 19, Den Bosch): Google Places and rijschoolspecialist.nl both show 0 reviews. Only NXXT brand-level (national franchise) reviews are available, which are broadly positive (patient, clear explanation, relaxed atmosphere) but carry recurring negatives about cancelled lessons, instructor lateness/illness/continuity gaps, poor reachability and refund disputes; quality reportedly varies sharply by the specific instructor assigned, so brand reviews cannot be attributed to this school.",
+  "representative_quotes": [
+    "[NXXT brand-level, not this location] Heel fijn, altijd een gezellige sfeer.",
+    "[NXXT brand-level, not this location] Fijne rijlessen en geduldige instructeur!",
+    "[NXXT brand-level, not this location] Ik vond het fijne rijlessen, geduldige instructeur die alles goed uitlegt. Sowieso aanrader!",
+    "[NXXT brand-level, not this location] Ik ben ontzettend tevreden over de rijlessen van Richard iriks. Vanaf het begin stelde hij mij op mijn gemak en zorgde hij voor een fijne en ontspannen sfeer.",
+    "[NXXT brand-level, not this location] Ik heb rijles gehad bij Paul de Jongh en ik heb in 1 keer mijn rijbewijs gehaald met een 30 lessen pakket.",
+    "[NXXT brand-level, not this location] Rob was een rustige en gezellige instructeur. Hij geeft goede uitleg en is heel geduldig. Kan het iedereen aanraden!!",
+    "[NXXT brand-level Trustpilot] Mijn rijinstructrice was Denise, heb echt mega goed les gehad van der, ze legt alles goed uit en duidelijk, zo fijn, en veel geduld, en in een x geslaagd zo blij, dankje wel Denise.",
+    "[NXXT brand-level Trustpilot, 1 ster] Teleurstellend. Tijdens mijn lessen bij N. kwam hij zeer regelmatig te laat. Dit gebeurde meerdere keren, waardoor lessen vaak later begonnen of werden afgezegd.",
+    "[NXXT brand-level Trustpilot, 1 ster] Het te laat komen was structureel en zorgde voor veel frustratie. Zeker gezien de kosten van rijlessen verwacht je dat de instructeur op tijd is.",
+    "[NXXT brand-level summary] Sommige klanten waren ontevreden over de service en de communicatie van het bedrijf, vooral wanneer lessen werden geannuleerd of instructeurs uitvielen.",
+    "[Reddit r/nederlands, prospective NXXT student] Ik heb haar een appje gestuurd... Uiteindelijk niks meer gehoord, en na een week heb ik nog maar eens gevraagd... Nu is er weer een hele week voorbij dat mijn vraag niet beantwoord is.",
+    "[Aggregator note, rijschoolbijmij.nl] De Google Places vermeldt geen reviews; daarom is de beoordeling voornamelijk gebaseerd op externe reviewplatformen en niet op lokale Google-feedback (Google review count = 0)."
+  ],
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "relaxed/pleasant atmosphere",
+    "good with nervous learners",
+    "passed in one go"
+  ],
+  "themes_negative": [
+    "lessons cancelled",
+    "instructor lateness/illness causing continuity gaps",
+    "hard to reach / poor communication",
+    "refund disputes",
+    "quality varies sharply by assigned instructor"
+  ],
+  "red_flags": [
+    "Zero location-specific reviews for this exact school: Google Places = 0 reviews, rijschoolspecialist.nl = 0 reviews",
+    "All available review text is the national NXXT franchise brand aggregate (nxxt.nl 9.3/435; feedbackcompany 9.4/2736; Trustpilot 4.4/~274), not attributable to the Den Bosch Van der Steen instructor",
+    "Brand-level positive reviews name instructors at OTHER locations (Richard Iriks, Paul de Jongh, Rob, Steven, Finus van Overveld, Denise) - none is the Den Bosch Corne/Augustina van der Steen",
+    "NXXT-site/feedbackcompany reviews are solicited and franchise-wide, inflating the headline 9.3-9.4 score",
+    "Independent Trustpilot (4.4, lower) and Reddit show documented negatives on cancellations, reachability and per-instructor variability"
+  ],
+  "platforms_found": [
+    "nxxt.nl (brand site reviews)",
+    "feedbackcompany.com (NXXT brand, 2736 reviews)",
+    "Trustpilot (NXXT brand, ~274 reviews, 4.4/5)",
+    "Google Places (this school: 0 reviews)",
+    "rijschoolspecialist.nl (this school: 0 reviews)",
+    "rijschoolbijmij.nl (aggregator/AI summary)",
+    "Reddit r/nederlands",
+    "CBR / DriveDutch (exam stats only)"
+  ],
+  "sources": [
+    "https://www.nxxt.nl/rijscholen/rijschool-s-hertogenbosch-34",
+    "https://www.nxxt.nl/rijschool-den-bosch",
+    "https://nl-be.trustpilot.com/review/nxxt.nl",
+    "https://nl.trustpilot.com/review/nxxt.nl",
+    "https://www.feedbackcompany.com/nl-nl/reviews/nxxt",
+    "https://www.rijschoolbijmij.nl/rijschool/3276/autorijschool-van-der-steen-thodn-nxxt",
+    "https://www.rijschoolspecialist.nl/van-der-steen-t-h-o-d-n-nxxt",
+    "https://www.reddit.com/r/nederlands/comments/1iunpj8/ervaringen_rijschool_nxxt",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/van-der-steen-t.h.o.d.n.-nxxt"
+  ]
+}

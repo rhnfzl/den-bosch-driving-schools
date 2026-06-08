@@ -1,0 +1,57 @@
+{
+  "row_index": 107,
+  "slug": "school_107",
+  "rijschool": "Rijschool Eigen-Wijs",
+  "review_trust": "moderate",
+  "review_substance": "substantive",
+  "verified_reviews": false,
+  "reviews_read": 5,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "yes",
+  "platforms_found": ["Google (via rijloket.nl per-school page)", "Google (summarized via rijschoolbijmij.nl)", "Facebook (page exists, reviews not readable)"],
+  "sources": [
+    "https://rijloket.nl/rijscholen/vlijmen/rijschool-eigen-wijs-vlijmen",
+    "https://www.rijschoolbijmij.nl/rijschool/742/rijschool-eigen-wijs",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-eigen-wijs",
+    "https://nl.linkedin.com/in/danny-hogedoorn-a447aa2b4",
+    "https://www.rijschooleigen-wijs.nl"
+  ],
+  "representative_quotes": [
+    "I had a great experience learning to drive with Danny at Rijschool Eigen-Wijs. He is not only a calm and patient instructor, but also someone who truly cares about teaching you to drive safely and confidently.",
+    "Every lesson was structured, clear, and focused on making real progress — without unnecessary stress. I always felt supported and encouraged.",
+    "If you're looking for a driving school with a personal approach, great communication, and professional attitude — I highly recommend Eigen-Wijs. Passing the driving exam felt natural thanks to the solid preparation I received. Thank you, Danny!",
+    "Begonnen in november met rijlessen en vandaag mijn rijbewijs gehaald! Ik heb een super fijne ervaring gehad bij rijschool Eigen-Wijs! Voor een hele nette prijs krijg je echt goede begeleiding, duidelijke uitleg en vooral veel geduld.",
+    "Ik heb één herexamen moeten doen, maar dat lag vooral aan mijn eigen paniek door ADHD. Danny wist daar gelukkig heel goed mee om te gaan en gaf me steeds weer vertrouwen.",
+    "Wat het extra bijzonder maakt, is dat Danny eigenlijk vrachtwagenchauffeur is en rijlessen geeft vanuit zijn passie voor autorijden... hij doet het met plezier, neemt de tijd voor je en wil echt dat je slaagt.",
+    "Ik ben erg dankbaar voor mijn ervaring bij Rijschool Eigen-Wijs tijdens het behalen van mijn rijbewijs. Vanaf het begin kreeg ik uitstekende begeleiding, met een persoonlijke en professionele aanpak.",
+    "Ik wil vooral Danny, mijn instructeur, bedanken voor zijn grote inzet, geduld en kennis. Hij legt alles duidelijk uit, altijd met praktische voorbeelden, en zorgt ervoor dat je elk detail begrijpt voordat je verder gaat.",
+    "Dankzij zijn steun en begeleiding voelde ik me altijd zelfverzekerd en heb ik mijn rijbewijs met vertrouwen gehaald. Ik raad deze rijschool absoluut aan aan iedereen die kwaliteit, betrouwbaarheid en resultaat zoekt.",
+    "Ik heb een hele fijne prettig ervaring gehad. Ik waardeer zijn duidelijke uitleg en begeleiding enorm. Is behulpzaam en geduldig tijdens het lessen. Inmiddels ben ik in 1x geslaagd.",
+    "Danny dank je wel voor je goede zorgen en vertrouwen geven.",
+    "Zeker een aanrader voor iedereen die een eerlijke, fijne en betrokken rijschool zoekt."
+  ],
+  "themes_positive": [
+    "patient",
+    "calm",
+    "clear explanation",
+    "good with nervous learners / ADHD",
+    "personal approach",
+    "structured lessons",
+    "builds confidence",
+    "fair price",
+    "passionate instructor",
+    "English-friendly"
+  ],
+  "themes_negative": [
+    "very small / new school (established May 2024)",
+    "low first-time CBR pass rate (40%, 5 exams)"
+  ],
+  "red_flags": [
+    "Only ~4-5 reviews total, all on a single platform (Google); no independent verified platform (klantenvertellen/Trustpilot) exists for this school",
+    "One review (lars van Bommel) had no readable body text",
+    "Small/new school with a thin review base, so the 5-star average rests on very few data points",
+    "All reviews are 5-star with no critical or mixed feedback present to balance the picture"
+  ],
+  "review_summary": "The handful of genuine Google reviews are uniformly glowing and substantive: students praise instructor Danny Hogedoorn as calm, patient and clear, highlight his strong handling of exam nerves and ADHD, his ex-truck-driver passion for driving, structured lessons and fair pricing, with several passing first time (one after a single resit). At least one review is written in English, indicating expat-friendly / English-language lessons, but the total review base is very small and single-platform, so confidence is moderate rather than strong."
+}

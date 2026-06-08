@@ -1,0 +1,33 @@
+{
+  "row_index": 40,
+  "slug": "school_040",
+  "rijschool": "WeGo academy",
+  "plaats": "S-HERTOGENBOSCH",
+  "english_instruction": "likely",
+  "english_confidence": "low",
+  "english_evidence": "WeGo Academy listed with instructor Hikmat Alsabagh, languages 'عربي، هولندي انكليزي' (Arabic, Dutch, English) on the Alrawi Theorie instructor directory.",
+  "english_source": "https://alrawitheorie.nl/en/instructors/3",
+  "transmission": "both",
+  "transmission_source": "https://alrawitheorie.nl/en/instructors/3",
+  "founding_year": null,
+  "founding_year_basis": "unknown",
+  "founding_confidence": "low",
+  "website": null,
+  "phone": "0616053413",
+  "address": "Zwartbroekweg 106",
+  "postcode": "5237KZ",
+  "kvk_number": "96183985",
+  "cbr_rijschoolnummer": "7592X3",
+  "google_rating": 5.0,
+  "review_count": 16,
+  "price_signal": null,
+  "waitlist_signal": null,
+  "notes": "No own website found; listed only on aggregators (clickdrive.nl, educar, alrawitheorie.nl) and CBR. Instructor: Hikmat Alsabagh (email hikmatmaher20@gmail.com). Transmission 'both' per Alrawi Theorie ('غيار عادي واوتومات' = manual + automatic). English is a single weak aggregator signal (no English-language learner reviews found), hence 'likely'/low. Strong signals of a very recently founded school: KvK number 96183985 is in the very high range issued circa 2024-2025, EduCar shows '0 jaar' ervaring, and low CBR volume (21 first exams; prompt notes 58 exams last 12 months) - but no explicit 'sinds YYYY' or stated KvK registration year was found, so founding_year left null rather than guessed. CBR slagingspercentage: Den Bosch 41%, Mierlo 21% (active at Den Bosch and Mierlo exam locations). Google rating 5.0/5 (16 reviews) per clickdrive.nl. Not to be confused with WeGo Carsharing (wegocarsharing.com, Amsterdam) - unrelated entity.",
+  "sources": [
+    "https://www.cbr.nl/nl/service/nl/rijscholen/wego-academy",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/wego-academy-s-hertogenbosch",
+    "https://alrawitheorie.nl/en/instructors/3",
+    "https://www.educarplatform.nl/rijscholen/oss/8379-wego-academy",
+    "https://debesterijscholen.nl/s-hertogenbosch"
+  ]
+}

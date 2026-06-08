@@ -1,0 +1,20 @@
+{
+  "row_index": 67,
+  "slug": "school_067",
+  "rijschool": "Frans Kollenburg Autorijschool",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 2,
+  "sentiment_index": 42,
+  "sentiment": "mixed",
+  "themes_positive": [
+    "goed geregeld"
+  ],
+  "themes_negative": [
+    "gevaarlijk rijgedrag",
+    "onnodig links rijden",
+    "te langzaam rijden",
+    "onprofessionele instructeur"
+  ],
+  "confidence": "medium",
+  "rationale": "De ene review noemt het rijgedrag levensgevaarlijk en onaanvaardbaar, terwijl de andere alleen aangeeft dat alles goed geregeld is."
+}

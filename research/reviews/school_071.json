@@ -1,0 +1,47 @@
+{
+  "row_index": 71,
+  "slug": "school_071",
+  "rijschool": "Rijschool OnlyLadies",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 16,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "review_summary": "Students consistently praise the single female instructor (Rabia) as patient, calm and very clear, and several report passing first time after struggling at other schools; reviews are short Google one-liners but specific enough to read as genuine, all 5-star.",
+  "themes_positive": [
+    "patient instructor",
+    "clear explanation",
+    "safe and relaxed female-only environment",
+    "passed first time",
+    "personal approach / builds confidence",
+    "thinks along with the learner",
+    "good exam tips"
+  ],
+  "themes_negative": [],
+  "representative_quotes": [
+    "Rabia geeft heel fijn les! Ze is heel duidelijk en denkt goed met je mee, over het algemeen ook gewoon een hele lieve vrouw.",
+    "Ik kan rijschool onlyladies echt aanraden! Het is zo fijn om les te krijgen in een veilige en relaxte omgeving. De instructrice is supergeduldig en legt alles heel duidelijk uit.",
+    "Ze geeft je echt vertrouwen tijdens het rijden. Dankzij haar persoonlijke aanpak heb ik mijn rijbewijs gehaald.",
+    "Ik heb super fijne rijlessen gehad van Rabia. Ze geeft ook super fijne uitleg tijdens het rijden.",
+    "Goede ervaring mee gehad en geeft de beste tips die je nodig hebt om te slagen.",
+    "In 1x geslaagd bij Rabia, waren super fijne en leuke lessen!",
+    "Top instructrice! 4 jaar bezig geweest met lessen, bij Rabia binnen half jaar geslaagd! Een vrouw met geduld en duidelijke uitleg!",
+    "In 1x geslaagd bij Rabia. Super fijne lessen gehad. Ze denkt goed mee en doet iedere les haar best.",
+    "Rabia is echt een topvrouw! Hele fijne en duidelijke lessen gehad en ze is super betrokken. Ze heeft hele handige manieren van dingen aanleren en denkt altijd mee wat bij iemand past.",
+    "Geslaagd bij deze rijschool. Gezellige en fijne instructrice met de beste lessen en uitleg.",
+    "Ik heb ontzettend fijne rijlessen gehad van Rabia. Ze gaf altijd duidelijke uitleg en had veel geduld. Daarnaast waren de lessen erg gezellig.",
+    "De fantastisch vrouw leert je super snel alles aan en kun je ook gezellig mee babbelen."
+  ],
+  "red_flags": [
+    "All 22 reviews are 5-star with no negative or mixed feedback, which is unusually uniform",
+    "Reviews are short Google one-liners on a single platform (Google via clickdrive); no independent verified reviews (no klantenvertellen/Trustpilot/Trustoo presence found)",
+    "CBR pass rate is low (18% first-time, 41% retake vs 54% location average) yet no review mentions a failed exam, a mismatch between glowing reviews and official outcomes"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-onlyladies",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-onlyladies",
+    "https://rijschoolonlyladies.nl"
+  ]
+}

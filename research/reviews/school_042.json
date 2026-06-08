@@ -1,0 +1,58 @@
+{
+  "row_index": 42,
+  "slug": "school_042",
+  "rijschool": "Rijschool Guido",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "sentiment": "positive",
+  "sentiment_index": 68,
+  "english_in_reviews": "no",
+  "verified_reviews": false,
+  "reviews_read": 11,
+  "review_summary": "Students describe Guido as a dedicated, patient one-man instructor who tailors lessons to the learner and 'teaches you to really drive, not just pass the CBR exam'; a minority of substantive negative reviews complain about rudeness/'big mouth' and about administrative responsibility (tracking lessons in an expensive package) being left to the learner.",
+  "representative_quotes": [
+    "Guido is de meest bevlogen rijinstructeur die ik heb gehad (ik heb al bij meerdere mensen les gehad ivm verhuizingen). Hij is geduldig, oplettend en weet echt wat goed is voor de leerling. Honderd pro...",
+    "Het was/is even een stukje rijden vanuit onze woonplaats naar Den Bosch - maar is het alleszins de moeite waard geweest! Onze dochter kreeg hele goede 1-op-1 begeleiding - reed gelijk de moeilijke stu...",
+    "Hele fijne deskundig advies en uitleg. Guido leert je meer dan dat je alleen voor het cbr moet weten. Hij leert je echt rijden.",
+    "Zeer goede uitleg tijdens de lessen. Hij kijkt goed naar wat je wel of niet kan en kijkt echt naar wat je nodig hebt.",
+    "Fantastische rijschool. Geeft heel goed uitleg en heeft echt aandacht voor de leerling.",
+    "Guido is de meest bevlogen rijinstructeur die ik heb gehad. Honderd procent aan te raden.",
+    "Ik zou Guido zeker aanraden voor het behalen van je motorrijbewijs!",
+    "Rijschool laat de verantwoordelijkheid bij een minderjarige liggen qua lessen. Wij hadden een pakket gekocht van 2450 euro waarin 24 lessen zaten. Dit moet je dus zelf bijhouden. Instructeur zegt alle...",
+    "Waardeloze rijschool, man is zeer onbeleefd, grote mond"
+  ],
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "personal 1-on-1 attention",
+    "tailored to the learner's needs",
+    "teaches real driving beyond the exam",
+    "dedicated/passionate instructor"
+  ],
+  "themes_negative": [
+    "perceived rudeness / 'big mouth'",
+    "administration left to the learner (lesson tracking)",
+    "expensive prepaid package",
+    "isolated reports of poor manners"
+  ],
+  "red_flags": [
+    "No independent verified-review platform (klantenvertellen/Trustpilot) page exists for this school; all readable bodies are Google reviews plus owner-curated website testimonials.",
+    "Rating count discrepancy across aggregators (drivingschools.directory cites 4.7 with 180 reviews, while clickdrive shows 4.7/38 and rijscholenvergelijken shows 4.2/17), suggesting the 180 figure is inflated/aggregated rather than real Google review count.",
+    "Website testimonials are short, hand-picked and not independently verifiable.",
+    "Most Google review bodies are truncated at source, limiting full-context reading.",
+    "Low review volume overall (~17 readable Google reviews)."
+  ],
+  "platforms_found": [
+    "Google reviews (via rijscholenvergelijken.nl and clickdrive.nl)",
+    "drivingschools.directory",
+    "autorijschooltarieven.nl",
+    "Rijschool Guido website (owner-curated testimonials)"
+  ],
+  "sources": [
+    "https://www.rijscholenvergelijken.nl/rijscholen/rijschool-guido-s-hertogenbosch",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-guido",
+    "https://nl.drivingschools.directory/nl-nl/i/36333-rijschool-den-bosch-speed",
+    "https://www.autorijschooltarieven.nl/rijschool/autors-guido",
+    "https://rijschoolguido.nl"
+  ]
+}

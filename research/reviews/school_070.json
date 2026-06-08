@@ -1,0 +1,34 @@
+{
+  "row_index": 70,
+  "slug": "school_070",
+  "rijschool": "Autorijschool Eddy Kok",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 70,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No verbatim review text could be retrieved on any platform; aggregator pages (Clickdrive, rijlessen.nl, rijloket.nl, EduCar) only expose aggregate star ratings and counts, not the written review bodies.",
+    "No klantenvertellen.nl page exists for this driving school (the only klantenvertellen hit was a different business, painter 'Eddie Kok Schilderwerken BV').",
+    "Google Maps / Google business profile extract returned only map tiles, no review content.",
+    "Aggregate review counts are inconsistent across platforms (Clickdrive 167, rijloket.nl 17, rijlessen.nl 4), so the headline '4.9/5 (167)' could not be cross-verified against any actual review text.",
+    "No Trustpilot, Trustoo or Facebook review content found."
+  ],
+  "verified_reviews_note": "No independent verified-customer reviews (e.g. klantenvertellen) were found for this school.",
+  "review_summary": "No verbatim review text could be retrieved for Autorijschool Eddy Kok on any platform. Aggregator sites report a high Google rating (Clickdrive lists 4.9/5 across 167 reviews; rijloket.nl 5/5 over 17), and CBR data shows strong first-time pass rates (~82-88% at Den Bosch), but none of these sources exposed the actual written reviews, so authenticity and what students specifically say cannot be judged from text.",
+  "sentiment_summary_caveat": "sentiment/sentiment_index reflect only the high aggregate star ratings, NOT any review text, since no review bodies were readable.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/nieuwkuijk/autorijschool-eddy-kok",
+    "https://rijlessen.nl/rijscholen/nieuwkuijk/rijschool-732-autorijschool-eddy-kok",
+    "https://rijloket.nl/rijscholen/vught",
+    "https://www.educarplatform.nl/rijscholen/nieuwkuijk/5976-autorijschool-eddy-kok",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-eddy-kok",
+    "https://www.rijschoolspecialist.nl/autorijschool-eddy-kok",
+    "https://autorijschooleddykok.nl"
+  ]
+}

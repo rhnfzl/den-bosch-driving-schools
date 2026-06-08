@@ -1,0 +1,55 @@
+{
+  "row_index": 87,
+  "slug": "school_087",
+  "rijschool": "Autorijschool Van Heugten",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 10,
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "no",
+  "themes_positive": [
+    "clear explanation",
+    "patient",
+    "structured lessons",
+    "results-oriented / pushes you",
+    "passed first time",
+    "honest / direct feedback",
+    "lets you solve problems yourself",
+    "pleasant atmosphere in the car"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Only ~10 Google reviews on a single platform (no independent/verified klantenvertellen or Trustpilot page found)",
+    "Reviews are mostly short one-to-two line entries",
+    "Name collision risk: a separate business 'Verkeersschool M. van Heugten' (instructor Michael, different KvK/website) has its own large review pool that must NOT be attributed to this school",
+    "Several 5-star reviews dated within the same ~9-11 month window, several from similar first-name/surname patterns (e.g. two 'Demi' entries)"
+  ],
+  "representative_quotes": [
+    "Gestructureerde lessen en een fijn persoon.",
+    "Goed contact tussen leerling en instructeur. Ze laten je de problemen zelf oplossen waardoor je heel veel leert!",
+    "In een keer geslaagd. Super gezellige en goede rijlessen gehad.",
+    "Al met al een super fijne ervaring gehad. Iemand waar je het leuk mee kan hebben, maar die ook eerlijk tegen je is als dat nodig is.",
+    "Hans is een instructeur die heb beste resultaat naar boven haalt, en je altijd pushed om je rijbewijs te halen. Overigens is de rijles auto een fijne en soepele auto.",
+    "Erg veel geduld gehad met mij, fijne ervaringen gehad aan de rijlessen. Erg gedreven om mij te helpen.",
+    "Hans legt alles duidelijk uit en manier van lessen werkt! In 1x geslaagd.",
+    "Hans is een hele gezellige man hij is heel standvastig in de manier van lesgeven wat mij veel heeft geholpen om in een keer te slagen.",
+    "Hans is een fijne duidelijke en gedreven instructeur, hij is vriendelijk en helpt je op weg. Ook gezellig in de leswagen! Ik heb in 1 keer mijn rijbewijs gehaald en mijn zus ook!",
+    "Vorige maand mijn rijbewijs gehaald en wilde even zeggen dat ik heel tevreden ben over de rijlessen van Hans."
+  ],
+  "review_summary": "Across ~10 Google reviews (4.9/5), students consistently praise instructor Hans as patient, clear, structured and results-oriented, with several mentioning they passed first time and that he is honest/direct when needed and lets learners solve problems themselves. No negative reviews surfaced and there is no independent verified-review platform (klantenvertellen/Trustpilot) for this specific school, so trust is moderate rather than strong.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-van-heugten",
+    "https://rijlessen.nl/rijscholen/rosmalen/rijschool-217-autorijschool-van-heugten",
+    "https://www.rijschoolspecialist.nl/autorijschool-van-heugten",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-van-heugten",
+    "https://www.rijschoolvanheugten.nl"
+  ],
+  "platforms_found": [
+    "Google (via clickdrive.nl, 10 reviews, 4.9/5)",
+    "rijlessen.nl (aggregate score 8.9, no individual review text)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "CBR (official pass-rate data, no reviews)"
+  ]
+}

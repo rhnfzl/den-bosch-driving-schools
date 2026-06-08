@@ -1,0 +1,39 @@
+{
+  "row_index": 89,
+  "slug": "school_089",
+  "rijschool": "Rijschool Attent",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 2,
+  "sentiment": "positive",
+  "sentiment_index": 78,
+  "english_in_reviews": "no",
+  "platforms_found": ["Google (via Clickdrive)", "Facebook (rating only, bodies inaccessible)", "DriveDutch (CBR stats only)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vlijmen/rijschool-attent",
+    "https://clickdrive.nl/tr/surucu-kurslari/vlijmen/rijschool-attent",
+    "https://www.rijschoolbijmij.nl/rijschool/680/rijschool-attent",
+    "https://www.attentrijschool.nl/reviews",
+    "https://www.facebook.com/rijschoolattent?locale=nl_NL",
+    "https://www.drivedutch.nl/nl/forum/Rijschool%20Attent/VLIJMEN/504809520000"
+  ],
+  "representative_quotes": [
+    "Fijne en prettige rijschool voor motor rijlessen.",
+    "Uitleg is helder en je steekt er veel van op, de motoren om mee te lessen zijn goed onderhouden en fijn om mee te oefenen.",
+    "Prijskwaliteit verhouding is goed! Goede aanrader om hier motor rijlessen te nemen.",
+    "Duidelijke informatie, goed programma.",
+    "Duidelijke uitleg over cursusprogramma."
+  ],
+  "themes_positive": ["clear explanation", "good with motorcycle lessons", "well-maintained bikes", "good price-quality ratio", "recommended"],
+  "themes_negative": [],
+  "red_flags": [
+    "Only 2 readable Google review bodies total - very small sample",
+    "No independent verified reviews (no klantenvertellen.nl presence)",
+    "Reviews are 3-4 years old; not recent",
+    "Facebook claims '100% aanbevolen (8 beoordelingen)' but review bodies were not accessible to verify",
+    "Easy to confuse with a different, unrelated 'Verkeersschool Attent' in Steenwijk - those reviews were excluded"
+  ],
+  "verified_reviews_note": "No klantenvertellen.nl listing found for this school.",
+  "review_summary": "The handful of readable reviews (2 Google, both 5 stars) are positive and focus on motorcycle lessons: students praise clear explanations, well-maintained bikes, and good price-quality, with one calling it a recommendation. The corpus is too small and old to draw confident conclusions, and there are no independent verified reviews."
+}

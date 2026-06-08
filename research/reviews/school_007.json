@@ -1,0 +1,42 @@
+{
+  "row_index": 7,
+  "slug": "school_007",
+  "rijschool": "Verkeersschool Erico v.d. Broek",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 16,
+  "sentiment": "positive",
+  "sentiment_index": 82,
+  "english_in_reviews": "no",
+  "review_summary": "Students overwhelmingly praise car instructor Franc Jaspar as calm, patient, clear and sociable ('gezellig'), with many reporting passing first time, including learners who had failed repeatedly elsewhere; the main exception is an older 1-star complaint accusing owner Erico of being unprofessional, not honouring appointments and being unreachable, which also openly doubts the Google 5-star reviews.",
+  "platforms_found": ["Google reviews (via clickdrive.nl, rijloket.nl, rijscholenvergelijken.nl)", "rijschoolspecialist.nl"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/verkeersschool-erico-v-d-broek",
+    "https://rijloket.nl/rijscholen/rosmalen/verkeersschool-erico-v-d-broek-rosmalen",
+    "https://www.rijscholenvergelijken.nl/rijscholen/verkeersschool-erico-v-d-broek-rosmalen",
+    "https://www.rijschoolspecialist.nl/verkeersschool-erico-v-d-broek"
+  ],
+  "representative_quotes": [
+    "Vorige week in 1 keer geslaagd! Dankzij de goede lessen van Franc. Hij had veel geduld en heeft altijd zijn best gedaan!",
+    "Ik reed bij Franc en ben elke dag met plezier de auto ingestapt. Franc is een super lieve en geduldige man en voelde me altijd op mijn gemak.",
+    "Ik heb bij Franc hele fijne rijlessen gehad. Hij kon alles duidelijk, beleefd en rustig uitleggen en de lessen waren altijd gezellig!",
+    "Net mijn rijbewijs gehaald. Ben super tevreden over de lessen en het was altijd super gezellig in de auto. Franc doet ook echt zijn best voor je.",
+    "Oprecht zo blij met deze rijschool, ik was al 1,5 jaar bezig en kwam niet verder en zakte telkens. Dit was mijn laatste hoop en beste keuze geweest!",
+    "Franc is een super rustige en duidelijke instructeur, die alles heel goed uitlegt en ervoor zorgt dat je je altijd op je gemak voelt.",
+    "ik had franc als rijinstructeur, ik heb fijne lessen gehad en franc hield altijd rekening met mijn planning en ben in 1 keer voor mijn examen en tussentijdse toets geslaagd!",
+    "Via via deze rijschool aanbevolen gekregen, omdat iedereen franc zo een fijne instructeur vond... het is een toprijschool en heb nooit vervelende ervaringen gehad.",
+    "Wat kan je fijn werken met deze rijschool! Erg meedenkend en Franc heeft altijd zijn best voor mij gedaan.",
+    "Afgelopen week in 1x geslaagd voor mijn rijbewijs, dankzij mijn rijlessen bij franc! Hij blijft rustig en duidelijk maar is ook altijd in voor een geintje.",
+    "Erico is uitermate onprofessioneel en komt afspraken niet na. Eerste les moet nog steeds ingepland worden (onlangs betaald te hebben).",
+    "Erico neemt de telefoon niet meer op en zegt dat hij het te druk heeft om een afspraak in te plannen. Zou dit nooit aan iemand aanraden en trek de vijf sterren reviews op Google sterk in twijfel."
+  ],
+  "themes_positive": ["patient", "clear explanation", "calm", "sociable/gezellig", "good with nervous/struggling learners", "passed first time", "flexible scheduling", "picks you up flexibly"],
+  "themes_negative": ["owner unreachable / hard to reach", "appointments not honoured", "felt unprofessional", "doubts about authenticity of 5-star Google reviews"],
+  "red_flags": [
+    "No independent verified-review platform (klantenvertellen.nl) listing found; almost all reviews are Google reviews which are easier to solicit",
+    "Heavy concentration of short, similar glowing one-liners centred on one instructor (Franc), several themed around 'in 1x geslaagd' and 'gezellig'",
+    "One 1-star reviewer explicitly states the Google 5-star reviews seem doubtful ('trek de vijf sterren reviews op Google sterk in twijfel')",
+    "Praise is almost entirely about car instructor Franc; the owner Erico (motor/aanhanger) is the subject of the one substantive negative review"
+  ]
+}

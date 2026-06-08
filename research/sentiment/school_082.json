@@ -1,0 +1,19 @@
+{
+  "row_index": 82,
+  "slug": "school_082",
+  "rijschool": "LEF Rijopleiding",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 2,
+  "sentiment_index": 92,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "persoonlijke begeleiding",
+    "veilig en op gemak voelen in de auto",
+    "meer zelfvertrouwen",
+    "stap voor stap vooruitgang",
+    "hulp bij faalangst"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "Beide quotes beschrijven zeer positieve ervaringen met rustige, persoonlijke begeleiding waardoor de leerling zich comfortabeler en zelfverzekerder voelde en het rijbewijs behaalde."
+}

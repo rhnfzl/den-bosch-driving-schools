@@ -1,0 +1,33 @@
+{
+  "row_index": 55,
+  "slug": "school_055",
+  "rijschool": "Rijschool Van Dijk",
+  "plaats": "HEDEL",
+  "website": "https://www.rsvd.nl",
+  "phone": "073-599 6666",
+  "address": "A C de Ruijter van Steveninckstraat 18",
+  "postcode": "5321 GK",
+  "kvk_number": "53764641",
+  "cbr_rijschoolnummer": "9160F4",
+  "google_rating": 5.0,
+  "review_count": 14,
+  "price_signal": "€65/uur (60 min); €97,50 (90 min); €130 (120 min)",
+  "waitlist_signal": null,
+  "english_instruction": "unknown",
+  "english_confidence": "low",
+  "english_evidence": null,
+  "english_source": null,
+  "transmission": "both",
+  "transmission_source": "https://www.rsvd.nl?tarieven-auto=",
+  "founding_year": 2011,
+  "founding_year_basis": "kvk",
+  "founding_confidence": "high",
+  "notes": "Full trade name 'Rijschool Angelo van Dijk' (aggregators shorten to 'Rijschool Van Dijk'). Owner-operated VOF, KvK active since 18-10-2011, SBI 4932 (taxi + autorijschool). Instructors Angelo & Anja van Dijk. Offers auto (schakel + automaat), motor (A/A1/A2) and scooter/bromfiets lessons, so motorcycle/scooter capable but car remains core. Also advertises faalangst exam support and rijles bij autisme. Aggregator rijschoolspecialist.nl lists mobile 06-42813142 and a different listed website 'angelovandijk.nl', but the live official site is rsvd.nl. Trustoo shows rating 5,0 over 14 reviews from 2 sources (its own header chip shows 9,0/10). Slagingspercentage 64-65% over 53 exams (rijschoolspecialist / rijschool-tips). Website line 'Meer dan 20 jaar geleden behaalde Angelo zijn rijbewijs' refers to his personal licence, not the school founding. No English-language instruction signal found on any source.",
+  "sources": [
+    "https://www.rijschoolspecialist.nl/rijschool-van-dijk",
+    "https://www.rsvd.nl",
+    "https://www.rsvd.nl?tarieven-auto=",
+    "https://www.rijschool-tips.nl/rijschool/hedel/rijschool-angelo-van-dijk",
+    "https://trustoo.nl/gelderland/hedel/rijschool/rijschool-angelo-van-dijk"
+  ]
+}

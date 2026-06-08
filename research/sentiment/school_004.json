@@ -1,0 +1,22 @@
+{
+  "row_index": 4,
+  "slug": "school_004",
+  "rijschool": "Verkeersschool Bakker V.O.F.",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 93,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "rustige en kalme instructeurs",
+    "geduldige en duidelijke uitleg",
+    "veilig en vertrouwd lesgevoel",
+    "goede begeleiding en planning",
+    "snelle slagingskansen",
+    "vergroten van zelfvertrouwen",
+    "vriendelijk en meedenkend personeel",
+    "comfortabele lesauto's"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem enthousiast over de rustige, geduldige begeleiding, veilige sfeer, goede organisatie en het snel slagen."
+}

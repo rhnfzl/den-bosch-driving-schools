@@ -1,0 +1,50 @@
+{
+  "row_index": 62,
+  "slug": "school_062",
+  "rijschool": "Autorijschool de Leeuw",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Bedankt Johannes! Super goede lessen, erg blij met mijn rijbewijs. (Stijn Sjoerdsma, website testimonial)",
+    "Bedankt voor de leerzame en fijne lessen. (Leon Kuiper, website testimonial)",
+    "Bedankt Johannes. Ook voor het geduld! (Trijntje Vosman, website testimonial)",
+    "Geweldige prestatie, mede dankzij een geweldige instructeur. (Silvana Pruiksma, website testimonial)",
+    "De hele familie Vonk bij rijschool De Leeuw het rijbewijs gehaald. Top Rijschool! (Ronald Vonk, website testimonial)"
+  ],
+  "themes_positive": [
+    "patient",
+    "pleasant/gezellig lessons",
+    "good guidance to exam",
+    "personalised step-by-step approach (per website)"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "No independent or verified reviews exist for the Vught Autorijschool de Leeuw (KvK 51783010, Antoniusstraat 22, Den Bosch exam location); regio-rijschool.nl states 'Geen reviews beschikbaar', autorijschooltarieven.nl has no visitor reviews, EduCar shows only a bare '5.0 (1)' rating with no text.",
+    "No klantenvertellen / Kiyoh / Trustpilot / Google review page with written bodies could be located for this specific school.",
+    "IDENTITY AMBIGUITY: the assigned website deleeuwrijschool.nl publishes self-written testimonials naming instructor 'Johannes de Leeuw' with overwhelmingly Frisian student surnames (van der Meulen, Sjoerdsma, Jellema, Kimsma, Vosman, Pruiksma, Boersma, Kuiper) and matches the separate Leeuwarden 'Autorijschool De Leeuw' (88% pass, rijlessen.nl) - this is very likely a DIFFERENT (Friesland) De Leeuw rijschool, NOT the Vught one. Quotes captured are from this site and are non-independent, unverifiable one-liners; treat with strong caution.",
+    "Do NOT confuse with 'LEEUW Opleidingen' Eindhoven (268-436 reviews, founded 1962, truck/taxi/motor CCV school) - a separate business whose reviews are unrelated to the Vught school.",
+    "Captured quotes are short generic thank-you one-liners ('Bedankt voor de leuke lessen', 'JAAA! Dankjewel') with no exam-day, faalangst, or concrete detail."
+  ],
+  "review_summary": "No credible, identity-confirmed review corpus exists for the Vught Autorijschool de Leeuw: independent aggregators report no reviews, and the only review-like text comes from the assigned website's self-published testimonials, which name instructor 'Johannes de Leeuw' with Frisian student names and almost certainly belong to a different (Friesland) De Leeuw rijschool. Those website one-liners are uniformly grateful but generic ('super goede lessen', 'bedankt voor het geduld'), with no negative or English/expat content found.",
+  "sources": [
+    "http://www.deleeuwrijschool.nl",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-de-leeuw",
+    "https://www.autorijschooltarieven.nl/rijschool/autors-de-leeuw",
+    "https://regio-rijschool.nl/noord-brabant/vught/autorijschool-de-leeuw",
+    "https://www.educarplatform.nl/rijscholen/vlijmen/6583-autorijschool-de-leeuw",
+    "https://rijlessen.nl/rijscholen/leeuwarden/rijschool-3487-autorijschool-de-leeuw"
+  ],
+  "platforms_found": [
+    "own website (deleeuwrijschool.nl - self-published testimonials, likely different Friesland school)",
+    "CBR (statistics only)",
+    "autorijschooltarieven.nl (no visitor reviews)",
+    "regio-rijschool.nl (explicitly: no reviews available)",
+    "EduCar (bare 5.0/1 rating, no text)"
+  ],
+  "verified_reviews_note": false
+}

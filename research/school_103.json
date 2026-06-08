@@ -1,0 +1,30 @@
+{
+  "row_index": 103,
+  "slug": "school_103",
+  "rijschool": "Rijschool Story",
+  "plaats": "ROSMALEN",
+  "website": "https://rijschoolstory.nl",
+  "phone": "06-12121219",
+  "address": "Vliertjeshoeven 4",
+  "postcode": "5244 GT",
+  "kvk_number": "95614095",
+  "cbr_rijschoolnummer": null,
+  "google_rating": null,
+  "review_count": null,
+  "english_instruction": "likely",
+  "english_confidence": "low",
+  "english_evidence": "Instructrice Timara Cirk: 'In Amerika geboren en als kind naar Nederland verhuisd' (born in America, moved to NL as a child) - implies native English ability, but the site never explicitly offers lessons in English.",
+  "english_source": "https://rijschoolstory.nl",
+  "transmission": "manual",
+  "transmission_source": "https://rijschoolstory.nl",
+  "founding_year": null,
+  "founding_year_basis": "unknown",
+  "founding_confidence": "low",
+  "price_signal": "€575 for 10x1hr (€57.50/uur); Plus €750 (10x1.5hr, €50/uur); Premium €1100 (15x1.5hr, €48.89/uur)",
+  "waitlist_signal": null,
+  "notes": "Very small, brand-new one-woman school (sole instructrice Timara Cirk), exclusive to Rosmalen and 's-Hertogenbosch, 'altijd dezelfde instructrice, kwaliteit boven kwantiteit'. Lessons in a manual BMW 116i Executive only (whole site emphasises 'een handbak'/handgeschakeld; no automaat option). Strong signals the school is very new (KvK 95614095 is a 2024/2025-range number; instructrice decided in 2023 to become an instructor; website copyright SYNVENT 2025), but no explicit founding year ('sinds YYYY') found, so founding_year left null. No external profile found on clickdrive.nl, klantenvertellen.nl or Google reviews; only 9 short first-name Dutch testimonials on own site (not a verifiable rating). English instruction inferred only from the American-born instructor; the entire site and all testimonials are in Dutch and no English lessons are explicitly advertised. CBR rijschoolnummer not shown on iTheorie listing (field blank). Only 10 CBR exams in last 12 months, consistent with a tiny new operation.",
+  "sources": [
+    "https://rijschoolstory.nl",
+    "https://itheorie.nl/rijschoolgegevens/95614095-rijschool-story"
+  ]
+}

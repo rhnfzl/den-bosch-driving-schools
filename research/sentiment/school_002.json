@@ -1,0 +1,22 @@
+{
+  "row_index": 2,
+  "slug": "school_002",
+  "rijschool": "Rijschool Inseen",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "vriendelijke en geduldige instructeurs",
+    "duidelijke en nuttige uitleg",
+    "professionele en leerzame lessen",
+    "gezellige en ontspannen sfeer",
+    "persoonlijke begeleiding en meedenken",
+    "snel slagen / in één keer gehaald",
+    "goede service",
+    "geschikt voor kleinere rijders"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes prijzen de rijschool consequent om de vriendelijke, geduldige en professionele begeleiding, met veel verwijzingen naar leerzame, gezellige lessen en het in één keer slagen."
+}

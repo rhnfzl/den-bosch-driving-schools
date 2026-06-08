@@ -1,0 +1,22 @@
+{
+  "row_index": 26,
+  "slug": "school_026",
+  "rijschool": "Autorijschool Amir",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldig en rustig lesgeven",
+    "duidelijke uitleg en praktische tips",
+    "neemt de tijd en geeft persoonlijke begeleiding",
+    "bouwt zelfvertrouwen op bij zenuwen/rijangst",
+    "goede voorbereiding op examen en hoge slaagkans",
+    "stipt en prettige auto",
+    "scherpe prijs",
+    "ervaring en meedenken"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over Amir’s geduld, duidelijke en persoonlijke begeleiding, en meerdere leerlingen noemen dat zij door zijn lessen slaagden, vaak ondanks zenuwen of eerdere mislukte pogingen."
+}

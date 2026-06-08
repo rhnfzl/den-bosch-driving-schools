@@ -1,0 +1,39 @@
+{
+  "row_index": 75,
+  "slug": "school_075",
+  "rijschool": "Rijschool Stolzenbach",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "review_summary": "No readable customer review text could be found for Rijschool Stolzenbach on any platform. Multiple aggregators explicitly show zero reviews (rijscholen-gids.nl: 'heeft nog geen beoordelingen'; rijschoolspecialist.nl: 'There are no reviews yet'). It is a one-person school (owner/instructor Jack Stolzenbach) with low review visibility; only CBR exam statistics exist (pass rate ~45-52%, ~21 exams).",
+  "platforms_found": [
+    "rijscholen-gids.nl (0 reviews)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "CBR.nl (exam stats only, no text)",
+    "DriveDutch (exam stats only, no text)",
+    "LinkedIn / Facebook (owner profile, not customer reviews)"
+  ],
+  "sources": [
+    "https://rijscholen-gids.nl/s-hertogenbosch/rijschool-stolzenbach",
+    "https://www.rijschoolspecialist.nl/rijschool-stolzenbach",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-stolzenbach",
+    "https://www.drivedutch.nl/forum/Rijschool%20Stolzenbach/%27S-HERTOGENBOSCH/638282860000",
+    "https://nl.linkedin.com/in/jack-stolzenbach-8323b566"
+  ],
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No customer reviews found on any review platform (klantenvertellen, Google, Trustpilot, rijscholen-gids, rijschoolspecialist all show zero text reviews)",
+    "Not listed on klantenvertellen.nl (no independent verified reviews)",
+    "Single-instructor sole proprietorship with minimal online review footprint",
+    "Below-average CBR first-exam pass rate (~45-50%) versus the Den Bosch location average of ~54%",
+    "Easy to confuse with similarly named but unrelated schools (Autorijschool Jack Hopmans, Time2Drive) that DO have reviews -- those reviews are NOT for this school"
+  ],
+  "english_in_reviews_note": "No reviews exist for this school, so there is no evidence about English-language lessons or expat learners."
+}

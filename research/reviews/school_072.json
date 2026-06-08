@@ -1,0 +1,34 @@
+{
+  "row_index": 72,
+  "slug": "school_072",
+  "rijschool": "Haarsteegse Autorijschool",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "no",
+  "verified_reviews": false,
+  "reviews_read": 2,
+  "representative_quotes": [
+    "Excuus voor eerder gedrag, vijf sterren! Sorry Cees dat ik je staande hield gisteren, mijn excuus daar voor. Ik realiseer me nu dat het helemaal niet aan mij is om tegen jou te zeggen dat mij rechts inhalen via de uitvoegstrook met meer dan de maximum toegestane snelheid langs wegwerkers voor niemand prettig is. Om het goed te maken krijg je daar vijf sterren voor! (Leon de Swart, 8 jaar geleden)",
+    "Geen beschrijving (John Van Limpt, 5/5, 4 jaar geleden — geen review-tekst)"
+  ],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "Only 2 Google reviews exist for this specific school (Cees de Vaan / ceesdevaan.nl); no klantenvertellen, Trustpilot, or other platform reviews found.",
+    "Of the 2 reviews, only 1 has any text, and that text is NOT a genuine customer/student review: it is a sarcastic 5-star 'review' from a road user apologizing for a traffic incident with the instructor, with ironic intent. It says nothing about lessons, teaching quality or being a pupil.",
+    "The other review (John Van Limpt) has no body text at all ('Geen beschrijving') — just a 5-star rating.",
+    "Easy to confuse with the much larger, unrelated 'Kees de Vaan Opleidingen BV' (keesdevaan.nl, 1416 klantenvertellen reviews) — those reviews are NOT for this school and were excluded.",
+    "Zero readable, substantive student reviews; 5.0/5 average is based on only 2 ratings and is not meaningful."
+  ],
+  "platforms_found": ["Google (2 reviews, via clickdrive.nl)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/haarsteeg/haarsteegse-autorijschool",
+    "https://www.educarplatform.nl/rijscholen/haarsteeg/5987-haarsteegse-autorijschool",
+    "https://vindjerijschool.nl/rijscholen/haarsteeg/haarsteegse-autorijschool",
+    "https://www.rijschoolbijmij.nl/rijschool/715/haarsteegse-autorijschool",
+    "https://ceesdevaan.nl"
+  ],
+  "review_summary": "There is essentially no genuine student-review content for this one-person school: only 2 Google reviews exist, one with no text and one that is a tongue-in-cheek 5-star 'review' from a road user about a traffic encounter (not a lesson). No verified or substantive customer reviews could be found, so review quality and student experience cannot be judged from the text."
+}

@@ -1,0 +1,17 @@
+{
+  "row_index": 54,
+  "slug": "school_054",
+  "rijschool": "NRV Autorijschool",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 1,
+  "sentiment_index": 5,
+  "sentiment": "very_negative",
+  "themes_positive": [],
+  "themes_negative": [
+    "onvriendelijk personeel",
+    "onrespectvol gedrag",
+    "slechte instructie/lesgeven"
+  ],
+  "confidence": "high",
+  "rationale": "De enige quote noemt de mensen akelig, onvriendelijk en onrespectvol, ook los van het instructie geven."
+}

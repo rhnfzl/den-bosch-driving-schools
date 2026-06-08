@@ -1,0 +1,19 @@
+{
+  "row_index": 3,
+  "slug": "school_003",
+  "rijschool": "Rijschool Masto",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 3,
+  "sentiment_index": 5,
+  "sentiment": "very_negative",
+  "themes_positive": [],
+  "themes_negative": [
+    "slechte coach",
+    "grote teleurstelling",
+    "minutendief",
+    "onrespectvolle communicatie",
+    "gebrekkige begeleiding"
+  ],
+  "confidence": "high",
+  "rationale": "De quotes zijn sterk negatief en noemen de coach een grote teleurstelling, een minutendief en slecht in de omgang met studenten."
+}

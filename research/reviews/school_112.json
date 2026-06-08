@@ -1,0 +1,42 @@
+{
+  "row_index": 112,
+  "slug": "school_112",
+  "rijschool": "Autorijschool Joyce",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No genuine, attributable review text found for this specific school on any credible platform (klantenvertellen.nl, clickdrive.nl, rijschoolspecialist.nl, CBR.nl all show 0 reviews).",
+    "rijloket.nl displays '5.0 (190 reviews)' but the review bodies shown are cross-contaminated from a DIFFERENT school (Rijschool Inseen - reviewer explicitly writes 'Thank you, Inseen team'); the 190-count and text are not attributable to Autorijschool Joyce.",
+    "autorijschoolgooijer.nl reviews praising an instructor named 'Joyce' belong to Rijschool Gooijer (a different business), not Autorijschool Joyce in Den Bosch.",
+    "Very small school: only ~5 CBR exams in the last 4 quarters (single instructor Joyce van Neerbos), so a thin review footprint is expected.",
+    "CBR first-time pass rate is low (25%, 4 exams) though overall 40% - too few data points to be meaningful."
+  ],
+  "sources": [
+    "https://www.rijschoolspecialist.nl/autorijschool-joyce",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-joyce",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-joyce",
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/autorijschool-joyce-s-hertogenbosch",
+    "https://vindjerijschool.nl/rijscholen/s-hertogenbosch/autorijschool-joyce",
+    "https://www.drivedutch.nl/forum/Autorijschool%20Joyce/'S-HERTOGENBOSCH/54589150",
+    "https://www.autorijschooljoyce.nl",
+    "https://www.rijles-en-autisme.nl/provincie/noord-brabant"
+  ],
+  "platforms_found": [
+    "rijschoolspecialist.nl (0 reviews)",
+    "clickdrive.nl (0 reviews)",
+    "CBR.nl (exam stats only, no reviews)",
+    "rijloket.nl (claims 190 reviews but text is contaminated from Rijschool Inseen)",
+    "vindjerijschool.nl (CBR stats only)",
+    "drivedutch.nl (CBR ranking only)"
+  ],
+  "english_in_reviews_note": "unclear - no genuine reviews to read; school markets to Dutch learners (jongeren, ouderen, hoogopgeleiden, dyslexie, faalangst, autisme/ADHD) and there is no evidence of English-language instruction or expat learners.",
+  "review_summary": "No authentic, attributable customer reviews could be located for Autorijschool Joyce (Den Bosch). All credible review aggregators show zero reviews; the single source claiming a 5.0/190-review rating (rijloket.nl) is showing review text from a different school (Rijschool Inseen), and other 'Joyce' praise online belongs to the unrelated Rijschool Gooijer. The school is a very small, one-instructor operation (Joyce van Neerbos) specializing in automatic-transmission lessons and learners with faalangst, autism/ADHD and dyslexia, but its reputation cannot be judged from review content."
+}

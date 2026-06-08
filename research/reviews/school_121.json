@@ -1,0 +1,38 @@
+{
+  "row_index": 121,
+  "slug": "school_121",
+  "rijschool": "RijbijSabah.nl",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No customer reviews found on any platform (klantenvertellen, Google/clickdrive, Trustpilot, Facebook, directory aggregators)",
+    "clickdrive.nl explicitly shows 0.0/5 (0 reviews); rijscholen-gids.nl states 'Dit bedrijf heeft nog geen beoordelingen'",
+    "Only available descriptive text is self-authored marketing copy, not customer reviews",
+    "Small one-person eenmanszaak founded 30-09-2021, likely very low review volume"
+  ],
+  "platforms_found": [
+    "clickdrive.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)",
+    "educarplatform.nl (listing, no reviews)",
+    "rijschoolspecialist.nl (listing, no reviews)",
+    "rijbijsabah.nl (own site, marketing copy only)"
+  ],
+  "english_in_reviews_note": "School's own site and directory listings state lessons are available in English and Moroccan/Berber, but this is marketing copy, not review evidence of expat learners.",
+  "review_summary": "No genuine customer reviews could be found for RijbijSabah.nl on any platform; every aggregator that lists the school (clickdrive, rijscholen-gids, educar) shows zero ratings, and no review bodies exist on klantenvertellen, Google, Trustpilot, or Facebook. The only text available is self-authored marketing copy describing instructor Sabah as patient, certified for fear-of-failure (faalangst) exam coaching, and offering lessons in English and Moroccan/Berber. There is no review evidence to judge authenticity or sentiment.",
+  "sources": [
+    "https://clickdrive.nl/en/driving-schools/s-hertogenbosch/rijbijsabah-nl",
+    "https://rijscholen-gids.nl/s-hertogenbosch/rijbijsabah-nl",
+    "https://www.educarplatform.nl/rijscholen/well/5951-rijbijsabah-nl",
+    "https://www.rijschoolspecialist.nl/rijschool-ron-den-besten",
+    "https://www.rijbijsabah.nl",
+    "https://www.rijbijsabah.nl/onze-contactgegevens-en-social-media"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "row_index": 45,
+  "slug": "school_045",
+  "rijschool": "Rijschool Henk van Heck",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 1,
+  "sentiment": "positive",
+  "sentiment_index": 78,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Hele fijne rijinstructeur die kijkt en luistert naar je behoeften. Goed in het geven van feedback en altijd gezellige ritjes gehad!"
+  ],
+  "themes_positive": [
+    "listens to needs",
+    "good feedback",
+    "pleasant atmosphere"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Only 1 readable review across all platforms (single Google review)",
+    "No klantenvertellen / verified reviews exist for this school",
+    "Rijschoolspecialist.nl and Autorijschooltarieven.nl both show 0 reviews",
+    "Small single-instructor school active since 2022; insufficient review volume to judge consistency"
+  ],
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl, educarplatform.nl)",
+    "Rijschoolspecialist.nl (0 reviews)",
+    "Autorijschooltarieven.nl (0 reviews)",
+    "DriveDutch.nl (no written reviews, CBR stats only)",
+    "Facebook (page exists, no reviews retrieved)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rossum/rijschool-henk-van-heck",
+    "https://www.educarplatform.nl/rijscholen/ophemert/5697-rijschool-henk-van-heck",
+    "https://www.rijschoolspecialist.nl/rijschool-henk-van-heck",
+    "https://www.autorijschooltarieven.nl/rijschool/rs-henk-van-heck",
+    "https://www.drivedutch.nl/nl/forum/Rijschool%20Henk%20van%20Heck/ROSSUM%20GLD/856518850000",
+    "https://www.rijschoolbijmij.nl/rijschool/728/rijschool-henk-van-heck"
+  ],
+  "review_summary": "Only one genuine review exists for this small single-instructor school (a 5-star Google review). It praises Henk as an attentive instructor who listens to the learner's needs, gives good feedback, and creates a pleasant atmosphere. With just one readable review and no verified (klantenvertellen) reviews, there is far too little evidence to judge authenticity or reliability."
+}

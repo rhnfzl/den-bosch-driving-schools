@@ -1,0 +1,55 @@
+{
+  "row_index": 50,
+  "slug": "school_050",
+  "rijschool": "Verkeersschool Vlaspoel",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 14,
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "no",
+  "review_summary": "Students consistently describe owner-instructor Jean-Paul ('JP') Vlaspoel as relaxed, good at putting nervous learners at ease, and effective at exam preparation, with many reporting passing on the first attempt; one detailed review specifically recommends him for people with test anxiety (faalangst).",
+  "representative_quotes": [
+    "Uitstekende rij-instructeur! Jean-Paul weet bij iedere leerling de juiste toon te gebruiken en snaar te raken; daarom ook absoluut een aanrader voor mensen met faalangst-issues.",
+    "Hele goede rijinstructeur, stelde mij gelijk op men gemak vanaf de eerste rijles. Altijd een leuke sfeer in de auto. Hij heeft er voor gezorgd dat ik meer zelf vertrouwen kreeg en stelde mij op men gemak voor het examen. Ben in een keer geslaagd.",
+    "Prima sfeer in de auto waardoor je je volledig op je gemak voelt. Goede uitleg van verkeerssituaties en het toepassen hiervan op de openbare weg leiden tot een optimale voorbereiding van je praktijkexamen.",
+    "Bij de selectie van de uiteindelijke rijschool voor mijn zoon reageerde Vlaspoel op een manier, zoals ik die verwacht: plezierig, ter zake, en geen vrijblijvendheid. De heer Vlaspoel denkt tijdens het gehele opleidingstraject met je mee, denkt in oplossingen. Hij heeft mijn zoon vertrouwen gegeven, waardoor hij de eerste keer met succes voor het praktijkexamen is geslaagd.",
+    "JP is een hele fijne instructeur waarmee je tijdens de les makkelijk kan praten over van alles en nog wat, maar die op de momenten dat het nodig is er voor kan zorgen je je concentreert. Ik heb mijn rijbewijs in 1 keer gehaald. Dankjewel JP!!",
+    "Heb een hele gezellige tijd gehad met JP in de auto! In een keer geslaagd! Vanaf het begin af aan ben ik goed geholpen door JP.",
+    "Gelest bij de heer Vlaspoel, in één keer geslaagd. Kan goed lesgeven en ook ruimte om samen te lachen in de auto. Goeie rijschool!",
+    "Goede rijles, geen saaie bedoeling! In één keer geslaagd door JP!",
+    "Fijne rijschool en leert je zelfverzekerd met veel vertrouwen de weg op gaan! In 1x geslaagd en heel erg blij mee! Zeker een aanrader. Ook erg flexibel en meedenkend als het gaat om rijlessen inplannen!",
+    "Fijne rijinstructeur die goede en inhoudelijke lessen geeft. Ook is ruimte voor een grapje.",
+    "Super rijschool! Alles in 1 keer weten te halen. Had geen andere rij instructeur willen hebben!!",
+    "Fijne en gezellige lessen en in één keer geslaagd!"
+  ],
+  "themes_positive": [
+    "puts nervous learners at ease",
+    "good with test anxiety (faalangst)",
+    "relaxed/pleasant atmosphere in the car",
+    "clear explanation of traffic situations",
+    "strong exam preparation / confidence on exam day",
+    "many pass first time",
+    "flexible scheduling",
+    "personal attention / fixed instructor"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Single-platform corpus: essentially all readable reviews are Google Maps; no independent verified reviews (klantenvertellen/Kiyoh), no Trustpilot or Facebook reviews found.",
+    "Several reviews are short, formulaic one-liners centred on 'in een keer geslaagd' (passed first time), which lowers individual substance even though a few are detailed.",
+    "Aggregator-reported Google rating/count is inconsistent across sites (clickdrive shows 4.6/14, rijscholenvergelijken/rijloket show 4.9/48-54), suggesting partial scraping rather than a stable picture.",
+    "A 2017 forum post by a parent (Edwin de Rouw) claims repeated negative experiences with this school that a comparison site would not publish; not a verifiable review but indicates at least one historical dissatisfied customer."
+  ],
+  "platforms_found": [
+    "Google Maps (via clickdrive.nl, rijscholenvergelijken.nl, rijloket.nl)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/verkeersschool-vlaspoel",
+    "https://clickdrive.nl/es/autoescuelas/rosmalen/verkeersschool-vlaspoel",
+    "https://www.rijscholenvergelijken.nl/rijscholen/verkeersschool-vlaspoel-rosmalen",
+    "https://rijloket.nl/rijscholen/rosmalen/verkeersschool-vlaspoel-rosmalen",
+    "https://www.rijschoolbijmij.nl/rijschool/729/rijschool-vlaspoel",
+    "https://radar-forum.avrotros.nl/rijscholen-f77/rijschoolvergelijker-nl-t171215.html"
+  ]
+}

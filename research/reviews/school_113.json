@@ -1,0 +1,58 @@
+{
+  "row_index": 113,
+  "slug": "school_113",
+  "rijschool": "Autorijschool Westelaken t.h.o.d.n. DriveYou",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": true,
+  "reviews_read": 14,
+  "sentiment": "positive",
+  "sentiment_index": 80,
+  "english_in_reviews": "no",
+  "review_summary": "Students describe a calm, patient instructor (Christian Westelaken at this Vlijmen/Den Bosch location), clear explanations, flexible lesson planning and many passing first time; the reviews are positive but most are pooled under the national DriveYOU brand profile rather than this specific franchise, and a stray negative warns of feeling 'like a number' and a low pass rate.",
+  "themes_positive": [
+    "patient / calm instructor",
+    "clear explanation",
+    "good with nervous learners / builds confidence",
+    "flexible planning",
+    "passed first time",
+    "friendly / relaxed atmosphere"
+  ],
+  "themes_negative": [
+    "feeling like a number",
+    "low pass rate",
+    "pushy about booking a trial lesson"
+  ],
+  "red_flags": [
+    "klantenvertellen and Trustoo profiles are brand/network-wide (2,500+ / 808 reviews spanning DriveYOU franchises across the whole of NL: Heerenveen, Amsterdam, Leeuwarden, Venlo, Heerhugowaard, etc.), so most reviews are NOT about this Vlijmen/Den Bosch location",
+    "only a handful of reviews map specifically to this location / instructor Christian Westelaken",
+    "many short generic one-liners (Het was Top, Goed) typical of solicited post-pass reviews",
+    "brand-level pass rate cited as low (~39%) on rijschoolspecialist, and one explicit negative review there"
+  ],
+  "representative_quotes": [
+    "Mijn rij instructeur was Christian Westelaken. Een rustige instructeur met veel geduld. Bleef tijdens de lessen altijd kalm en ondersteunde mij op de plakken waar dat meer nodig was. Zeker een aanrader!",
+    "Mijn lessen bij Christian waren altijd fijn. Hij legt alles rustig uit en is geduldig.",
+    "Esther leert je op je eigen tempo rijden. Zonder stress en gehaast. Een goede babbel en je wordt alleen gecorrigeerd waar nodig, zonder zinloze ingrepen. Al met al en hele fijne ervaring.",
+    "Else is een hele fijne rij instructrice en legt alles rustig uit. Ook als je zelf het vertrouwen even niet meer hebt, zorgt Else ervoor dat je die wel weer krijgt.",
+    "Ik ben vandaag geslaagd voor mijn B examen, met dank aan drive you, de instucteur was Erik van lohuizen. Ik voelde me echt heel fijn in de auto bij hem, lekker rustig rijden, goeie tips.",
+    "Ik heb mijn lessen bij Pim Valken gevolgd. Super fijne aardige gast die mij alles netjes en duidelijk heeft uitgelegd. Erg flexibel en begrijpend in het plannen van lessen.",
+    "Nadat mijn rijschool stopte hier alles erg snel kunnen regelen! Zeer vriendelijke en rustgevende instructeur. Zeker een aanrader.",
+    "Elke rijles was gezellig, maar tevens ook zeer leerzaam. Alles werd rustig uitgelegd en er was altijd ruimte voor vragen, zowel via whatsapp en in het echt.",
+    "Snel proefles. Lesstijl rijinstructeur sluit perfect aan op mijn leerstijl.",
+    "Vloeiend - Fijne en duidelijk communicatie gegarandeerd.",
+    "Het was Top",
+    "Gewoon een rijschool waarbij je een nummertje bent. Ze doen alles om een proefles in te plannen. Ga hier aub niet lessen. Ze hebben een zeer lage slagingspercentage"
+  ],
+  "platforms_found": [
+    "klantenvertellen.nl",
+    "Trustoo.nl",
+    "rijschoolspecialist.nl",
+    "driveyou.nl"
+  ],
+  "sources": [
+    "https://www.klantenvertellen.nl/reviews/1075875/driveyou",
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/autorijschool-westelaken-thodn-driveyou",
+    "https://www.rijschoolspecialist.nl/driveyou",
+    "https://www.driveyou.nl/rijschool/vlijmen"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "row_index": 90,
+  "slug": "school_090",
+  "rijschool": "Rijcoach yvon",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 1,
+  "sentiment": "positive",
+  "sentiment_index": 72,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Ik ben vorig jaar begonnen bij een andere rijschool waar mijn zelfvertrouwen in de auto helemaal weg was door de manier van lesgeven.",
+    "Nadat ik veel te vroeg op examen werd gestuurd (en hem uiteraard niet heb gehaald) ben ik bij Yvon terechtgekomen. Beste keuze die ik kon maken!",
+    "In een paar maanden tijd heeft ze mij veel geleerd en voornamelijk te geloven in mezelf.",
+    "Bedankt voor alles Yvon. Dankzij jou stap ik nu vol zelfvertrouwen in de auto met m'n roze pasje op zak!"
+  ],
+  "themes_positive": [
+    "good with nervous learners",
+    "builds confidence",
+    "patient",
+    "personal approach",
+    "faalangst support"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "No klantenvertellen.nl page exists for this school (no independent verified reviews)",
+    "clickdrive.nl shows 0.0/5 (0 reviews) on both NL and EN profiles",
+    "Google Maps business listing has no written reviews and no star rating",
+    "No Trustpilot / Trustoo / Facebook review presence found",
+    "Website 'Wat mensen vinden' section is padded with social-media congratulations about her new lesson car and logo (e.g. 'Super mooie auto', 'Vette bak hoor!', 'Veel succes Yvon') from friends/acquaintances, not actual lesson reviews",
+    "Only ONE genuine student testimonial (Kim van der Cingel) found across all platforms, displayed only on the school's own website (not independently verifiable)"
+  ],
+  "sources": [
+    "https://www.rijcoachyvon.nl",
+    "https://clickdrive.nl/rijscholen/rosmalen/rijcoach-yvon",
+    "https://clickdrive.nl/en/driving-schools/rosmalen/rijcoach-yvon",
+    "https://www.rijscholenvergelijken.nl/rijscholen/rijcoach-yvon-s-hertogenbosch",
+    "https://vindjerijschool.nl/rijscholen/s-hertogenbosch/rijcoach-yvon",
+    "https://www.google.com/maps/search/Rijcoach+Yvon+'s-Hertogenbosch",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijcoach-yvon"
+  ],
+  "review_summary": "Almost no real customer reviews exist for Rijcoach Yvon: klantenvertellen, Trustpilot and the Google Maps profile carry no written reviews, and clickdrive lists 0 reviews. The only genuine student testimonial (one person, on the school's own site) is strongly positive, praising Yvon for rebuilding her confidence and her step-by-step, faalangst-friendly approach after a bad experience at a previous school. The website's 'reviews' section is otherwise filled with social-media congratulations about Yvon's new lesson car and logo, not lesson feedback.",
+  "platforms_found": [
+    "official website testimonials (rijcoachyvon.nl)",
+    "clickdrive.nl (0 reviews)",
+    "Google Maps listing (no written reviews)"
+  ]
+}

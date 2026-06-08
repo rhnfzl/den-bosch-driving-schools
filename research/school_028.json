@@ -1,0 +1,33 @@
+{
+  "row_index": 28,
+  "slug": "school_028",
+  "rijschool": "Autorijschool Driss",
+  "plaats": "S-HERTOGENBOSCH",
+  "website": "https://rijschooldriss.nl",
+  "phone": null,
+  "address": "Lagemorgenlaan 16",
+  "postcode": "5223HW",
+  "kvk_number": "171981080000",
+  "cbr_rijschoolnummer": "4161U8",
+  "english_instruction": "unknown",
+  "english_confidence": "low",
+  "english_evidence": null,
+  "english_source": null,
+  "transmission": "unknown",
+  "transmission_source": null,
+  "founding_year": 2008,
+  "founding_year_basis": "website",
+  "founding_confidence": "high",
+  "google_rating": 5.0,
+  "review_count": 1,
+  "price_signal": null,
+  "waitlist_signal": null,
+  "notes": "Founding year 2008 confirmed by explicit 'sinds 2008' on own website (rijschooldriss.nl) and clickdrive.nl; website also says 'al 12 jaar' (page text appears to date from ~2020). Aggregators state '19 jaar werkzaam' (rijschool-tips.nl) and '20 jaar ervaring' (clickdrive.nl), roughly consistent with 2007-2008 start; treated 'sinds 2008' as authoritative. Only license category B confirmed (clickdrive.nl); no automaat/schakel statement found anywhere, so transmission left unknown (lesauto shown is a VW Golf 7 on the website, not conclusive). No English-language instruction evidence for Driss specifically; English learner reviews found in search results belonged to other schools (Inseen, Joyce), not Driss. Single instructor school (Driss). Contact email fbrigui77@hotmail.com; no public phone number found. CBR exams last 12 months: 76 (aggregators report 82 total examens, 62% slagingspercentage).",
+  "sources": [
+    "https://rijschooldriss.nl",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-driss",
+    "https://www.rijschoolspecialist.nl/autorijschool-driss",
+    "https://www.rijschool-tips.nl/rijschool/den-bosch",
+    "https://debesterijscholen.nl/s-hertogenbosch"
+  ]
+}

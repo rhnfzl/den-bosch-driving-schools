@@ -1,0 +1,39 @@
+{
+  "row_index": 83,
+  "slug": "school_083",
+  "rijschool": "Auto- & Motorrijschool Signaal",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 14,
+  "sentiment": "positive",
+  "sentiment_index": 80,
+  "english_in_reviews": "no",
+  "review_summary": "Students consistently praise instructor Corina as warm, patient and clear, with several passing their exam first time and crediting her supportive style; the only negative is an older 1-star review complaining that appointments and promises were not kept.",
+  "platforms_found": ["Google reviews (via clickdrive.nl)", "Trustoo.nl", "CBR", "rijschoolbijmij.nl"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vught/auto-motorrijschool-signaal",
+    "https://trustoo.nl/noord-brabant/vught/rijschool/auto-motorrijschool-signaal",
+    "https://www.rijschoolbijmij.nl/rijschool/614/auto-and-motorrijschool-signaal",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/auto-motorrijschool-signaal"
+  ],
+  "representative_quotes": [
+    "De hulp van Corina is top en Corina zelf is heel warm, begripvol en behulpzaam. Kortom helemaal top!!!",
+    "Supergeweldige hulp gehad van Corina van Signaal, bij het behalen van mijn rijbewijs vorig jaar.",
+    "Ik reed eerst bij een andere rijschool en instructeur in Zuid Holland en dat viel zo vies tegen in communicatie, aandacht, geduld en heldere instructies. Dit is naar mijn inziens juist wel de kracht van Corina, met een goede portie invoelendheid.",
+    "Correct en goed waarnemend, soms als nodig ook streng, maar zeker voor mij op een geheel gepaste en gerechtvaardigde manier, op basis van gelijkwaardigheid als mensen.",
+    "Ik kan haar aan iedereen die dit nodig heeft meer dan 100% aanraden!",
+    "16 jaar geleden mijn rijbewijs gehaald bij signaal. Meeste lessen van corona maar ook een paar van ton. Hele vriendelijke en professionele mensen.",
+    "Voelde meteen goed toen ik bij corona in de auto stapte. Ook was ze er bij bij het examen en ben in 1 keer geslaagd! Aanrader!",
+    "Een rijschool met twee erg betrokken instructeurs. Het contact met de rijschool loopt erg makkelijk en de kwaliteit van de lessen is altijd naar wens geweest.",
+    "Valt geen afspraken mee te maken, een hoop beloftes maar worden niet nagekomen"
+  ],
+  "themes_positive": ["patient", "warm and empathetic instructor", "clear instruction", "good exam guidance / passed first time", "engaged instructors", "easy contact"],
+  "themes_negative": ["appointments/promises not kept (one older review)"],
+  "red_flags": [
+    "Small review base: only ~14-16 Google reviews total, most are bare 5/5 ratings with no written text (Geen beschrijving)",
+    "No independent verified-review platform (klantenvertellen.nl) profile found",
+    "Substantive written reviews concentrated on one instructor (Corina); most reviews are 3-7 years old, few recent ones",
+    "One unaddressed 1-star review about broken promises/appointments"
+  ]
+}

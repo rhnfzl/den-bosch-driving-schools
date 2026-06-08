@@ -1,0 +1,45 @@
+{
+  "row_index": 95,
+  "slug": "school_095",
+  "rijschool": "Autorijschool 119",
+  "review_trust": "moderate",
+  "review_substance": "substantive",
+  "verified_reviews": false,
+  "reviews_read": 5,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "themes_positive": [
+    "clear explanation",
+    "patient",
+    "calm and polite",
+    "good with anxious/repeatedly-failed learners",
+    "passed first time",
+    "pleasant/sociable atmosphere",
+    "extra lessons / flexible scheduling"
+  ],
+  "themes_negative": [],
+  "representative_quotes": [
+    "Net mijn rijbewijs gehaald. Ben super tevreden over de lessen en het was altijd super gezellig in de auto. Franc doet ook echt zijn best voor je.",
+    "Ik was 15 januari gezakt en kon meteen 29 januari weer op terwijl ik eigelijk pas 20 maart weer zou kunnen volgens het cbr.",
+    "Ik heb bij Franc hele fijne rijlessen gehad. Hij kon alles duidelijk, beleefd en rustig uitleggen en de lessen waren altijd gezellig! Heel blij met mijn rijbewijs!",
+    "Oprecht zo blij met deze rijschool, ik was al 1,5 jaar bezig en kwam niet verder en zakte telkens. Dit was mijn laatste hoop en beste keuze geweest!",
+    "Binnen 4/5 maanden alles geleerd en ontzettend goed voorbereid en ook in 1x mijn examen gehaald.",
+    "De docent (Frank) maakte ook echt tijd voor mij om extra lessen te hebben zodat ik ECHT er klaar voor was!",
+    "Via via deze rijschool aanbevolen gekregen, omdat iedereen franc zo een fijne instructeur vond, ik ben het hier helemaal mee eens altijd super duidelijk, en fijne tips voor de bijzondere verrichtingen.",
+    "Hij bleef altijd beleefd en werd nooit boos, ook kon je gezellig kletsen tijdens de rijles.",
+    "afgelopen jaar rijlessen gehad bij franc en een hele fijne ervaring gehad. de rijlessen waren altijd erg gezellig en franc gaf duidelijke feedback, mede hierdoor in 1x geslaagd. ik zou het iedereen aanraden"
+  ],
+  "red_flags": [
+    "Not present on klantenvertellen or Trustpilot (no independent verified-customer reviews); trust rests on Google Maps only",
+    "Only a handful of individual review bodies were retrievable (via rijloket.nl); the full 190 Google reviews could not be read directly",
+    "No negative or mixed reviews surfaced, so the spread captured may be skewed positive"
+  ],
+  "review_summary": "Students consistently praise instructor Franc/Frank as calm, polite and clear, with a sociable atmosphere in the car; several mention passing first time and one credits him with success after 1.5 years of failing elsewhere, helped by extra lessons and quick re-scheduling of exams. All readable reviews are very positive and in Dutch, but they come solely from Google Maps (no verified/independent platform).",
+  "platforms_found": ["Google Maps (via clickdrive.nl and rijloket.nl)", "CBR (official, stats only)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-119",
+    "https://rijloket.nl/rijscholen/rosmalen/autorijschool-119-rosmalen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-119"
+  ]
+}

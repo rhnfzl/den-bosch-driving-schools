@@ -1,0 +1,51 @@
+{
+  "row_index": 38,
+  "slug": "school_038",
+  "rijschool": "Autorijschool Marcel van den Heuvel",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "no",
+  "verified_reviews": false,
+  "reviews_read": 3,
+  "representative_quotes": [
+    "Beste rijschool die ik mij had kunnen wensen!! Ik heb me nog nooit zo op mij gemak gevoeld!! Zekerrrr aan te raden:)",
+    "Zoonlief (17) in één keer geslaagd!!! Fijne rij-instructeur bij wie onze jongste zoon zich erg op z'n gemak voelde.",
+    "Ook fijn dat hij ons als ouders zo nu en dan ook op de hoogte hield van de vorderingen.",
+    "Onze middelste heeft jaren geleden ook bij hem gelest en door die goede ervaring hebben we voor de jongste weer voor Marcel gekozen.",
+    "En als iemand een rij-instructeur zoekt, dan zullen wij jouw naam zeker laten vallen!",
+    "Ik heb hier meer geleerd in een paar lessen dan bij een andere rijschool in een jaar"
+  ],
+  "themes_positive": [
+    "feels at ease / on your gemak",
+    "passed first time",
+    "patient and friendly instructor",
+    "keeps parents informed of progress",
+    "effective / fast progress",
+    "repeat family business",
+    "faalangst (test-anxiety) training offered"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Only ~6 Google reviews total for this school; very small sample",
+    "All reviews are 5-star; some reviews reported as very short/generic or near-empty (per rijschoolbijmij analysis), limiting diversity",
+    "No independent verified reviews (klantenvertellen has none for THIS school)",
+    "A klantenvertellen page for 'Rijschool Marcel' (rijschool-marcel.nl, reviewers from Swifterbant/Dronten in Flevoland) is a DIFFERENT driving school and was excluded",
+    "Some aggregators (clickdrive.nl citing '178 reviews 4.7/5') mix in unrelated 'Hanodrive' boilerplate; that count appears unreliable and was not attributed"
+  ],
+  "sources": [
+    "https://rijloket.nl/rijscholen/rosmalen/autorijschool-marcel-van-den-heuvel-rosmalen",
+    "https://www.rijschoolbijmij.nl/rijschool/663/autorijschool-marcel-van-den-heuvel",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-marcel-van-den-heuvel",
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-marcel-van-den-heuvel"
+  ],
+  "platforms_found": [
+    "Google Maps (via rijloket.nl)",
+    "rijschoolbijmij.nl (Google-review analysis)",
+    "clickdrive.nl (unreliable aggregate)",
+    "CBR (pass rates, not reviews)"
+  ],
+  "review_summary": "The handful of genuine Google reviews for the Rosmalen school are uniformly glowing: students and parents describe Marcel as a patient, calm instructor who puts learners at ease, helped pupils pass on the first attempt, and kept parents informed of progress, with one family returning for a second child. However, the corpus is very thin (about 6 Google reviews, all 5-star, some near-empty) and there are no independent verified reviews for this specific school, so authenticity cannot be strongly confirmed.",
+  "verified_reviews_note": "klantenvertellen 'Rijschool Marcel' is a different school (Flevoland) and was not used."
+}

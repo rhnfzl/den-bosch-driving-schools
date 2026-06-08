@@ -1,0 +1,52 @@
+{
+  "row_index": 36,
+  "slug": "school_036",
+  "rijschool": "Praktijkfixers",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": true,
+  "reviews_read": 10,
+  "sentiment": "very_positive",
+  "sentiment_index": 88,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "In één dag geslaagd voor zowel AVB als AVD dankzij Praktijkfixers. Relaxte sfeer, goeie uitleg en ze weten precies wat je nodig hebt om te slagen. Aanrader!",
+    "Ik heb mijn motorrijbewijs in een keer gehaald! Het beste motorrijschool van Nederland!",
+    "Nog nooit op de motor geweest en binnen 2 dagen mijn AVB gehaald! Toffe mensen, ze leren je alle ins en outs. Was fijn om hier te lessen. Zeker een aanrader!!",
+    "Mijn motorrijbewijs A2 AVB en AVD beiden in één keer gehaald. Ik wilde het graag doen in één dag en met de dagcursus, zonder enige motorervaring, het is dus mogelijk.",
+    "Tot slot wil ik Alex bedanken voor de goede proefles en communicatie en instructeur Vin voor de uitstekende begeleiding bij beide examens!",
+    "AVB en AVD in 1 keer gehaald! Ik heb vorig jaar eerst bij een rijschool gelest voor een paar maanden... ik vond dit vreselijk ik snapte het gewoon niet en ik ontwikkelde een angst voor motor rijden.",
+    "Maar bij praktijkfixxers nemen ze je mee achterop en laten ze je voelen hoe je echt moet rijden. Echt top! Ik had hele leuke rij instructeurs vooral echt complimenten naar Jamal!",
+    "Ik heb echt respect voor deze rijschool… eerlijke mensen die ontiegelijk hard werken. Geen sneaky gedoe om jou meer rijlessen te verkopen want daar hebben ze gewoon geen tijd voor.",
+    "Ik ken geen één rijschool die mij zo snel op examen kon laten gaan als bij praktijk fixers ze hebben hun zaakjes dik in orde!",
+    "December contact gehad gelijk 1daagse cursus ingepland voor 3 jan 2024 in een keer geslaagd voor mijn rijbewijs (2 examinatoren). Bedankt Alex en Mos ze leren je precies zoals het hoort."
+  ],
+  "themes_positive": [
+    "fast/one-day course to pass",
+    "clear explanation",
+    "relaxed atmosphere",
+    "good with nervous learners (faalangst / fear of riding)",
+    "named instructors praised (Alex, Vin, Jamal, Mussi)",
+    "no upselling of extra lessons",
+    "quick scheduling and communication"
+  ],
+  "themes_negative": [
+    "marketing leans heavily on 'pass fast' spoedcursus model (industry red-flag pattern)",
+    "low CBR car (auto) first-time pass rate (~37%) contrasts with glowing one-day-pass reviews"
+  ],
+  "red_flags": [
+    "Nearly all readable reviews are 5-star and motorcycle-focused (AVB/AVD), clustered in the same dates (Jul 2025); little independent car-lesson review text",
+    "Could not directly extract individual verified Klantenvertellen review bodies; verified status inferred from aggregator (bambelo) listing Klantenvertellen as a source",
+    "No negative or mixed reviews surfaced despite targeted searches, while CBR car pass rate is low (37% first exams) - asymmetry between marketing/reviews and exam data",
+    "Trustoo page rendered only rating icons, no review text"
+  ],
+  "review_summary": "Students consistently praise Praktijkfixers as a fast, no-nonsense motorcycle school where you can pass AVB/AVD in one or two days with clear explanation, a relaxed atmosphere, named instructors (Alex, Vin, Jamal, Mussi), and no pressure to buy extra lessons; one detailed review describes overcoming a fear of riding after a bad experience at another school. The readable reviews are almost entirely motorcycle-focused and uniformly 5-star, so there is little independent evidence on the car (B) lessons, which carry a notably low CBR pass rate.",
+  "sources": [
+    "https://www.bambelo.com/nl/praktijkfixersnl",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/praktijkfixers",
+    "https://www.rijschoolspecialist.nl/praktijkfixers",
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/rijschool-anno-nu",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/praktijkfixers"
+  ],
+  "platforms_found": ["Google", "Klantenvertellen", "Bambelo (aggregator)", "Rijschoolspecialist", "Trustoo", "CBR"]
+}

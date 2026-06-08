@@ -1,0 +1,21 @@
+{
+  "row_index": 90,
+  "slug": "school_090",
+  "rijschool": "Rijcoach yvon",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 4,
+  "sentiment_index": 88,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "veel geleerd",
+    "meer zelfvertrouwen",
+    "goede begeleiding",
+    "geslaagd met roze pasje"
+  ],
+  "themes_negative": [
+    "eerdere rijschool maakte zelfvertrouwen kapot",
+    "te vroeg op examen gestuurd"
+  ],
+  "confidence": "high",
+  "rationale": "De reviewer noemt Yvon de beste keuze, zegt veel geleerd te hebben en nu vol zelfvertrouwen te rijden, terwijl de negatieve punten vooral over een eerdere rijschool gaan."
+}

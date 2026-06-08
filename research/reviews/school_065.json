@@ -1,0 +1,41 @@
+{
+  "row_index": 65,
+  "slug": "school_065",
+  "rijschool": "Rijschool Maximo",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 1,
+  "red_flags": [
+    "Almost no review corpus anywhere: only 1-2 Google star ratings exist",
+    "Only one review has any text at all, a generic one-liner ('Top rijschool!')",
+    "No presence on klantenvertellen (independent verified reviews)",
+    "rijschoolspecialist.nl explicitly shows 0 reviews",
+    "clickdrive Google review shows 'Geen beschrijving' (no written text)",
+    "Single-instructor one-man school (Toine Walters), founded 2021, so small sample is expected but provides no evidence base"
+  ],
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [
+    "Top rijschool!"
+  ],
+  "themes_positive": [],
+  "themes_negative": [],
+  "platforms_found": [
+    "rijscholenvergelijken.nl (Google: 5.0 from 2 reviews)",
+    "clickdrive.nl (Google: 5.0 from 1 review, no text)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "drivedutch.nl (CBR exam stats only, no written reviews)",
+    "CBR (exam statistics only)",
+    "klantenvertellen.nl (no profile found)"
+  ],
+  "sources": [
+    "https://www.rijscholenvergelijken.nl/rijscholen/rijschool-maximo-rosmalen",
+    "https://clickdrive.nl/rijscholen/rosmalen/rijschool-maximo",
+    "https://www.rijschoolspecialist.nl/rijschool-maximo",
+    "https://www.drivedutch.nl/nl/forum/Rijschool%20Maximo/ROSMALEN/82784493",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-maximo"
+  ],
+  "review_summary": "Rijschool Maximo is a small one-instructor school (Toine Walters, founded 2021) with essentially no written review corpus: only one or two 5-star Google ratings exist and just a single one-word review with any text ('Top rijschool!'). There is no readable evidence about teaching quality, exam-day support, or whether lessons are offered in English, so the reviews cannot be meaningfully judged."
+}

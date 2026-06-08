@@ -1,0 +1,20 @@
+{
+  "row_index": 98,
+  "slug": "school_098",
+  "rijschool": "Autorijschool Bert van Doornmalen",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 8,
+  "sentiment_index": 84,
+  "sentiment": "positive",
+  "themes_positive": [
+    "duidelijke uitleg",
+    "goede rijlessen",
+    "op tijd ophalen",
+    "nette/klantvriendelijke aanpak",
+    "geen lestijd verspillen",
+    "gezellig en behulpzaam"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes prijzen vooral de duidelijke, goede lessen, punctuele service en eerlijke aanpak, zonder inhoudelijke klachten."
+}

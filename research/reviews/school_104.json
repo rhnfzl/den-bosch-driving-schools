@@ -1,0 +1,41 @@
+{
+  "row_index": 104,
+  "slug": "school_104",
+  "rijschool": "Autorijschool Kentie",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "red_flags": [
+    "No customer reviews found on any platform (klantenvertellen, Trustpilot, Trustoo, Facebook, Google aggregators)",
+    "Multiple review aggregators explicitly report 0 reviews / 'nog geen beoordelingen' (clickdrive.nl, rijscholen-gids.nl, rijscholenvergelijken.nl, educarplatform.nl)",
+    "Very small one-person school with very low exam volume (only ~7 first practical exams Mar 2025-Mar 2026), so almost no customer base to generate reviews",
+    "Reviews that surface in search for 'Kentie ... klantenvertellen' actually belong to a different school (Autorijschool Time2drive) and must not be attributed to Kentie",
+    "School's own website contains no testimonials, only package/lesson descriptions"
+  ],
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "review_summary": "No readable customer review text could be found for Autorijschool Kentie on any platform; multiple aggregators (clickdrive, rijscholen-gids, rijscholenvergelijken, educar) explicitly show 0 reviews, and no Google/Trustpilot/klantenvertellen review bodies exist. It is a very small one-person school with low exam volume, so there is no review corpus to judge sentiment or authenticity.",
+  "platforms_found": [
+    "clickdrive.nl (0 reviews)",
+    "rijschoolbijmij.nl (no reviews on Trustpilot/Trustoo/klantenvertellen)",
+    "rijscholen-gids.nl (no reviews)",
+    "rijscholenvergelijken.nl (0 reviews)",
+    "educarplatform.nl (0.0, 0 reviews)",
+    "CBR (pass-rate stats only, no review text)"
+  ],
+  "english_in_reviews_note": "No reviews exist, so cannot determine whether lessons are offered in English; website is Dutch-only.",
+  "sources": [
+    "https://clickdrive.nl/en/driving-schools/s-hertogenbosch/autorijschool-kentie",
+    "https://www.rijschoolbijmij.nl/rijschool/4005/autorijschool-kentie",
+    "https://rijscholen-gids.nl/s-hertogenbosch/autorijschool-kentie",
+    "https://www.rijscholenvergelijken.nl/rijscholen/autorijschool-kentie-s-hertogenbosch",
+    "https://www.educarplatform.nl/rijscholen/vught/5707-autorijschool-kentie",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-kentie",
+    "https://www.autorijschoolkentie.nl/praktijk"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "row_index": 83,
+  "slug": "school_083",
+  "rijschool": "Auto- & Motorrijschool Signaal",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 9,
+  "sentiment_index": 85,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "warme en begripvolle begeleiding",
+    "duidelijke en geduldige instructie",
+    "betrokken en professionele instructeurs",
+    "goede communicatie en makkelijk contact",
+    "hoge kwaliteit van de lessen",
+    "goede voorbereiding op het examen"
+  ],
+  "themes_negative": [
+    "afspraken worden niet nagekomen",
+    "beloftes niet waargemaakt"
+  ],
+  "confidence": "high",
+  "rationale": "De meeste quotes prijzen Corina en de instructeurs als warm, betrokken, professioneel en didactisch sterk, met slechts één duidelijke klacht over afspraken en beloftes."
+}

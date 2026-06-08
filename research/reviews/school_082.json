@@ -1,0 +1,52 @@
+{
+  "row_index": 82,
+  "slug": "school_082",
+  "rijschool": "LEF Rijopleiding",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "sentiment": "positive",
+  "sentiment_index": 70,
+  "english_in_reviews": "no",
+  "verified_reviews": false,
+  "reviews_read": 2,
+  "platforms_found": [
+    "lefrijopleiding.nl (own website testimonials)",
+    "clickdrive.nl (0 reviews)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)",
+    "educarplatform.nl (no reviews)",
+    "rijloket.nl (no rating)",
+    "vindjerijschool.nl (no reviews)",
+    "trustoo.nl (no individual reviews)",
+    "CBR (pass-rate data only, no reviews)"
+  ],
+  "sources": [
+    "https://www.lefrijopleiding.nl/beoordelingen",
+    "https://www.lefrijopleiding.nl",
+    "https://www.lefrijopleiding.nl/overons",
+    "https://clickdrive.nl/rijscholen/vught/lef-rijopleiding",
+    "https://www.rijschoolspecialist.nl/lef-rijopleiding",
+    "https://rijscholen-gids.nl/vught/lef-rijopleiding",
+    "https://rijloket.nl/rijscholen/vught/lef-rijopleiding-vught",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/lef-rijopleiding"
+  ],
+  "representative_quotes": [
+    "Mijn ervaring met LEF Rijopleiding is zeer positief. Margriet weet precies hoe ze je kan helpen om jezelf elke les te ontwikkelen. Stap voor stap merkte ik dat ik mezelf comfortabeler voelde in de auto. Ik ben super blij met het behalen van mijn rijbewijs! (Nick van Zanten, school's own website)",
+    "Mijn ervaring met LEF Rijopleiding was erg positief! Margriet was op de hoogte van mijn faalangst, maar zij zorgde ervoor dat ik mij op mijn gemak voelde in de auto. Ik kreeg zelfvertrouwen en mijn angst voor het falen nam af door Margriet. (anonymous, school's own website)"
+  ],
+  "themes_positive": [
+    "good with nervous learners (faalangst)",
+    "patient / step-by-step approach",
+    "builds confidence",
+    "personal attention"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Only 2 review texts found anywhere, both self-published on the school's own website (not independent or verified)",
+    "No klantenvertellen, Trustpilot, Facebook or readable Google reviews exist",
+    "All third-party aggregators (clickdrive, rijschoolspecialist, rijscholen-gids, educar, trustoo) show 0 reviews",
+    "Small one-person eenmanszaak (instructeur Margriet Bindels-Schellekens), ~15-20 CBR exams/year, so a thin review footprint is expected",
+    "Owner-curated testimonials cannot be treated as authentic third-party evidence"
+  ],
+  "review_summary": "Almost no independent review footprint exists for LEF Rijopleiding: the only readable review text is two short owner-published testimonials on the school's own website, both praising instructor Margriet for patient, step-by-step coaching and good support for exam/test anxiety (faalangst). With zero verified or third-party reviews (no klantenvertellen, Trustpilot, Facebook, or Google review bodies), there is insufficient authentic evidence to judge the school from reviews; CBR data does show an above-average ~76-80% pass rate on a small exam volume."
+}

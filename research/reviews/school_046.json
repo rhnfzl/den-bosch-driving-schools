@@ -1,0 +1,39 @@
+{
+  "row_index": 46,
+  "slug": "school_046",
+  "rijschool": "Auto en Motorrijschool Erik Barella",
+  "platforms_found": ["Google reviews (via clickdrive.nl)", "klacht.nl", "BNNVARA Kassa (consumer complaint)", "school website testimonials (rijschoolrosmalen.nl)", "rijschoolbijmij.nl (review aggregation)"],
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "sentiment": "mixed",
+  "sentiment_index": 55,
+  "english_in_reviews": "no",
+  "verified_reviews": false,
+  "reviews_read": 14,
+  "representative_quotes": [
+    "Erik is een fantastische instructeur en is duidelijk en direct. Hoewel ik in het begin zeker moest wennen aan de directe manier van spreken, werd het mij gaandeweg duidelijk dat hij eigenlijk altijd gelijk heeft en hij ontzettend goed les kan geven.",
+    "Top rijschool! Lekker duidelijk, recht voor z'n raap waar het voor staat, een betere instructeur kan ik mij niet bedenken. Minder dan 30 lessen nodig om te slagen. Eric bedankt!",
+    "Vandaag mijn motorrijbewijs gehaald. Met slechts 15 lessen heeft Erik mij de juiste technieken bijgebracht. De manier waarop hij dit doet is streng maar rechtvaardig en met de juiste hoeveelheid humor.",
+    "De evaluatie na elke rijles was erg waardevol. Door samen de gereden route nog eens door te nemen leer je 2x zo snel je fouten niet meer te herhalen.",
+    "Erik is flexibel in zijn lestijden en zal altijd in overleg tot een goede oplossing komen.",
+    "Top rijschool heb alles in snelle tijd geleerd",
+    "Top rijschool. Daan heeft in no-time zijn rijbewijs gehaald.",
+    "Ik heb het rijbewijs in een keer gehaald, dankzij de duidelijke uitleg en goede evaluatie na elke rijles. Ik heb met plezier gelest met af en toe een geintje op z'n tijd.",
+    "Trieste rijschool, ik vroeg aan Erik of hij normaal met mij kon communiceren. Daar was hij niet van gediend. Hij zei tijdens de les dat ik op deze manier nooit mijn rijbewijs haal.",
+    "Erik heeft mij de auto uitgegooid en mij naar huis laten lopen, het was de 19e les en dan alsnog gaat hij zo met zijn klanten om. Diep en diep triest.",
+    "Voor drie van onze kinderen hebben we een pakket aangeschaft bij deze rijschool a 4425 euro. Na 18 lessen kwam een van onze dochters erg bedrukt thuis. Blijkt de rijschoolhouder herhaaldelijk gezegd te hebben dat er iets mis is met haar.",
+    "De namiddag liep hij alleen maar door te schreeuwen dat ik niet goed kon motorrijden, terwijl dat pas me allereerste les was dat ik motorrijden nooit eerder heb gedaan."
+  ],
+  "themes_positive": ["clear explanation", "direct/honest style", "fast to pass exam", "useful post-lesson evaluation", "flexible lesson times", "good with motorcycle learners", "personal/warm reception (with coffee by Yolanda)"],
+  "themes_negative": ["harsh/blunt communication", "conflict when things go wrong", "student sent home / lesson terminated mid-trajectory", "demoralising remarks to learner", "intimidation over removing a Google review", "expensive pre-paid packages with no refund"],
+  "red_flags": ["Website testimonials are short, solicited, first-name-only thank-you notes ('GESLAAGD! bedankt Erik') with no specifics — promotional, not independent", "Very low Google review volume (only ~2-18 reviews depending on aggregator), so average is sensitive to outliers", "Not present on klantenvertellen.nl, so no verified-customer reviews available", "Multiple serious negative accounts allege unprofessional conduct (shouting, sending student home, pressure to delete a review) which is a material concern, especially for a nervous or non-native learner"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/auto-en-motorrijschool-erik-barella",
+    "https://rijschoolrosmalen.nl",
+    "https://www.rijschoolbijmij.nl/rijschool/734/auto-en-motorrijschool-erik-barella",
+    "https://www.klacht.nl/erik-barella-auto-motor-rijschool",
+    "https://www.bnnvara.nl/kassa/vraag-beantwoord/auto-vervoer/klacht-over-rijschool-1",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/auto-en-motorrijschool-erik-barella"
+  ],
+  "review_summary": "Students praise Erik as a clear, direct, examen-focused instructor who gets people through quickly (often in 15-30 lessons) with valuable post-lesson evaluations, but his blunt style is polarising: several serious negative accounts describe shouting, a learner being sent home mid-trajectory at lesson 19, demoralising remarks, and even pressure to remove a critical Google review. Reviews are Dutch-only with no sign of English-language lessons in the feedback, so an expat should weigh the strong directness against the conflict reports."
+}

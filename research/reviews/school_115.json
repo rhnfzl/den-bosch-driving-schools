@@ -1,0 +1,35 @@
+{
+  "row_index": 115,
+  "slug": "school_115",
+  "rijschool": "Verkeersschool Twins",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "red_flags": [
+    "Brand-new school: opened 2 January 2026 (per LinkedIn), so essentially no review track record exists yet",
+    "Own website has a 'Deze tevreden leerlingen gingen je voor!' heading but the testimonial widget is empty / unpopulated",
+    "No klantenvertellen, Google, Trustpilot, Trustoo, or clickdrive review page found for this specific Hedel school (KvK 82166528)",
+    "Easy to confuse with two unrelated schools that DO have reviews: 'Verkeersschool Twin' (singular) in Utrecht/Nieuwegein (KvK 30050965, 50+ yrs, score 9.4, 650 reviews) and 'Rijschool Twins' in Veenendaal (rijschoolspecialist, 0 reviews) — neither belongs to the target school and their reviews were deliberately NOT used",
+    "Facebook page exists but shows only promotional posts (party announcement, business cards), no customer reviews"
+  ],
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "themes_positive": [],
+  "themes_negative": [],
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "review_summary": "No authentic customer reviews could be found for Verkeersschool Twins in Hedel (KvK 82166528), a driving school that only opened on 2 January 2026. Its own website testimonial section is empty and no independent review platform (klantenvertellen, Google, Trustpilot, Trustoo) lists this specific school. The high-rated klantenvertellen page that appears in searches belongs to a different, unrelated school ('Verkeersschool Twin' in Utrecht), so cannot be used as evidence.",
+  "platforms_found": [
+    "Own website (verkeersschooltwins.nl) - empty testimonial widget",
+    "Facebook (Hedel page) - promotional posts only, no reviews",
+    "LinkedIn (company page) - promotional posts only",
+    "Instagram (linked, not scraped)"
+  ],
+  "sources": [
+    "https://www.verkeersschooltwins.nl",
+    "https://www.verkeersschooltwins.nl/contact",
+    "https://www.linkedin.com/company/verkeersschool-twins",
+    "https://www.facebook.com/profile.php?id=61583526447254&locale=nl_NL"
+  ]
+}

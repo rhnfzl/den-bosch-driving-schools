@@ -1,0 +1,66 @@
+{
+  "row_index": 26,
+  "slug": "school_026",
+  "rijschool": "Autorijschool Amir",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "website": "https://www.autorijschoolamir.nl",
+  "review_trust": "strong",
+  "review_substance": "substantive",
+  "verified_reviews": true,
+  "reviews_read": 35,
+  "sentiment": "very_positive",
+  "sentiment_index": 95,
+  "english_in_reviews": "yes",
+  "platforms_found": [
+    "Trustoo (62 reviews, 9.2/10, KVK-verified, aggregates Google)",
+    "Clickdrive (Google reviews, 4.8/5, 47 reviews)",
+    "Google reviews",
+    "Own website recensies (autorijschoolamir.nl)",
+    "CBR (slagingspercentage, not reviews)"
+  ],
+  "sources": [
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/autorijschool-amir",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-amir",
+    "https://www.autorijschoolamir.nl/recensies",
+    "https://www.autorijschoolamir.nl/recensies/page/2",
+    "https://www.autorijschoolamir.nl/recensies/page/3",
+    "https://www.autorijschoolamir.nl/recensies/page/7",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-amir"
+  ],
+  "representative_quotes": [
+    "Amir is a great person. He gives lessons with great patience and practical tips. He is also very direct, and this helps a lot in speeding up my learning curve. And after 15 lessons, I was able to pass the practical exam with 1st-time-right. (ZHANG, English/Google)",
+    "Amir is the best teacher in the Netherlands, after trying to get my driving license for 3 years in different schools. I finally passed the exam! (Juliana, English)",
+    "Zelfs met wat rijangst, wat ik zelf had, is dit echt de beste die je kan vinden... Voor mijn examen begon, was ik erg zenuwachtig, we zijn toen nog van te voren een half uur gaan rijden wat heel erg hielp met de zenuwen. (Trustoo)",
+    "Ik ben bij Rijschool Amir in een keer geslaagd. Voor mij duurde het hele traject vrij lang, ruim een jaar, maar de lessen waren goed. Amir is altijd netjes op tijd en de auto rijdt prettig. (Sabrina)",
+    "Hoewel ik de eerste keer niet geslaagd was, bleef ik dankzij Amir toch gemotiveerd en lukte het de tweede keer wel! (Denise Richards Medina, Google)",
+    "Aangezien ik 42 jaar oud ben en rijervaring heb in Iran, vond ik de gedetailleerde en uitstekende training van Amir zeer waardevol. Dankzij zijn begeleiding slaagde ik bij de eerste poging. (Shahab Anvar, Google)",
+    "Amir geeft op een rustige en duidelijke manier les en neemt echt de tijd voor je. Amir blijft ook geloven in een goed resultaat wat er voor zorgt dat je met zelfvertrouwen gaat rijden. (Wim Olthof)",
+    "Mijn twee broers, zus, en ik, allemaal geslaagd bij Amir... Fijn, geduldig en straight to the point. Wist ik het even niet, pakt hij in alle rust zijn iPad erbij voor een uitgebreide uitleg. (Jem Noever)",
+    "Erg geduldig, heeft duidelijk jaren ervaring met rijlessen geven. Denkt erg graag met je mee. (Mar Loes, Google)",
+    "De scherpe prijs en de snelheid waarmee onze tweeling geslaagd zijn is top. Zonder twijfel zou ik iedereen Amir aanraden. (Esther van der Veer, Google)",
+    "Ik had helemaal geen talent voor autorijden en bovendien was ik heel onzeker en gespannen... Met begeleiding van Amir heb ik langzaam maar zeker mijn zelfvertrouwen opgebouwd en mijn rijbewijs behaald. (Ling)",
+    "Ook de overgang naar de electrische auto is heel soepel verlopen, nogmaals mijn dank voor de prettige lessen. (Shyrell Voets)"
+  ],
+  "themes_positive": [
+    "calm and patient instructor",
+    "clear explanation (uses iPad to explain)",
+    "good with nervous learners / faalangst (rijangst)",
+    "builds confidence",
+    "punctual / reliable / keeps appointments",
+    "high first-time pass rate (often 1x geslaagd)",
+    "sharp / good price",
+    "good for expats and foreign students (language no barrier)",
+    "personal, tailored approach",
+    "switched from a worse school and succeeded here"
+  ],
+  "themes_negative": [
+    "for some the trajectory was long (over a year)",
+    "occasional first-time exam fail before passing on retake"
+  ],
+  "red_flags": [
+    "Reviews are almost exclusively 5-star with no clearly negative reviews surfaced across platforms",
+    "Single-instructor school, so reviews all praise one person (Amir) which limits perspective diversity",
+    "Some short one-liners ('Aanrader!', 'Top!') on the own-website recensies page, though many are detailed"
+  ],
+  "review_summary": "Students consistently describe Amir as a calm, patient, punctual instructor who explains clearly (even with an iPad), excels with nervous/faalangst learners, and gets many to pass first time; multiple expat/English-speaking and foreign-experienced learners praise him as language being no barrier. The few nuances (one over-a-year trajectory, an occasional first-time fail before a successful retake) keep it credible, but the corpus is overwhelmingly and uniformly positive."
+}

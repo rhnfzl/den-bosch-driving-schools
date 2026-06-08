@@ -1,0 +1,52 @@
+{
+  "row_index": 30,
+  "slug": "school_030",
+  "rijschool": "Rij-Nu",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 14,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "good communication / planning",
+    "passed first time",
+    "fun/relaxed atmosphere in the car",
+    "named instructors (Bo & Fouad)",
+    "confidence behind the wheel"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "No independent verified-customer reviews (not present on klantenvertellen); all reviews are Google reviews surfaced via aggregator pages (clickdrive.nl, rijschoolbijmij.nl)",
+    "Uniformly 5-star with no negative/mixed reviews visible; many are generic one-liners ('Aanrader!', 'Top!') with the recurring 'in 1 keer geslaagd' phrasing",
+    "Several aggregator review titles look auto-generated/templated ('Zeer goede lessen en communicatie!'), so the displayed summaries may not be verbatim student wording"
+  ],
+  "representative_quotes": [
+    "Autorijschool Rij-Nu is een super goede rijschool. Zowel Bo als Fouad geven goede lessen en helpen je bij waar je vastloopt. Communicatief was alles heel goed geregeld en heb altijd heel veel kunnen lachen met Fouad in de auto. Ik ben in een keer geslaagd en kan de rijschool aan iedereen aanraden.",
+    "Autorijschool Rij-Nu is een hele fijne rijschool met leuke en vooral leerzame lessen. Ik heb ontzettend veel geleerd en tegelijkertijd heb ik ook enorm kunnen lachen in de rijles met Fouad. De communicatie over de planning verliep perfect, en ik kon buiten de lessen om ook altijd bij Bo terecht met vragen. En ik heb ook nog eens mijn rijbewijs in één keer gehaald.",
+    "Rij-Nu is een super fijne rijschool! Je voelt je enorm welkom en het is van hoog niveau. Bo en Fouad geven beide enorm fijn les. Eerlijk, positief en motiverend. Ook de communicatie verloopt altijd perfect.",
+    "Gewoon super goed!! Altijd met plezier gelest! Liep nooit fout met dingen regelen, altijd vriendelijk, altijd duidelijk wat er verbeterd moet worden en wat er goed gaat. Ben in 1 keer geslaagd.",
+    "Een erg fijne rijschool. Bo en Fouad geven erg goed les en zorgen ervoor dat jij goed voorbereid je examen tegemoet gaat. Een echte aanrader!",
+    "Bij Rij-Nu wordt je uitstekend voorbereid op je examen. Ik heb altijd fijn kunnen lessen. Echt top!",
+    "Geweldige rijschool, perfect begeleid door Fouad en in 1 keer geslaagd. Bedankt rij-nu!!",
+    "Hele fijne rijschool! Ze hebben super veel geduld en geven je rust en vertrouwen in de auto. Heel blij dat ik hier heb mogen lessen. Echt een aanrader!",
+    "hele fijne en sympathieke instructeur, alles duidelijk uitgelegd zodat ik mijn rijbewijs de eerste keer bij deze rijschool gelijk haalde",
+    "Zeer goede rijschool. Communicatie is altijd duidelijk en goed verlopen en ben in 1x geslaagd! Zeker aan te raden dus!",
+    "Beste rijschool in 1 keer geslaagd! Echte aanrader",
+    "Hele fijne rijschool! Echt een aanrader voor Vught en omgeving."
+  ],
+  "review_summary": "Students consistently praise Rij-Nu's two instructors (Bo Vaessen and Fouad El Faouzi) for patience, clear feedback, smooth communication/planning and a relaxed, fun atmosphere in the car, with many reporting they passed on the first attempt. All reviews are 5-star Google reviews (no independent verified or negative reviews surfaced), so the picture is overwhelmingly positive but single-platform and unbalanced.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vught/rij-nu",
+    "https://www.rijschoolbijmij.nl/rijschool/603/autorijschool-rij-nu",
+    "https://www.rijschoolspecialist.nl/rij-nu",
+    "https://www.rij-nu.nl"
+  ],
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl and rijschoolbijmij.nl aggregators, ~80-94 reviews, 5.0/5)",
+    "rijschoolspecialist.nl (2 reviews, 5.0)"
+  ]
+}

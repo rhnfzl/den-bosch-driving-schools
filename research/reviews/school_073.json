@@ -1,0 +1,36 @@
+{
+  "row_index": 73,
+  "slug": "school_073",
+  "rijschool": "Pieters Rijopleidingen",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "All 7 Google reviews are star-only ('Geen beschrijving'); not a single review has written text to read",
+    "No verified-review presence: no klantenvertellen, no Trustpilot, no Trustoo written reviews (Trustoo only mirrors the 7 Google ratings)",
+    "Reviews are old (mostly 4-7 years ago); no recent written feedback",
+    "One of the 7 reviewers is a business account ('Barbershop Hipman'), not a typical individual learner",
+    "Very small sample (7 ratings) for a school claiming 650+ passed students over 15 years"
+  ],
+  "review_summary": "No readable review text exists for Pieters Rijopleidingen anywhere; the only feedback is 7 star-only Google ratings (all 5-star, no written descriptions) and no verified-platform reviews, so student experience cannot be judged from actual review content. The school's own marketing describes one fixed instructor, patience, structured lessons, and specialisation in autism/ADHD/exam-anxiety, but this is unverified by any review body.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/pieters-rijopleidingen",
+    "https://trustoo.nl/noord-brabant/rosmalen/rijschool/autorijschool-pieters-rijopleidingen",
+    "https://www.rijscholenvergelijken.nl/rijscholen/pieters-rijopleidingen-rosmalen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/pieters-rijopleidingen",
+    "https://www.pietersrijopleidingen.nl"
+  ],
+  "platforms_found": [
+    "Google (7 ratings, star-only, no text)",
+    "Trustoo (mirrors the 7 Google ratings, no written reviews)",
+    "clickdrive.nl (aggregator, mirrors Google)",
+    "rijscholenvergelijken.nl (aggregator)"
+  ]
+}

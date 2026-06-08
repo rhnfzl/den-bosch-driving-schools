@@ -1,0 +1,24 @@
+{
+  "row_index": 42,
+  "slug": "school_042",
+  "rijschool": "Rijschool Guido",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 9,
+  "sentiment_index": 78,
+  "sentiment": "positive",
+  "themes_positive": [
+    "geduldige instructeur",
+    "duidelijke uitleg",
+    "persoonlijke 1-op-1 begeleiding",
+    "aandacht voor de leerling",
+    "leert echt autorijden/motor rijden",
+    "deskundig advies"
+  ],
+  "themes_negative": [
+    "slecht georganiseerde lessen/verantwoordelijkheid bij leerling",
+    "onbeleefde communicatie",
+    "hoge prijs/lessenpakket"
+  ],
+  "confidence": "medium",
+  "rationale": "De meeste quotes prijzen Guido en de begeleiding als geduldig, deskundig en persoonlijk, maar er zijn ook duidelijke klachten over organisatie en onbeleefde communicatie."
+}

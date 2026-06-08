@@ -1,0 +1,46 @@
+{
+  "row_index": 28,
+  "slug": "school_028",
+  "rijschool": "Autorijschool Driss",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 3,
+  "red_flags": [
+    "Almost no online review footprint for this specific school (KvK 171981080000, 's-Hertogenbosch): only 1 substantive Google review found plus 2 generic ratings",
+    "Both reviews on rijschoolspecialist.nl are attributed to the same name 'Jan Westerhof' with near-identical generic text ('Top rijschool!') - looks seeded/non-credible",
+    "No independent verified-platform presence (no klantenvertellen, Kiyoh, Trustpilot or Trustoo page for this school)",
+    "High risk of confusion: several glowing reviews online mention an instructor named 'Driss'/'Dries' but belong to OTHER schools (Rijschool Roadrunners, a Leiden school, ANWB/Koos van der Bilt) and were excluded"
+  ],
+  "platforms_found": [
+    "Google (1 written review, via clickdrive.nl)",
+    "rijschoolspecialist.nl (2 reviews, same reviewer name)",
+    "clickdrive.nl",
+    "CBR (stats only, no review text)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-driss",
+    "https://www.rijschoolspecialist.nl/autorijschool-driss",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-driss",
+    "https://www.drivedutch.nl/nl/forum/Autorijschool%20Driss/'S-HERTOGENBOSCH/171981080000"
+  ],
+  "representative_quotes": [
+    "Inmiddels is het alweer jaren geleden dat ik hier mijn rijbewijs gehaald heb. Kortom: de service en rijlessen zijn gewoon goed. (Soufiane SH, Google)",
+    "Bij Driss heb ik mijn rijbewijs in een mum van tijd gehaald en daarnaast geeft Driss ook tips die een beginnende bestuurder goed op weg helpen bij alledaagse situaties. (Soufiane SH, Google)",
+    "Hele goede ervaringen met deze rijschool. Driss is een hele vriendelijke en bekwame leraar die je heel goed voorbereid op het examen. Top rijschool! (rijschoolspecialist.nl)",
+    "Driss is een hele bekwame en rustige rijleraar die zorgt dat de leerling heel goed voorbereid naar het examen gaat. Top rijschool! (rijschoolspecialist.nl)"
+  ],
+  "english_in_reviews": "no",
+  "sentiment": "positive",
+  "sentiment_index": 78,
+  "themes_positive": [
+    "instructor friendly and competent",
+    "calm/relaxed instructor",
+    "good preparation for the exam",
+    "practical tips for everyday driving",
+    "quick to obtain license"
+  ],
+  "themes_negative": [],
+  "verified_reviews_note": "No verified-platform (klantenvertellen/Kiyoh) reviews exist for this school.",
+  "review_summary": "The handful of reviews that genuinely belong to this 's-Hertogenbosch school are uniformly positive about owner-instructor Driss as friendly, calm and good at exam preparation, with one substantive Google review praising the practical everyday-driving tips. However the evidence base is very thin (one credible review plus two generic, same-name ratings) and there is no independent verified-review presence, so the positive picture is weakly supported."
+}

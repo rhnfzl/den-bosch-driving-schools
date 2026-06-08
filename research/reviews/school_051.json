@@ -1,0 +1,39 @@
+{
+  "row_index": 51,
+  "slug": "school_051",
+  "rijschool": "Time2drive",
+  "review_trust": "strong",
+  "review_substance": "substantive",
+  "verified_reviews": true,
+  "reviews_read": 22,
+  "platforms_found": ["klantenvertellen.nl", "Google", "rijscholenvergelijken.nl", "rijschoolbijmij.nl", "drivingschools.directory", "time2drive.nl (self-published)"],
+  "sources": [
+    "https://www.klantenvertellen.nl/reviews/1038081/autorijschool_time2drive",
+    "https://www.rijscholenvergelijken.nl/rijscholen/time2drive-s-hertogenbosch",
+    "https://www.rijschoolbijmij.nl/rijschool/660/autorijschool-time2drive-den-bosch",
+    "https://nl.drivingschools.directory/nl-nl/i/37463-sterre-autorijschool",
+    "https://www.google.com/maps/search/Time2drive+Den+Bosch+reviews",
+    "https://time2drive.nl"
+  ],
+  "representative_quotes": [
+    "As an expat living in s'Hertogebosch, I was unsure about which driving school to pick in the area... A big thank you to my instructor Peter, he is patient, honest and a good motivator. Stress free environment is what most people are looking for, so I highly recommend! Getting a spot for driving lessons was a four-week wait, but it was well worth it! (Artur)",
+    "I had never driven before taking lessons with Peter in Time2Drive... Peter was always very patient and open to explain the topics and allow me to make mistakes and learn from them... He also speaks English fluently so I could take my lessons, the mock exam and the practical exam all in English without a problem. (Daniela)",
+    "Peter is a very friendly and patient instructor. The lessons were well-organized, and his feedback was always helpful. He also gave me a lot of encouragement when I was feeling nervous before my exam. Highly recommend! (Luana)",
+    "I would like to recommend Peter and his driving school Time2drive. Peter's professional teaching style and friendly personality made the lessons really helpful, in particular for overcoming the weak points and fears. For non-Dutch speakers, there's no worry about it, Peter speaks very good English. (Xiaozhou)",
+    "1 hour with Peter is 1 full hour (which is something you will not find anywhere else). He is also flexible and very friendly and his instruction style is very relaxed and non-intrusive. I recommend Peter without any doubt. (Medhat)",
+    "Peter is een hele goede en rustige rij instructeur die de tijd voor je neemt en je vertrouwen geeft. De lessen waren erg fijn en ik stapte altijd met een goed gevoel uit. (Bor)",
+    "Bij time2drive kreeg ik op een fijne manier bijpassende begeleiding tijdens het rijden. Peter legt alles rustig uit en geeft je een relaxed gevoel tijdens de lessen waardoor het zeker ook geschikt is voor mensen die sneller gestrest raken of autorijden spannend vinden. (Guojian)",
+    "Hele fijne rijschool! Heeft mij veel geleerd. Positieve en geduldige sfeer. Paste zich goed aan op wat ik nog moest leren... Legde dingen duidelijk uit en stond altijd open voor vragen. Goede balans tussen gezellig en leerzaam. (ShanAn)",
+    "Mijn instructeur was erg duidelijk en geduldig, hij legde alles stapsgewijs goed uit en ik ben in een keer geslaagd! Zeker aan te raden! (Daan)",
+    "Ik heb ongeveer 1,5 jaar bij time to drive rijles gehad, ik vond het super leuk en relaxed. Alle leermethodes worden rustig aan je geleerd en dingen die je moeilijk vind worden goed behandeld. (Cathelijne)",
+    "Ordelijke, aardige en professionele rij-instructeur. Je betaalt alleen voor de lessen die je nodig hebt, dus een aanrader voor iedereen. Peter spreekt ook goed Engels. (Bharath Srinivas)",
+    "Peter neemt echt de tijd voor elk onderwerp. Hij gooit je niet meteen in het diepe, maar bouwt de moeilijkheid op naarmate jouw rijvaardigheid verbeterd. Hij is erg vriendelijk en geduldig. (Lena)"
+  ],
+  "sentiment": "very_positive",
+  "sentiment_index": 95,
+  "themes_positive": ["patient", "calm/relaxed atmosphere", "clear step-by-step explanation", "good with nervous learners / faalangst", "personal tailored approach", "English lessons for expats", "honest feedback", "passed first time", "only pay for lessons you need"],
+  "themes_negative": ["four-week wait for a starting spot", "handgeschakeld only (no automatic)"],
+  "english_in_reviews": "yes",
+  "review_summary": "Students consistently describe Time2drive (one-man school run by instructor Peter) as calm, patient and methodical, tailoring lessons to the individual and being especially good with nervous learners and faalangst; multiple expats explicitly note lessons, mock exam and CBR exam were done fluently in English and several passed first time. The only mild negatives are a multi-week wait for a starting spot and that lessons are manual-transmission only.",
+  "red_flags": ["Google sample is small (about 7-9 reviews) and uniformly 5-star with similar phrasing, so some selection effect is possible; however the independent verified klantenvertellen corpus (168 reviews, 9.4/10) is large and substantive, which strongly mitigates this."]
+}

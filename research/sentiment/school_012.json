@@ -1,0 +1,18 @@
+{
+  "row_index": 12,
+  "slug": "school_012",
+  "rijschool": "Rijschool Kaniwar",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 2,
+  "sentiment_index": 32,
+  "sentiment": "negative",
+  "themes_positive": [
+    "goed"
+  ],
+  "themes_negative": [
+    "zeer slechte ervaring",
+    "niet aan te raden"
+  ],
+  "confidence": "medium",
+  "rationale": "De ene quote noemt de leservaring expliciet zeer slecht en niet aan te raden, terwijl de positieve feedback alleen heel algemeen is."
+}

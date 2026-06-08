@@ -1,0 +1,24 @@
+{
+  "row_index": 18,
+  "slug": "school_018",
+  "rijschool": "Autorijschool Van Grootel",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 11,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "kundige instructeur",
+    "persoonlijke aandacht",
+    "geduld",
+    "duidelijke en scherpe feedback",
+    "veiligheidsgevoel",
+    "snelle vooruitgang",
+    "hoge slagingskans",
+    "geen onnodige lessen",
+    "vertrouwen op de motor",
+    "1-op-1 lessen"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn consequent en zeer positief over Edwin als geduldige, professionele en effectieve motorrij-instructeur die leerlingen snel en veilig laat slagen."
+}

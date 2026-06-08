@@ -1,0 +1,55 @@
+{
+  "row_index": 76,
+  "slug": "school_076",
+  "rijschool": "Rijschool Asro",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "website": "https://www.rijschoolasro.nl",
+  "review_trust": "moderate",
+  "review_substance": "substantive",
+  "verified_reviews": false,
+  "reviews_read": 12,
+  "sentiment": "very_positive",
+  "sentiment_index": 88,
+  "english_in_reviews": "no",
+  "platforms_found": ["Google (via clickdrive.nl)", "rijlessen.nl", "Facebook", "wheree.com", "rijschoolspecialist.nl"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-asro",
+    "https://rijlessen.nl/rijscholen/den-bosch/rijschool-11428-rijschool-asro",
+    "https://rijschool-asro.wheree.com",
+    "https://www.facebook.com/100070072221536",
+    "https://www.rijschoolspecialist.nl/rijschool-asro"
+  ],
+  "verified_reviews_note": "No klantenvertellen.nl, Trustpilot or Trustoo page found. Reviews are Google reviews surfaced via clickdrive.nl; rated 5.0/5 on ~55 Google reviews, 88% on rijlessen.nl.",
+  "representative_quotes": [
+    "Ik ben gelijk de 1e keer geslaagd. Taylan is iemand die jou zeker goed voorbereidt voor je examen... hij zal jou niet op examen laten gaan als je er echt nog niet klaar voor bent.",
+    "Ik heb tegen mijn verwachtingen in binnen 6 maanden in één keer mijn rijbewijs bij rijschool asro kunnen halen. Voor elke les kreeg ik huiswerk om de les voor te bereiden.",
+    "Taylan gaat echt kijken naar de kleine dingetjes die je fout doet... en blijft hier mee oefenen totdat dit vlekkeloos gaat.",
+    "Ik ben 2 maanden geleden begonnen en heb in die tijd mijn tussentijdse toets en praktijk examen in 1x kunnen halen. Taylan stuurt je alleen naar je examen als hij echt vertrouwen in je heeft.",
+    "In het begin was ik vaak gestrest en keek ik op tegen het examen, maar Taylan zorgde ervoor dat ik me steeds meer op mijn gemak voelde.",
+    "Hij was niet alleen een goede rijinstructeur maar ook de hoeveelheid humor die hij biedt is fijn! Zijn duidelijke uitleg gaf me veel zelfvertrouwen.",
+    "Vanaf de eerste les voelde ik me helemaal op mijn gemak bij Taylan... helpt je stap voor stap om je zekerder te voelen achter het stuur.",
+    "Super fijne rijschool! Erg veel geduld en een duidelijke aanpak. Hiernaast ook erg meedenkend over wat handig is qua lessen en/of afrijden.",
+    "Hele fijne rijschool. Je leert snel en het is heel gezellig. Heb binnen een half jaar alles in 1x gehaald!",
+    "Gezelligheid was aanwezig maar je wordt zeker gepusht om goed je best te doen en goed te leren rijden. Op Taylan kan je vertrouwen.",
+    "Taylan bereidt je enorm goed voor op het examen, zodat je er met zekerheid naartoe kunt gaan. Rijschool Asro is zeker een aanrader!",
+    "Hele fijne rijschool. Goede communicatie alles wordt je duidelijk en zuiver uitgelegd je merkt echt dat de instructeur je graag wilt helpen."
+  ],
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "good with nervous/stressed learners",
+    "high first-time pass rate",
+    "homework / structured preparation",
+    "honest (only sends you to exam when ready)",
+    "humor / friendly atmosphere",
+    "builds confidence"
+  ],
+  "themes_negative": [
+    "one isolated 1-star Google rating with no written explanation"
+  ],
+  "red_flags": [
+    "Single-platform: nearly all readable reviews are Google reviews (no independent verified klantenvertellen page).",
+    "Reviews cluster heavily around glowing 5-star praise of one instructor (Taylan); one 1-star rating exists but has no text to assess."
+  ],
+  "review_summary": "Students consistently praise Rijschool Asro's instructor Taylan as patient, clear and good at calming exam nerves, with many reporting they passed in one attempt within ~2-6 months thanks to structured homework-based lessons and honest readiness assessment. The reviews are substantive and specific but come almost entirely from Google with no independent verified platform; a lone 1-star rating carries no written explanation."
+}

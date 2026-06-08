@@ -1,0 +1,28 @@
+{
+  "row_index": 106,
+  "slug": "school_106",
+  "rijschool": "Autorijschool John Van Zuijdam",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 6,
+  "sentiment_index": 68,
+  "sentiment": "positive",
+  "themes_positive": [
+    "fijne rijlessen",
+    "aardige instructeur",
+    "leuke humor",
+    "goede uitleg",
+    "veel geleerd",
+    "goede voorbereiding op examen",
+    "nuttige tips",
+    "snel geslaagd"
+  ],
+  "themes_negative": [
+    "snel geïrriteerd bij fouten",
+    "lessen niet leuk",
+    "te lang door laten lessen",
+    "meer aandacht voor auto dan leerling",
+    "verkeerde verlichting/onzorgvuldigheid"
+  ],
+  "confidence": "medium",
+  "rationale": "Meerdere reviews prijzen de fijne lessen, goede uitleg en snelle slaagkans, maar er zijn ook duidelijke klachten over irritatie, lange trajecten en gebrek aan leerlingfocus."
+}

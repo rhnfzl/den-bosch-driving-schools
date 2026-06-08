@@ -1,0 +1,56 @@
+{
+  "row_index": 44,
+  "slug": "school_044",
+  "rijschool": "Rijles Mera",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 33,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "yes",
+  "review_summary": "Students consistently describe instructor Mera (Merhawi) as patient, calm and clear, with many saying they passed in one go; the most substantive testimonials come from Google Maps and several are written in English by international learners. The bulk of the rijschoolspecialist reviews are very short, generic one-line praise.",
+  "themes_positive": [
+    "patient",
+    "calm",
+    "clear explanation",
+    "good with nervous learners",
+    "builds confidence",
+    "passed first time",
+    "friendly/gezellig atmosphere"
+  ],
+  "themes_negative": [],
+  "representative_quotes": [
+    "Mera is an excellent driving teacher. He is patient, calm, and explains everything clearly, which makes learning to drive much less stressful.",
+    "He gives helpful advice and builds confidence step by step during each lesson. Thanks to his guidance, I feel much more comfortable and safe on the road.",
+    "It was really good time, he is de best instructor I passed in one time & I am extremely grateful to you Mera",
+    "Today i am very happy. because i take fierst exam car driving and this is the resalt of hard work of my teacher Mera. so i thanks him a lot. Mera driving school is the best.",
+    "Mera Rijschool is super fijn en geduldig. Alles wordt duidelijk uitgelegd en ik voelde me altijd rustig. Dankzij hen heb ik mijn rijbewijs in één keer gehaald. Echt een aanrader!",
+    "Ik heb een ontzettend fijne ervaring gehad met Merhawi (Rijles Mera). Hij is super geduldig en de lessen waren altijd heel gezellig. Dankzij hem voel ik me nu zelfverzekerd achter het stuur, en ik heb ook nog eens in één keer mijn rijbewijs gehaald!",
+    "Best Rijles mera. Duidelijk les en goeie docent",
+    "Gezellig, duidelijk en groot kans dat je in een keer geslaagd. de best mera rijles",
+    "Het is top Rijschool. Ik heb eerste keer mijn Rijbewijs gehaald. Ik heb echt van genoten en geleerd",
+    "Hij is echt open en behulpzaam. Hij heeft alles gedaan om mij om hoog te tillen. Eindelijk heb ik het [rijbewijs gehaald]",
+    "het is echt zeker beste rijschool dit raad ik je zeker aan naar deze rijdschool te gaan. ik heb eindelijk mijn rijbewijs gehaal in een keer.",
+    "De beste rijschool mera"
+  ],
+  "red_flags": [
+    "On rijschoolspecialist.nl most of the 28 reviews are very short generic one-liners ('De beste rijschool mera', 'Hij is Top rij instructeur', 'Beste rijschool. Mera') with little specific detail",
+    "Reviewer names on rijschoolspecialist are heavily concentrated in one community (Eritrean/Tigrinya), and the cluster of near-identical 5-star praise suggests solicited community reviews",
+    "Only one of 28 rijschoolspecialist ratings is below 5 stars; no negative, mixed or lukewarm reviews appear on any platform",
+    "No independent verified-platform reviews (klantenvertellen/Kiyoh) exist for this school; substance rests on a handful of Google Maps reviews",
+    "Single-instructor sole proprietorship, so the review base is small"
+  ],
+  "platforms_found": [
+    "rijschoolspecialist.nl",
+    "rijloket.nl (republishing Google Maps reviews)",
+    "Google Maps"
+  ],
+  "sources": [
+    "https://www.rijschoolspecialist.nl/rijles-mera",
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/rijles-mera-s-hertogenbosch",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijles-mera",
+    "https://www.drivedutch.nl/forum/Rijles%20Mera/'S-HERTOGENBOSCH/744733440000"
+  ],
+  "verified_reviews_note": "No klantenvertellen / Kiyoh page found for Rijles Mera; quotes drawn from Google Maps (via rijloket) and rijschoolspecialist.nl."
+}

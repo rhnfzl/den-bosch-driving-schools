@@ -1,0 +1,24 @@
+{
+  "row_index": 15,
+  "slug": "school_015",
+  "rijschool": "Van der Steen t.h.o.d.n. NXXT",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 68,
+  "sentiment": "positive",
+  "themes_positive": [
+    "geduldige instructeurs",
+    "duidelijke uitleg",
+    "fijne en ontspannen sfeer",
+    "goede rijlessen",
+    "in één keer slagen"
+  ],
+  "themes_negative": [
+    "structureel te laat komen",
+    "lessen die uitvallen of worden afgezegd",
+    "slechte communicatie",
+    "onbeantwoorde vragen"
+  ],
+  "confidence": "medium",
+  "rationale": "De meeste quotes prijzen geduld, duidelijke uitleg en een prettige sfeer, maar er zijn ook serieuze klachten over te laat komen, annuleringen en communicatieproblemen."
+}

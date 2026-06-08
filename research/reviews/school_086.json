@@ -1,0 +1,38 @@
+{
+  "row_index": 86,
+  "slug": "school_086",
+  "rijschool": "Autorijschool M. Van Boxtel",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "review_summary": "No readable, attributable review text could be found for Autorijschool M. Van Boxtel. Aggregators (rijschoolspecialist, autorijschooltarieven, rijscholen-gids, rijschool-tips) all show zero reviews; klantenvertellen has no page for this school; clickdrive.nl references '5 Google reviews' but renders a 0.0/5 rating with no review bodies loadable. Nothing substantive could be quoted.",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No written reviews available on any reachable platform (only aggregator stubs with 0 reviews)",
+    "clickdrive.nl cites '5 Google reviews' but shows a 0.0/5 rating and no extractable review text (JS-gated)",
+    "No klantenvertellen / verified-review presence for this school",
+    "High risk of confusion with similarly-named or nearby schools (e.g. 'Rijschool Noord-Brabant'/instructor Michel, 'Autorijschool Dennis van Boxtel', 'Autorijschool Gestel') whose reviews must NOT be attributed here"
+  ],
+  "platforms_found": [
+    "clickdrive.nl (5 Google reviews claimed, 0.0/5 shown, no bodies)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "autorijschooltarieven.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)",
+    "rijschool-tips.nl (no review text)",
+    "cbr.nl (pass-rate data only, no reviews)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/sint-michielsgestel/autorijschool-m-van-boxtel",
+    "https://www.rijschoolspecialist.nl/autorijschool-m-van-boxtel",
+    "https://www.autorijschooltarieven.nl/rijschool/autors-m-van-boxtel",
+    "https://www.rijschool-tips.nl/rijschool/sint-michielsgestel/autorijschool-m-van-boxtel",
+    "https://rijscholen-gids.nl/sint-michielsgestel",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-m.-van-boxtel"
+  ]
+}

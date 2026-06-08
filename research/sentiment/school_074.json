@@ -1,0 +1,22 @@
+{
+  "row_index": 74,
+  "slug": "school_074",
+  "rijschool": "Van der Ven Rijopleidingen",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 96,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduld",
+    "duidelijke instructies",
+    "rustige ontspannen sfeer",
+    "persoonlijke aandacht",
+    "op eigen tempo lessen",
+    "veel plezier tijdens lessen",
+    "goed voorbereid de weg op",
+    "helpt bij rijangst"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn zeer consistent positief en prijzen vooral het geduld, de duidelijke uitleg, de rustige sfeer en de persoonlijke aanpak van de instructeur."
+}

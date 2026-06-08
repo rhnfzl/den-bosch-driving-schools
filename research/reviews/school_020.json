@@ -1,0 +1,45 @@
+{
+  "row_index": 20,
+  "slug": "school_020",
+  "rijschool": "Motorrijles Max",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "sentiment": "positive",
+  "sentiment_index": 78,
+  "english_in_reviews": "yes",
+  "verified_reviews": false,
+  "reviews_read": 14,
+  "platforms_found": ["clickdrive.nl (Google aggregator)", "motorrijlesmax.nl (own site, curated Google quotes)", "maxrijschool.nl (sibling brand site)", "rijschoolbaron.nl (sibling brand site)", "trustoo.nl (aggregator, brand-mixed)"],
+  "sources": [
+    "https://motorrijlesmax.nl",
+    "https://maxrijschool.nl",
+    "https://rijschoolbaron.nl",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-baron",
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/rijschool-van-de-griendt",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/motorrijles-max"
+  ],
+  "representative_quotes": [
+    "Motorrijles gehad, beviel echt heel goed. Geeft niet teveel kritiek achter elkaar, benoemt ook wat goed gaat en hoe je vanaf daar verder kunt bouwen. Goed voor je zelfvertrouwen op de weg.",
+    "Geholpen om mijn motorrijbewijs snel te halen ook al heb ik een zeer drukke agenda. Zeer vriendelijk maar ook duidelijk.",
+    "De instructeur was altijd eerlijk, rustig en ontzettend geduldig. Hield altijd rekening met mijn tempo en schema. In een keer geslaagd na 4 maanden lessen.",
+    "Bij mijn vorige rijschool bleef ik zakken omdat het niet duidelijk was wat ik fout deed. Hier werd meteen aangewezen waar het mis ging en snel geslaagd.",
+    "De instructeur is heel eerlijk, meedenkend en neemt de tijd voor zijn leerlingen. Vanaf dag een al vertrouwen gevoeld en vandaag dan eindelijk geslaagd.",
+    "Voordat ik overstapte had ik moeite om rustig en ontspannen te rijden. Toch heb ik mijn rijbewijs hier gehaald. Er hangt altijd een ontspannen sfeer maar ook duidelijke uitleg.",
+    "Zorgde voor een snel examen en maakte me klaar met vertrouwen voor het examen in de kortst mogelijke tijd.",
+    "A really good instructor who is patient and makes driving fun. There is no pressure and you feel safe and comfortable. ... helps you grow as fast as possible.",
+    "They will honestly inform you of the number of lessons required without attempting to extract more money. If you want a hassle-free driving experience, this is the place.",
+    "Een hele goede instructeur die geduldig is en het rijden leuk maakt. Bij Baron is er geen druk en voel je je veilig en comfortabel tijdens het rijden.",
+    "Voorheen 2x gezakt en daarna bij Max gaan lessen waarop ik in 1x geslaagd ben. Bedankt Max voor de gezellige lessen, de motivatie en het vertrouwen!",
+    "Max is ontzettend aardig en geduldig. Hij legt alles duidelijk uit en gebruikt zelfs uitgeschreven voorbeelden wanneer ik iets niet begreep."
+  ],
+  "themes_positive": ["patient", "clear explanation", "good with nervous learners / faalangst", "flexible scheduling", "passed first time", "honest advice on number of lessons", "no pressure / relaxed atmosphere", "helped after failing elsewhere"],
+  "themes_negative": [],
+  "red_flags": [
+    "No independent verified reviews (no klantenvertellen, Trustpilot or Facebook page found for Motorrijles Max)",
+    "Identical review quotes recycled verbatim across three sibling brand sites (Motorrijles Max, Rijschool Max, Rijschool Baron), some translated NL<->EN, indicating curated/templated marketing copy rather than an authentic spread",
+    "Brand confusion across aggregators: the clickdrive.nl page titled 'Motorrijles Max' uses slug 'rijschool-baron' and its review bodies thank 'Baron'; a Trustoo page for a different school ('van de Griendt') surfaces Google reviews thanking 'Max' - underlying Google profile cannot be cleanly attributed to this named school",
+    "All readable reviews are uniformly 5-star and glowing with no negative or mixed reviews anywhere; generic praise ('geduldig', 'duidelijke uitleg', 'in 1x geslaagd', 'aanrader') with little concrete exam-day detail",
+    "Curated 4.9 / 80+ Google rating claim contrasts with modest CBR first-time pass rate (~54% Den Bosch) and small exam volumes"
+  ],
+  "review_summary": "Readable review text for Motorrijles Max is almost entirely curated marketing copy reused verbatim across its sibling brand sites (Rijschool Max, Rijschool Baron), plus brand-mixed aggregator snippets, so it cannot be independently verified. The available quotes are uniformly very positive - praising a patient, honest instructor who explains clearly, is flexible, helps nervous or previously-failed learners, and gets students passed (often first time), with lessons offered in NL/EN/AR - but the absence of any independent or critical reviews means the glowing picture should be treated with caution."
+}

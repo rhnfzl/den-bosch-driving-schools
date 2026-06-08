@@ -1,0 +1,21 @@
+{
+  "row_index": 41,
+  "slug": "school_041",
+  "rijschool": "Autorijschool De Groene Golf",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 93,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldige instructeur",
+    "duidelijke uitleg",
+    "gezellige en prettige sfeer",
+    "veel persoonlijke aandacht",
+    "flexibel plannen en goed bereikbaar",
+    "vertrouwen en goede leskwaliteit",
+    "goede voorbereiding op examen"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn consequent lovend over de geduldige, duidelijke en gezellige begeleiding, met meerdere mentions van goede voortgang en slagen voor het examen."
+}

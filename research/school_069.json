@@ -1,0 +1,32 @@
+{
+  "row_index": 69,
+  "slug": "school_069",
+  "rijschool": "Rijschool Starters",
+  "plaats": "S-HERTOGENBOSCH",
+  "english_instruction": "unknown",
+  "english_confidence": "low",
+  "english_evidence": null,
+  "english_source": null,
+  "transmission": "unknown",
+  "transmission_source": null,
+  "founding_year": 2020,
+  "founding_year_basis": "kvk",
+  "founding_confidence": "high",
+  "website": null,
+  "phone": null,
+  "address": "Rosmalen (gemeente 's-Hertogenbosch); exact street/number not public (KvK address shielded)",
+  "postcode": "5213",
+  "kvk_number": "80405126",
+  "cbr_rijschoolnummer": "7825U2",
+  "google_rating": null,
+  "review_count": null,
+  "price_signal": null,
+  "waitlist_signal": null,
+  "notes": "Identity confirmed via CBR official register (Rijschoolnummer 7825U2, KvK 80405126, plaats 5213 's-Hertogenbosch, contact yassine_benhaddad@hotmail.com) and rijscholen-gids.nl (KvK 80405126, oprichtingsdatum 01-10-2020, Eenmanszaak, 1 werkzaam persoon, gevestigd in Rosmalen, gemeente 's-Hertogenbosch). Founding 2020 (KvK reg date) is consistent with Clickdrive's '6 jaar ervaring' (2026-6=2020). No own website found; only aggregator listings (Clickdrive, rijscholen-gids, CBR). Clickdrive shows 0,0/5 (0 reviews); no Google rating located. Personal approach with one fixed instructor; offers spread payment and home pickup. DISAMBIGUATION: English-language driving-lesson pages (startdrivingdenbosch.nl, drivingschooltilburg.com, drivingschoolbreda.com) belong to a DIFFERENT school, 'Rijschool Start Driving' (rijschoolnummer 3098H4, Pallasstraat 52 Tilburg) -- NOT Rijschool Starters -- so they are not evidence for English instruction here. No evidence found for English instruction, transmission (automaat/schakel), or pricing for Rijschool Starters specifically; all left unknown/null. CBR pass rate over 2025-04-01 to 2026-03-31: 35% first-exam average across locations (Den Bosch first-attempt 43% over 14 exams).",
+  "sources": [
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-starters",
+    "https://rijscholen-gids.nl/rosmalen/rijschool-starters",
+    "https://clickdrive.nl/rijscholen/rosmalen/rijschool-starters",
+    "https://startdrivingdenbosch.nl"
+  ]
+}

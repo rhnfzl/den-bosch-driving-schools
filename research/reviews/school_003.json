@@ -1,0 +1,46 @@
+{
+  "row_index": 3,
+  "slug": "school_003",
+  "rijschool": "Rijschool Masto",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "website": "https://rijschoolmasto.nl",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 1,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "themes_positive": [],
+  "themes_negative": [
+    "poor coach / bad instructor experience",
+    "wastes lesson time (minutendief)",
+    "rude to students"
+  ],
+  "representative_quotes": [
+    "Slechtste coach ooit, grote teleurstelling.",
+    "De meest mislukte coach van Nederland is een minutendief, en ook al spreek ik niet goed met Talib, jij hebt gebreken.",
+    "De slechtste coach van Nederland, een minutendief en zelfs niet goed tegen studenten pratend, jij hebt gebreken."
+  ],
+  "red_flags": [
+    "Only review source is Google Reviews (34 reviews, 4.8/5 aggregate); no presence on klantenvertellen, Trustpilot, Trustoo, ANWB/Tevreden, or Facebook.",
+    "Individual positive Google review bodies are JavaScript-rendered and could not be retrieved; only the single most-recent 1-star review body was scrapeable, so the captured corpus is one-sided by extraction limitation, not by cherry-picking.",
+    "The one readable review is a generic insult-driven 1-star with no concrete lesson detail beyond name-calling ('minutendief'), so its substance is low.",
+    "CBR official first-time practical pass rate at Den Bosch is ~48-49%, below the 54% location average; debesterijscholen.nl ranks Masto #22 locally at 45% pass rate (context, not review text).",
+    "Aggregate 4.8/5 from only 34 Google reviews is plausible but unverifiable at the text level with available tools."
+  ],
+  "review_summary": "Rijschool Masto's only review footprint is Google Reviews (34 reviews, 4.8/5 aggregate per clickdrive/EduCar); there are no independent verified reviews (no klantenvertellen, Trustpilot, ANWB). Only one review body was actually readable, a recent 1-star Dutch review attacking a coach ('Talib') as a 'minutendief' (time-waster) and rude to students; the many positive reviews implied by the 4.8 score could not be read because their text is JS-rendered.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-masto",
+    "https://www.educarplatform.nl/rijscholen/esch/5956-rijschool-masto",
+    "https://www.drivedutch.nl/forum/Rijschool%20Masto/'S-HERTOGENBOSCH/85895121",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-masto",
+    "https://debesterijscholen.nl/s-hertogenbosch"
+  ],
+  "platforms_found": [
+    "Google Reviews (34 reviews, 4.8/5 aggregate, via clickdrive.nl and EduCar)",
+    "CBR (official exam pass-rate stats only, no review text)",
+    "DriveDutch (CBR exam stats only, no review text)",
+    "debesterijscholen.nl (pass-rate ranking only, no review text)"
+  ]
+}

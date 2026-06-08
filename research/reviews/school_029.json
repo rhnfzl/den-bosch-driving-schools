@@ -1,0 +1,45 @@
+{
+  "row_index": 29,
+  "slug": "school_029",
+  "rijschool": "Rijschool Willi Horváth",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable review text found on any platform; only a numeric star aggregate exists.",
+    "klantenvertellen.nl has no presence/verified reviews for this school.",
+    "Multiple directory aggregators (rijschoolspecialist.nl, rijscholen-gids.nl, rijlesindebuurt.nl) explicitly show 0 reviews / 'nog geen beoordelingen'.",
+    "ClickDrive reports a Google aggregate of 5.0/5 from 10 reviews, but the review bodies do not render and could not be retrieved.",
+    "ClickDrive/EduCar profiles attach a generic templated 'Jan Schilder' bio (motorcycle/zijspan specialist, ex-Amsterdam traffic police) that appears reused across schools and likely does not describe this one-person eenmanszaak (owner Willi Horváth) — a data-quality red flag.",
+    "Perfect 5.0/5 from exactly 10 Google reviews on a school whose CBR car pass rate is below average (42%) warrants caution, but cannot be assessed without the text.",
+    "One-person eenmanszaak (single instructor), active since 2007; very low online review footprint."
+  ],
+  "sentiment_summary_caveat": "sentiment is based ONLY on an unread Google star aggregate (5.0/5, 10 reviews per ClickDrive), not on any review text; treat as low-confidence.",
+  "review_summary": "No readable customer review text could be found on any credible platform (klantenvertellen.nl, Google review bodies, Trustpilot, Facebook). ClickDrive reports an unread Google aggregate of 5.0/5 from 10 reviews, but with no review bodies available the authenticity and substance cannot be judged, so trust is insufficient.",
+  "platforms_found": [
+    "clickdrive.nl (reports Google aggregate 5.0/5, 10 reviews; bodies not retrievable)",
+    "educarplatform.nl (same Google aggregate, templated bio, no bodies)",
+    "drivedutch.nl (CBR exam stats only, no written reviews)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)",
+    "rijlesindebuurt.nl (no reviews shown)",
+    "cbr.nl (official stats only)",
+    "Google Maps (school did not surface with visible rating; no readable text)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/en/driving-schools/s-hertogenbosch/rijschool-willi-horvath",
+    "https://www.educarplatform.nl/rijscholen/vinkel/5984-rijschool-willi-horvath",
+    "https://www.drivedutch.nl/forum/Rijschool%20Willi%20Horv%C3%A1th/'S-HERTOGENBOSCH/172146300000",
+    "https://www.rijschoolspecialist.nl/rijschool-willi-horvath",
+    "https://rijscholen-gids.nl/s-hertogenbosch/rijschool-willi-horvath",
+    "https://rijlesindebuurt.nl/rijschool/rijschool-willi-horvath",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-willi-horvath"
+  ]
+}

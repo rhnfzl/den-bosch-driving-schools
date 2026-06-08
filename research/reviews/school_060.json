@@ -1,0 +1,52 @@
+{
+  "row_index": 60,
+  "slug": "school_060",
+  "rijschool": "Autorijschool van de Sande",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "sentiment": "positive",
+  "sentiment_index": 72,
+  "english_in_reviews": "no",
+  "review_summary": "For the correct school (Karin van de Sande, Vlijmen) there is no independent, verified, readable review text: clickdrive shows only an unverified Google aggregate of 5.0/5 from 8 reviews with no visible bodies, and the only readable testimonials are self-published on her own website. Of those, only a handful describe actual instruction (calm, patient, clear explanation, good with learners needing extra attention); the rest are congratulatory launch messages from her social circle rather than student reviews.",
+  "representative_quotes": [
+    "Een hele fijne rij-instructeur. Lief, vriendelijk en duidelijke uitleg. (website testimonial, Dominique van der Steen)",
+    "Karin is een rustige vrouw met oog en vooral geduld voor klanten die speciale aandacht nodig hebben. (website testimonial, Eveline Simons)",
+    "Super bedankt voor de leuke en fijne lessen!! Ga het zeker missen (website testimonial, Regina van Bijnen)",
+    "Ontspannen rijlessen volgen bij een vaste instructeur? Die in elke situatie de rust bewaart en jou het vertrouwen geeft? Dan ben je bij Karin aan het juiste adres!! (website testimonial, Leontine Schreuder-Van de Sande)",
+    "Gaaf Karin. Veel succes met je nieuwe uitdaging. Super! (website message, Marielle - congratulatory, not a student review)",
+    "Wauw Karin, wat leuk! Succes. (website message, Marjon - congratulatory, not a student review)",
+    "Geweldig, Karin. Jammer dat mijn jongens hun rijbewijs al hebben. (website message, Mariëtte - congratulatory, not a student review)"
+  ],
+  "themes_positive": [
+    "calm / relaxed atmosphere",
+    "patient",
+    "clear explanation",
+    "friendly / kind",
+    "good with nervous learners or those needing extra attention",
+    "fixed instructor and car"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "No independent verified reviews (no klantenvertellen page for this school; the klantenvertellen 9.2/134 page is a DIFFERENT school, 'Autorijschool Van de Sanden', instructor Frans in Tilburg)",
+    "Google rating 5.0/8 reported by aggregators (clickdrive) but no review bodies are visible/readable",
+    "Only readable testimonials are self-published on the school's own website (unverified, solicited)",
+    "Most website 'recensies' are congratulatory launch messages from friends/family/peers, not actual student reviews",
+    "rijscholen-gids.nl lists 'nog geen beoordelingen' (no reviews); very low review volume overall"
+  ],
+  "platforms_found": [
+    "Google (aggregate only, via clickdrive.nl: 5.0/5, 8 reviews, no visible bodies)",
+    "School website autorijschoolvandesande.nl (self-published testimonials)",
+    "rijscholen-gids.nl (no reviews)",
+    "klantenvertellen.nl (NOT this school - belongs to 'Autorijschool Van de Sanden' / Frans / Tilburg)"
+  ],
+  "verified_reviews_note": "false",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vlijmen/autorijschool-van-de-sande",
+    "https://autorijschoolvandesande.nl",
+    "https://autorijschoolvandesande.nl/even-voorstellen",
+    "https://rijscholen-gids.nl/vlijmen/autorijschool-van-de-sande",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-van-de-sande"
+  ]
+}

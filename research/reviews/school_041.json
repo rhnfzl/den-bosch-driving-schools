@@ -1,0 +1,53 @@
+{
+  "row_index": 41,
+  "slug": "school_041",
+  "rijschool": "Autorijschool De Groene Golf",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 13,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "platforms_found": ["Google (via Clickdrive)", "Trustoo", "DriveDutch", "CBR"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-de-groene-golf",
+    "https://clickdrive.nl/en/driving-schools/rosmalen/autorijschool-de-groene-golf",
+    "https://trustoo.nl/noord-brabant/rosmalen/rijschool/go-with-the-flo-verkeersschool-berger",
+    "https://www.rijschoolbijmij.nl/rijschool/698/autorijschool-de-groene-golf",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-de-groene-golf"
+  ],
+  "representative_quotes": [
+    "Krijn was ontzettend geduldig en een leuk persoon om mee een ritje te maken! Heeft me toen nog na mn examen door de mcdrive genomen.",
+    "Krijn is een instructeur die volledig de tijd voor je neemt en die weet waar je als leerling behoefte aan hebt. Altijd geduld en begripvol op de momenten waarop je fouten maakt maar tegelijkertijd scherp op de dingen die toch echt beter kunnen.",
+    "Tip voor toekomstige leerlingen: maak zeker gebruik van de tussentijdse toets... zorgt ervoor dat je optimaal bent voorbereid op het echte examen.",
+    "Krijn is wiskunde docent geweest en dat merk je! Hele duidelijke, geduldige en vriendelijke instructeur. Heb me altijd op m'n gemak gevoeld bij Krijn in de auto.",
+    "In combinatie met de stapsgewijze RIS methode alles rustig kunnen opbouwen en alles in 1 keer gehaald.",
+    "Heel leuk en gezellig kunnen lessen. Erg geduldige rijinstructeur waar je op kunt vertrouwen, steun waar het nodig is.",
+    "Goede rijschool. Flexibel voor veranderende roosters en makkelijk te bereiken en altijd gezellig, je voelt je snel op je gemak.",
+    "Fouten maken mag bij hem en er is ook genoeg ruimte om een gezellig praatje te maken. Hij is geduldig en legt alles helder uit.",
+    "Super leerzame lessen en tegelijkertijd heel gezellig! Eerste keer gelijk geslaagd door het vele vertrouwen en de hoge les kwaliteit.",
+    "Ik heb een tijdje bij Florian gelest en toen werden mijn lessen overgenomen door Krijn. Alle twee hartstikke fijne rijinstructeurs... waar de communicatie duidelijk is, er netjes en tijdig wordt gepland.",
+    "Bedankt Krijn! Ik vond het erg gezellig tijdens de lessen maar ik ben tegelijkertijd ook erg voor uit gegaan. Veel geleerd op een goed tempo!",
+    "Altijd fijn kunnen lessen ! En goed bereikbaar"
+  ],
+  "themes_positive": [
+    "patient instructor",
+    "clear explanation",
+    "relaxed/friendly atmosphere",
+    "RIS step-by-step method",
+    "tussentijdse toets / good exam preparation",
+    "passed first time",
+    "flexible scheduling",
+    "good with making mistakes / builds confidence"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "All reviews are 5-star with no negative or mixed text surfaced; one-man school so all praise centers on a single instructor (Krijn).",
+    "Several reviews share a near-identical tone (gezellig / geduldig / Krijn / RIS / in 1x geslaagd), which slightly reduces independence.",
+    "No klantenvertellen (independent verified) page found; review base is essentially Google reviews mirrored across aggregators.",
+    "Google rating (5.0, ~20) and Trustoo aggregate (8.9, 92 across 4 sources) diverge, suggesting the Trustoo count pools multiple platforms rather than 92 distinct readable reviews.",
+    "Modest CBR first-time pass rate (~44-47%, below the ~54% Den Bosch average) is not reflected in the uniformly glowing reviews."
+  ],
+  "review_summary": "Students consistently describe Krijn (Hemminga), the sole instructor, as patient, calm and clear, with a relaxed atmosphere where mistakes are fine; many credit the RIS step-by-step method and the tussentijdse toets for passing on the first attempt and praise the flexible, easy-to-reach scheduling. All readable reviews are positive Dutch Google reviews with no negative or English-language feedback found."
+}

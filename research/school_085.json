@@ -1,0 +1,33 @@
+{
+  "row_index": 85,
+  "slug": "school_085",
+  "rijschool": "Autorijschool Zone073",
+  "plaats": "VLIJMEN",
+  "english_instruction": "unknown",
+  "english_confidence": "low",
+  "english_evidence": null,
+  "english_source": null,
+  "transmission": "both",
+  "transmission_source": "https://autorijschoolzone073.nl",
+  "founding_year": 2013,
+  "founding_year_basis": "kvk",
+  "founding_confidence": "high",
+  "website": "https://autorijschoolzone073.nl",
+  "phone": "06 5354 3312",
+  "address": "Van Limburg Stirumlaan 19",
+  "postcode": "5252AD",
+  "kvk_number": "57513430",
+  "cbr_rijschoolnummer": "2783F4",
+  "google_rating": null,
+  "review_count": null,
+  "price_signal": "Losse rijles 60 min €70,00; pakketten €2635 (30 lessen) - €3870 (50 lessen)",
+  "waitlist_signal": null,
+  "notes": "One-instructor eenmanszaak run by owner Robert van Gaalen (started rij-instructeur training 2012, KvK reg 20 March 2013). RIS-certified (Rijopleiding in Stappen). Teaches schakel, automaat and aanhanger (BE). CBR rijschoolnummer 2783F4 registered to plaats Vlijmen but lessons run on CBR Den Bosch routes. KvK 57513430 also carries handelsnamen 'Royal Drink Events', 'Autorijschool Zone041', 'Zero73' (rijschool-tips lists activity as 'Rijschool; catering', reflecting owner's horeca background). No English-instruction signal found on site or aggregators; no Google star rating surfaced (aggregators show CBR pass rates only).",
+  "sources": [
+    "https://autorijschoolzone073.nl",
+    "https://vindjerijschool.nl/rijscholen/vlijmen/autorijschool-zone073",
+    "https://www.rijschool-tips.nl/rijschool/vlijmen/autorijschool-zone073",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-zone073",
+    "https://nl.linkedin.com/in/robert-van-gaalen-7877a768"
+  ]
+}

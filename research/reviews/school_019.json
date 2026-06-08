@@ -1,0 +1,47 @@
+{
+  "row_index": 19,
+  "slug": "school_019",
+  "rijschool": "Autorijschool \"De Parel\"",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-de-parel-2",
+    "https://www.rijschoolspecialist.nl/autorijschool-de-parel",
+    "https://rijscholen-gids.nl/rosmalen/autorijschool-de-parel",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-de-parel-2"
+  ],
+  "platforms_found": [
+    "Google (via clickdrive.nl)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)"
+  ],
+  "representative_quotes": [
+    "Slechte ervaring, kwam niet opdagen met afspraak omdat hij het niet kon vinden. Terugbellen deed hij niet 😡",
+    "Goede rijschool, Deo rustige man met veel kennis en ervaring... Bedankt dat ik mijn rijbewijs heb mogen halen een aanrader!!",
+    "Onze dochter heeft prima les gehad en rijdt dankzij de Parel goed!"
+  ],
+  "sentiment": "mixed",
+  "sentiment_index": 60,
+  "themes_positive": [
+    "calm instructor (Deo)",
+    "experienced / knowledgeable",
+    "recommended",
+    "budget-friendly"
+  ],
+  "themes_negative": [
+    "missed/no-show appointment",
+    "did not call back / hard to reach"
+  ],
+  "english_in_reviews": "no",
+  "verified_reviews_note": "No klantenvertellen.nl, Trustpilot, or Trustoo page exists for this specific school; only 4 Google reviews available and most are 3-5 years old.",
+  "red_flags": [
+    "Very few reviews total (only 4 Google reviews, no verified-platform presence)",
+    "Most reviews are 3-5 years old; not recent",
+    "One review is rating-only with no text (Serine Nazimova)",
+    "Low CBR first-time pass rate (17-30%) contrasts with positive review tone",
+    "School website cites 'positieve reacties' but no independent verified review corpus exists"
+  ],
+  "review_summary": "Only four Google reviews exist for this one-man Rosmalen school and no verified-platform (klantenvertellen/Trustpilot) presence. Three of four are positive, praising instructor Deo as a calm, knowledgeable man who helped students pass, but one 1-star review complains he was a no-show for an appointment and did not call back."
+}

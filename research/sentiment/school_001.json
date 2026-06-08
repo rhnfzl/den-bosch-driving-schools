@@ -1,0 +1,29 @@
+{
+  "row_index": 1,
+  "slug": "school_001",
+  "rijschool": "Jve Rijopleidingen B.V. t.h.o.d.n. ANWB Rijopleiding",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 58,
+  "sentiment": "mixed",
+  "themes_positive": [
+    "duidelijke uitleg",
+    "vriendelijke en professionele medewerkers",
+    "persoonlijke en behulpzame begeleiding",
+    "fijne lesstijl",
+    "goede sfeer",
+    "snelle opleiding",
+    "in één keer geslaagd"
+  ],
+  "themes_negative": [
+    "onnodig extra lessen aangesmeerd",
+    "niet studentgericht",
+    "te zakelijk/commercieel",
+    "lange wachttijden voor lessen",
+    "te veel leerlingen",
+    "meerdere examens niet gehaald",
+    "hoge kosten"
+  ],
+  "confidence": "medium",
+  "rationale": "Meerdere reviews prijzen de duidelijke uitleg, vriendelijke begeleiding en prettige sfeer, maar er zijn ook serieuze klachten over commerciële druk, lange wachttijden en hoge kosten."
+}

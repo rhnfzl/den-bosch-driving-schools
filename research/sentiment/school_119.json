@@ -1,0 +1,22 @@
+{
+  "row_index": 119,
+  "slug": "school_119",
+  "rijschool": "M & S Rijopleidingen en Coaching V.O.F.",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 10,
+  "sentiment_index": 94,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "clear and useful instruction",
+    "confidence-building support",
+    "focus on weak points and fears",
+    "personal attention and tailored lessons",
+    "helpful exam preparation",
+    "professional and punctual communication",
+    "multilingual support",
+    "good vehicles"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "The quotes consistently praise Mehran and the team for clear, tailored, confidence-building lessons that helped students pass their exams successfully."
+}

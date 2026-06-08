@@ -1,0 +1,20 @@
+{
+  "row_index": 49,
+  "slug": "school_049",
+  "rijschool": "Autorijschool Driezeeg",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 6,
+  "sentiment_index": 88,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "rustige en ontspannen sfeer",
+    "vertrouwen opbouwen in de auto",
+    "gestructureerde begeleiding richting rijbewijs",
+    "lesgeven in het Engels",
+    "persoonlijke en behulpzame instructeur",
+    "aanrader"
+  ],
+  "themes_negative": [],
+  "confidence": "medium",
+  "rationale": "De reviews zijn unaniem lovend over Frank als rustige, gestructureerde en behulpzame instructeur die vertrouwen geeft en ook Engels kan lesgeven."
+}

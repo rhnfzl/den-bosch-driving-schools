@@ -1,0 +1,22 @@
+{
+  "row_index": 20,
+  "slug": "school_020",
+  "rijschool": "Motorrijles Max",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 94,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldige instructeur",
+    "duidelijke uitleg",
+    "rustige/ontspannen sfeer",
+    "vertrouwen opbouwen",
+    "snel en efficiënt rijbewijs halen",
+    "vriendelijkheid en eerlijkheid",
+    "lessen op maat / rekening houden met tempo",
+    "veilig en comfortabel voelen"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes prijzen bijna unaniem de geduldige, duidelijke en eerlijke begeleiding, met veel vertrouwen, rust en snel slagen als resultaat."
+}

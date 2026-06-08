@@ -1,0 +1,16 @@
+{
+  "row_index": 65,
+  "slug": "school_065",
+  "rijschool": "Rijschool Maximo",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 1,
+  "sentiment_index": 72,
+  "sentiment": "positive",
+  "themes_positive": [
+    "top school",
+    "overall satisfaction"
+  ],
+  "themes_negative": [],
+  "confidence": "low",
+  "rationale": "The only quote is a brief positive endorsement, suggesting a favorable but not very detailed impression."
+}

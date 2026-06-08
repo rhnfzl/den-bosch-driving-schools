@@ -1,0 +1,23 @@
+{
+  "row_index": 48,
+  "slug": "school_048",
+  "rijschool": "rij-correct",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 8,
+  "sentiment_index": 96,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "professional instructors",
+    "patient and knowledgeable teaching",
+    "clear explanations",
+    "personal approach",
+    "confidence-building",
+    "constructive feedback",
+    "good preparation for exam",
+    "great customer service",
+    "strict but helpful guidance"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "The quotes consistently praise professional, patient instructors, clear and personal teaching, and strong preparation that helped students pass and feel confident."
+}

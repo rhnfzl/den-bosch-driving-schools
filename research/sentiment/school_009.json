@@ -1,0 +1,21 @@
+{
+  "row_index": 9,
+  "slug": "school_009",
+  "rijschool": "Autorijschool Safe Away",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 11,
+  "sentiment_index": 96,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "patient instructors",
+    "clear step-by-step explanations",
+    "confidence building",
+    "calming test-day support",
+    "friendly teaching style",
+    "experienced and talented teachers",
+    "respectful treatment"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "The reviews overwhelmingly praise the instructors for patience, clear teaching, confidence-building support, and strong results like passing the test."
+}

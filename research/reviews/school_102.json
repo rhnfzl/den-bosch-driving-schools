@@ -1,0 +1,60 @@
+{
+  "row_index": 102,
+  "slug": "school_102",
+  "rijschool": "Rijschool Sosan",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 18,
+  "sentiment": "positive",
+  "sentiment_index": 82,
+  "english_in_reviews": "yes",
+  "review_summary": "Students consistently praise a patient, calm instructor (named 'Baron' / 'Fawaz') who explains clearly, gives honest feedback and prepares them well for the CBR exam, with several expats noting lessons went smoothly in English. Reviews are almost all 5-star and largely Google-sourced one-liners with no independent verified platform, and the school's low official CBR pass rate contrasts with the glowing tone.",
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl aggregator)",
+    "rijschoolbaron.nl (own website testimonials)",
+    "CBR (pass-rate statistics only, no text reviews)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-sosan",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-baron",
+    "https://clickdrive.nl/ar/driving-schools/s-hertogenbosch/rijschool-sosan",
+    "https://rijschoolbaron.nl",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-sosan",
+    "https://nl.drivingschools.directory/nl-nl/i/36333-rijschool-den-bosch-speed"
+  ],
+  "representative_quotes": [
+    "Top rijschool, instructeur is heel eerlijk, meedenkend en neemt de tijd voor zijn leerlingen. Vanaf dag1 al vertrouwen gevoeld en vandaag dan eindelijk geslaagd.",
+    "Een hele goede instructeur die geduldig is en het rijden leuk maakt. Bij baron is er geen druk en voel je je veilig en comfortabel tijdens het rijden.",
+    "Goede instructeur, maakt altijd tijd. Ik heb mijn lessen in het Engels gevolgd en dat ging heel goed. Ook hebben we veel examentrajecten geoefend en toen ik zakte voor mijn rijexamen hielp hij mij de fouten te corrigeren en nu ben ik geslaagd.",
+    "Een ideale plek voor Engelssprekenden met goede instructies!",
+    "Ik had een ervaring bij een andere rijschool, maar zelfs bij veel lessen zakte ik nog steeds omdat hij bij de vorige instructeur niet duidelijk was wat ik verkeerd deed, maar bij Baron met weinig lessen wees hij op mijn problemen en ik slaagde gemakkelijk.",
+    "Ik heb mijn rijlessen gevolgd bij Baron en ik kan zeggen dat hij een zeer geduldige en rustige kerel is. Hij geeft goede feedback tijdens het rijden en werkt samen met jou om zelfverzekerd te zijn tijdens het rijden.",
+    "Heel erg bedankt fawaz voor je training, ik waardeer het enorm. Hij is zo'n geweldige leraar en zo professioneel en geduldig met zijn stagiair.",
+    "Geweldige school, geweldige instructeur! Hij heeft mij veel leuke tips & tricks gegeven voor mijn examen en mij goed voorbereid! Ik raad het echt aan!",
+    "Top rijschool legt goed uit en niet te prijzig.",
+    "Allemaal dankzij professor Fawaz voor de moeite en moeite die hij heeft gedaan om mij voor het examen te laten slagen.",
+    "They will honestly inform you of the number of lessons required without attempting to extract more money. If you want a hassle-free driving experience, this is the place.",
+    "Zeker aan te raden, Top rijschool!"
+  ],
+  "themes_positive": [
+    "patient and calm instructor",
+    "clear explanation",
+    "good with nervous learners (builds confidence)",
+    "honest about lessons needed / not money-grabbing",
+    "lessons available in English (expat-friendly)",
+    "good exam preparation and feedback",
+    "helps students who failed at another school"
+  ],
+  "themes_negative": [
+    "low official CBR pass rate vs glowing reviews",
+    "very few critical/detailed reviews to balance the picture"
+  ],
+  "red_flags": [
+    "Almost all reviews are 5-star with many generic one-liners ('Top rijschool', 'Beste', 'Zeker aan te raden') and little specificity",
+    "No independent verified-customer platform (no klantenvertellen / Trustpilot); all text is Google-sourced via an aggregator and the school's own site",
+    "Brand confusion: the same Den Bosch Google profile (4.9/5, ~67 reviews, instructor Baron/Fawaz) is presented as Rijschool Sosan, Rijschool Baron, and Motorrijles Max",
+    "Official CBR pass rate is low (Sosan ~36%, Baron ~43%, first-time ~25%), which sits uneasily with the 4.9-star image",
+    "A separate 'Rijschool sOs' in Hoofddorp (instructor Pinar) appears in searches but is a DIFFERENT school and was excluded"
+  ]
+}

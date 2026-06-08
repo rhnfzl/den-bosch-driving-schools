@@ -1,0 +1,42 @@
+{
+  "row_index": 68,
+  "slug": "school_068",
+  "rijschool": "Autorijschool J.P. Valentijn t.h.o.d.n. NXXT",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No school-specific reviews exist on any independent directory: rijscholen-gids.nl ('Dit bedrijf heeft nog geen beoordelingen', 0), educarplatform.nl (0.0 / 0), autorijschooltarieven.nl (none), rijscholen.nu and rijlesindebuurt.nl (none).",
+    "No klantenvertellen.nl (verified, independent) page exists for this specific school.",
+    "DriveDutch and CBR pages show only exam statistics, not written reviews.",
+    "The only review TEXT available is the NXXT brand-wide aggregate (nxxt.nl Vlijmen page claims '9,3 op basis van 435 reviews'; feedbackcompany NXXT shows 9.4/2736; kiyoh). This feed pools reviews across ALL NXXT instructors nationwide and names instructors from OTHER regions (Richard Iriks, Paul de Jongh, Truus, Jeremy, Steven, Finus van Overveld, Peter) - NOT Ronald Valentijn / Vlijmen.",
+    "Brand-level reviews cannot be honestly attributed to this specific Vlijmen school/instructor, so no quotes are captured (would be fabricated attribution).",
+    "Low CBR pass rate context: 22% first-attempt pass (18 exams) at Den Bosch, below the 54% location average - relevant but not review TEXT."
+  ],
+  "sources": [
+    "https://www.nxxt.nl/rijscholen/rijschool-vlijmen-263",
+    "https://rijscholen-gids.nl/vlijmen/autorijschool-j-p-valentijn",
+    "https://www.educarplatform.nl/rijscholen/vlijmen/5994-autorijschool-j-p-valentijn-t-h-o-d-n-nxxt",
+    "https://www.autorijschooltarieven.nl/rijschool/autors-jp-valentijn",
+    "https://www.drivedutch.nl/forum/Autorijschool%20J.P.%20Valentijn%20t.h.o.d.n.%20NXXT/VLIJMEN/172305970000",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-j.p.-valentijn-t.h.o.d.n.-nxxt",
+    "https://www.feedbackcompany.com/nl-nl/reviews/nxxt"
+  ],
+  "platforms_found": [
+    "nxxt.nl (brand-wide aggregate, not school-specific)",
+    "feedbackcompany.com/NXXT (brand-wide aggregate)",
+    "rijscholen-gids.nl (0 reviews)",
+    "educarplatform.nl (0 reviews)",
+    "autorijschooltarieven.nl (0 reviews)",
+    "DriveDutch (exam stats only)",
+    "CBR (exam stats only)"
+  ],
+  "review_summary": "No school-specific customer reviews could be found for Autorijschool J.P. Valentijn (Vlijmen, instructor Ronald Valentijn). Every independent directory lists zero reviews, and the only review text available is the NXXT brand-wide aggregate, which pools reviews across instructors in other regions and cannot be attributed to this school. There is no readable, school-specific review evidence to judge."
+}

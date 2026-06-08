@@ -1,0 +1,38 @@
+{
+  "row_index": 63,
+  "slug": "school_063",
+  "rijschool": "Autorijschool Boone",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable written customer reviews found for Autorijschool Boone on any platform (klantenvertellen, Google, clickdrive, DriveDutch, Trustoo, Trustpilot, Facebook).",
+    "Google Maps profile shows a headline 5.0 rating but the listing is UNCLAIMED, has no photos/hours and no visible review text; likely based on very few ratings with no bodies.",
+    "Clickdrive lists Autorijschool Boone as 0,0 / 5 (0 reviews); DriveDutch and CBR show only exam statistics, not written reviews.",
+    "WARNING: klantenvertellen.nl/reviews/1052928/rijschool-berlicum and rijschoolberlicum.nl are a DIFFERENT school (Rijschool Berlicum V.O.F. in Vinkel, instructors Jose/Twan) and were NOT attributed to Boone.",
+    "Boone's own website (autorijschool-boone.nl) contains no testimonials/reviews, only marketing copy ('zo'n 500 tevreden geslaagden in 13 jaar')."
+  ],
+  "review_summary": "No genuine written customer reviews could be found for Autorijschool Boone on any review platform; the only signal is an unclaimed Google Maps listing showing a 5.0 rating with no readable review text. Note that prominent klantenvertellen/website results belong to a different, similarly named school (Rijschool Berlicum V.O.F.) and were excluded.",
+  "platforms_found": [
+    "Google Maps (unclaimed listing, 5.0 headline rating, no review text)",
+    "clickdrive.nl (0 reviews)",
+    "drivedutch.nl (exam stats only)",
+    "cbr.nl (exam stats only)",
+    "mapquest.com (AI-generated description only)",
+    "autorijschool-boone.nl (no reviews)"
+  ],
+  "sources": [
+    "https://www.google.com/maps/search/Autorijschool+Boone+Berlicum",
+    "https://clickdrive.nl/rijscholen/berlicum/autorijschool-boone",
+    "https://www.drivedutch.nl/nl/forum/Autorijschool%20Boone/Berlicum/519223710000",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-boone",
+    "https://www.autorijschool-boone.nl"
+  ]
+}

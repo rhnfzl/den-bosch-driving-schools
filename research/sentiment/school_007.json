@@ -1,0 +1,25 @@
+{
+  "row_index": 7,
+  "slug": "school_007",
+  "rijschool": "Verkeersschool Erico v.d. Broek",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 74,
+  "sentiment": "positive",
+  "themes_positive": [
+    "geduldige instructeur",
+    "duidelijke en rustige uitleg",
+    "prettige en gezellige lessen",
+    "je op je gemak voelen",
+    "meedenkend en flexibel met planning",
+    "goede begeleiding richting slagen"
+  ],
+  "themes_negative": [
+    "onprofessioneel gedrag van Erico",
+    "afspraken niet nakomen",
+    "telefoon niet opnemen",
+    "eerste les niet ingepland"
+  ],
+  "confidence": "high",
+  "rationale": "De meeste quotes prijzen Franc om zijn geduld, duidelijke uitleg en prettige lessen, maar er zijn ook duidelijke klachten over Erico's onprofessionele communicatie en het niet nakomen van afspraken."
+}

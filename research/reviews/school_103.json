@@ -1,0 +1,35 @@
+{
+  "row_index": 103,
+  "slug": "school_103",
+  "rijschool": "Rijschool Story",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 9,
+  "sentiment": "positive",
+  "sentiment_index": 70,
+  "english_in_reviews": "unclear",
+  "review_summary": "No independent or verified reviews exist for Rijschool Story on any third-party platform (klantenvertellen, Clickdrive, Trustoo, Trustpilot, Facebook). The only review text available is a curated block of short, anonymous testimonials on the school's own marketing website, praising instructor Timara for patience, a relaxed atmosphere, and passing on the first attempt.",
+  "themes_positive": ["patient instructor", "relaxed/pleasant atmosphere", "felt at ease", "clear guidance", "passed first time", "builds confidence"],
+  "themes_negative": [],
+  "platforms_found": ["rijschoolstory.nl (own website testimonials only)"],
+  "sources": ["https://rijschoolstory.nl"],
+  "representative_quotes": [
+    "Top instructrice, leerde snel rijden met Timara! - Robin",
+    "Vriendelijke manier en goede lessen - Rayan",
+    "Leuke sfeer tijdens lessen, dankjewel Timara! - Sam",
+    "Ik voelde me erg op mijn gemak bij jou. Bedankt! - Beau",
+    "Bedankt Timara, je bent goud waard! - Kobe",
+    "De rijlessen met Timara zorgden ervoor dat ik meer zelfverzekerd werd en slaagde. - Lotte",
+    "Fijne lessen en in 1 x geslaagd! - Florian",
+    "Wat een geweldige begeleiding! Ik zou Rijschool Story direct aanbevelen. - Susanne",
+    "Fijne sfeer in de auto altijd! Duidelijk en goede begeleiding onder het rijden. In een keer geslaagd. - Frederique"
+  ],
+  "red_flags": [
+    "No presence on any independent or verified review platform (klantenvertellen, Clickdrive, Trustoo, Trustpilot, Facebook) found across 6 searches",
+    "Only review text is the self-published testimonial block on the school's own marketing website",
+    "Testimonials are short one-liners attributed to first names only, with no dates, instructor specifics, or verification",
+    "Very new, single-instructor school (instructor Timara Cirk started in 2023), so a thin independent review footprint is expected",
+    "Self-published testimonials cannot be cross-checked and may be cherry-picked or solicited"
+  ]
+}

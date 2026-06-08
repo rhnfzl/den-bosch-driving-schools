@@ -1,0 +1,22 @@
+{
+  "row_index": 91,
+  "slug": "school_091",
+  "rijschool": "Autorijschool Tarin",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 8,
+  "sentiment_index": 96,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldige instructeur",
+    "leerzame lessen",
+    "goede tips en uitleg",
+    "goed gestructureerde lessen",
+    "plezierige sfeer",
+    "flexibel en afspraken nakomen",
+    "comfortabel en op je gemak voelen",
+    "in één keer geslaagd"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn unaniem lovend over de geduldige, deskundige en flexibele instructeur en noemen meerdere keren leerzame, prettige lessen en slagen in één keer."
+}

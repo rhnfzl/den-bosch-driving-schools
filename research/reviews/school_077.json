@@ -1,0 +1,39 @@
+{
+  "row_index": 77,
+  "slug": "school_077",
+  "rijschool": "Rijschool Azeze",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable customer review text found on any platform (klantenvertellen, clickdrive, Google reviews body, Trustpilot, Trustoo, Facebook)",
+    "Telefoonboek.nl listing shows 0 beoordelingen (0 reviews)",
+    "No clickdrive.nl per-school page exists (404)",
+    "No klantenvertellen.nl page exists for Azeze",
+    "Brand-new, one-person school (Oozo: '1 persoon werkzaam'; KvK 96721715, recently registered)",
+    "CBR shows only 14 first practical exams ever taken, 21% first-time pass rate (location average 54%) - too little history for any review base",
+    "A Google business profile exists (place id /g/11xsgv_5k7) but no review bodies were retrievable"
+  ],
+  "platforms_found": [
+    "telefoonboek.nl (0 reviews)",
+    "oozo.nl (business listing, no reviews)",
+    "cbr.nl (exam stats only, no reviews)",
+    "google maps (business listing exists, no review text retrievable)",
+    "rijschoolazeze.nl (own website, no reviews)"
+  ],
+  "sources": [
+    "https://www.telefoonboek.nl/bedrijven/t9704638/vught/rijschool-azeze",
+    "https://www.oozo.nl/bedrijven/vught/vught/centrum/3767576/rijschool-azeze",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-azeze",
+    "https://rijschoolazeze.nl",
+    "https://www.google.com/maps/search/Rijschool+Azeze+Vught"
+  ],
+  "review_summary": "No genuine, readable customer reviews could be found for Rijschool Azeze on any platform (klantenvertellen, clickdrive/Google, Trustpilot, Trustoo, Facebook all have no page or zero reviews). It is a brand-new one-person school in Vught with only 14 CBR first exams on record (21% first-time pass rate vs 54% location average), so there is no review evidence to judge - authenticity and sentiment cannot be assessed."
+}

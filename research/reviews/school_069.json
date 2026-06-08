@@ -1,0 +1,36 @@
+{
+  "row_index": 69,
+  "slug": "school_069",
+  "rijschool": "Rijschool Starters",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No customer review text found on any platform (klantenvertellen, Google/Clickdrive, Trustpilot, Facebook)",
+    "Clickdrive profile explicitly shows 0,0 / 5 (0 reviews) and 'Er zijn nog geen beoordelingen gevonden voor deze rijschool'",
+    "rijscholen-gids.nl states 'Rijschool Starters heeft nog geen beoordelingen'",
+    "Facebook page exists (44 likes) but shows no ratings/reviews; only a self-promotional tagline ('Gegarandeerd de voordeligste')",
+    "CBR first-time pass rate is low (~35-41%), below examenlocatie averages",
+    "All review text surfaced in searches belongs to OTHER Den Bosch schools (Time2drive, Start Driving, NXXT, van de Griendt) - not attributable to this school"
+  ],
+  "review_summary": "No genuine customer reviews could be found for Rijschool Starters on any credible platform; Clickdrive and rijscholen-gids both explicitly report zero reviews, klantenvertellen has no page for this school, and the Facebook page (44 likes) carries no ratings. There is no readable review text to judge what students actually say.",
+  "platforms_found": [
+    "clickdrive.nl (0 reviews)",
+    "rijscholen-gids.nl (no reviews)",
+    "facebook.com (page exists, 44 likes, no reviews)",
+    "cbr.nl (registration + pass rates only, no customer reviews)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/rijschool-starters",
+    "https://rijscholen-gids.nl/rosmalen/rijschool-starters",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-starters",
+    "https://www.facebook.com/p/Rijschool-Starters-100082955241828"
+  ]
+}

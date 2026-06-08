@@ -1,0 +1,33 @@
+{
+  "row_index": 93,
+  "slug": "school_093",
+  "rijschool": "Rijcoach Maasdriel",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 55,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": ["coaching focus", "specialised in exam anxiety (faalangst)", "help for nervous drivers (rij-angst)"],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable customer review text found on any platform (klantenvertellen, Google, Trustpilot, Facebook, aggregators).",
+    "No klantenvertellen page exists for this school; klantenvertellen search hits were for other schools.",
+    "Aggregator pages (rijlessen.nl, drivedutch.nl) show only CBR exam statistics, no review bodies.",
+    "School's own website has only a generic self-claim ('Leerlingen beoordelen Rijcoach Maasdriel als uitstekend'), no named testimonials.",
+    "One-person operation (Jose van den Hoven); LinkedIn shows the school ran May 2012-Jan 2021 and the owner has since moved to other coaching ventures, suggesting low/dormant activity.",
+    "Very low exam volume (10-18 first exams), consistent with a near-inactive school."
+  ],
+  "review_summary": "No genuine customer review text could be located for Rijcoach Maasdriel on any platform. The school is a small one-person coaching operation in Kerkdriel specialised in exam anxiety (faalangst) and driving anxiety (rij-angst), but there are no verified or written reviews to read, so authenticity and sentiment cannot be judged from review content.",
+  "platforms_found": ["rijlessen.nl (stats only)", "drivedutch.nl (stats only)", "cbr.nl (official stats)", "rijschool-tips.nl (listing)", "trustoo.nl (listing only)", "own website (no testimonials)"],
+  "sources": [
+    "https://rijlessen.nl/rijscholen/kerkdriel/rijschool-3272-rijcoach-maasdriel",
+    "https://www.drivedutch.nl/forum/Rijcoach%20Maasdriel/KERKDRIEL/533355460000",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijcoach-maasdriel",
+    "https://rijcoachmaasdriel.nl",
+    "https://www.rijschool-tips.nl/rijschool/kerkdriel",
+    "https://nl.linkedin.com/in/jose-van-den-hoven"
+  ]
+}

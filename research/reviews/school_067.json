@@ -1,0 +1,44 @@
+{
+  "row_index": 67,
+  "slug": "school_067",
+  "rijschool": "Frans Kollenburg Autorijschool",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "sentiment": "mixed",
+  "sentiment_index": 45,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Levensgevaarlijk rijgedrag, onaanvaardbaar. Overbodig links rijden en 73km/u waar je 100 mag is blijkbaar prioriteit voor deze docent. (Joost, 1/5, Google)",
+    "Goed geregeld allemaal. (Paul, Trustoo, 14 mrt. 2025)"
+  ],
+  "themes_positive": [
+    "well organised / good arrangements (one brief review)"
+  ],
+  "themes_negative": [
+    "unsafe driving behaviour reported (driving too far left, too slow on motorway)"
+  ],
+  "red_flags": [
+    "ZERO reviews exist for the target entity itself (Frans Kollenburg Autorijschool, KvK 70384096 / CBR 1247G6): 0.0/5 on Clickdrive, 0 reviews on Rijschoolspecialist, no klantenvertellen/Kiyoh page found.",
+    "The only review TEXT found belongs to a SEPARATE but co-located sibling business, Autorijschool Gertine Kollenburg (KvK 54997666 / CBR 7659U6, same address Meerenstraat 55, Alem), so attribution to the target is unreliable.",
+    "Reviews are extremely sparse: Google 3.7/5 (3 reviews) and Trustoo 4.0 (4 reviews), and almost all are star-only with no body text ('Geen beschrijving').",
+    "One of the 5-star Google reviews on the sibling school is posted under the name 'Frans kollenburg' (likely the owner himself), which is a self-review signal.",
+    "Only two review bodies exist in total and they conflict (one 1-star safety complaint, one 2-word positive), giving no reliable basis to judge quality."
+  ],
+  "review_summary": "There are effectively no usable reviews for Frans Kollenburg Autorijschool itself (0 reviews everywhere it is listed). The only review text found is on a separate co-located school, Autorijschool Gertine Kollenburg, and is extremely thin: a single negative Google review alleging unsafe driving behaviour and one two-word positive Trustoo review ('Goed geregeld allemaal'); the remaining star-only ratings carry no text and one 5-star is posted under the owner's own name.",
+  "sources": [
+    "https://clickdrive.nl/en/driving-schools/alem/frans-kollenburg-autorijschool",
+    "https://www.rijschoolspecialist.nl/frans-kollenburg-autorijschool",
+    "https://clickdrive.nl/rijscholen/alem/autorijschool-gertine-kollenburg",
+    "https://trustoo.nl/gelderland/alem/rijschool/autorijschool-gertine-kollenburg",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/frans-kollenburg-autorijschool"
+  ],
+  "platforms_found": [
+    "Google (via Clickdrive) - sibling entity Gertine Kollenburg",
+    "Trustoo - sibling entity Gertine Kollenburg",
+    "Clickdrive (target entity: 0 reviews)",
+    "Rijschoolspecialist (target entity: 0 reviews)",
+    "CBR (statistics only, no reviews)"
+  ]
+}

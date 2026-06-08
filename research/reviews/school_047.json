@@ -1,0 +1,39 @@
+{
+  "row_index": 47,
+  "slug": "school_047",
+  "rijschool": "Autorijschool Hans de Ruiter t.h.o.d.n. LesGO",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No instructor-specific reviews found for Hans de Ruiter on any platform",
+    "Dedicated per-school aggregators rijschoolspecialist.nl and clickdrive.nl both show 0 reviews (0,0/5) for this school",
+    "Newer instructor: KvK registered 2023, ~3 years experience, only ~26 first practical exams at CBR",
+    "The klantenvertellen.nl page (id 1038191) and lesgo.nl/reviews are franchise-wide LesGO brand pages, NOT specific to Hans de Ruiter; reviews there name other instructors (Jan Verweij, Asley, Hakim, Erik de Wit, Karim, Pascal, Chris, Patrick Kramer, etc.) across other cities",
+    "His lesgo.nl profile 'Check ook mijn reviews' link routes to the brand-wide review page rather than his own",
+    "No Google, Trustpilot, or Facebook reviews tied to this instructor individually were found"
+  ],
+  "review_summary": "No reviews specific to instructor Hans de Ruiter could be found on any platform. The dedicated per-school review aggregators (rijschoolspecialist.nl, clickdrive.nl) both explicitly show zero reviews for his school, and the klantenvertellen.nl / lesgo.nl review pages cover the LesGO franchise brand as a whole, naming entirely different instructors in different cities. There is therefore no readable review corpus about this specific school to assess.",
+  "sources": [
+    "https://www.rijschoolspecialist.nl/autorijschool-hans-de-ruiter-t-h-o-d-n-lesgo",
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-hans-de-ruiter-t-h-o-d-n-lesgo",
+    "https://www.klantenvertellen.nl/reviews/1038191/lesgo",
+    "https://lesgo.nl/reviews",
+    "https://lesgo.nl/rijinstructeurs/hans-de-ruiter",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-hans-de-ruiter-t.h.o.d.n.-lesgo"
+  ],
+  "platforms_found": [
+    "rijschoolspecialist.nl (0 reviews)",
+    "clickdrive.nl (0 reviews)",
+    "klantenvertellen.nl (brand-wide LesGO page, no Hans-specific reviews)",
+    "lesgo.nl/reviews (brand-wide, no Hans-specific reviews)",
+    "cbr.nl (exam statistics only, no reviews)"
+  ]
+}

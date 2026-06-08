@@ -1,0 +1,21 @@
+{
+  "row_index": 32,
+  "slug": "school_032",
+  "rijschool": "Rijschool Erik Brok",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 3,
+  "sentiment_index": 68,
+  "sentiment": "positive",
+  "themes_positive": [
+    "goede ondersteuning",
+    "veel geduld",
+    "fijne instructeur",
+    "netjes en behulpzaam"
+  ],
+  "themes_negative": [
+    "slechte ervaring vlak voor examen",
+    "haakt af net voor examen"
+  ],
+  "confidence": "medium",
+  "rationale": "De meeste quotes prijzen de instructeur om geduld, goede begeleiding en support, maar er is wel een duidelijke klacht over een slechte ervaring vlak voor het examen."
+}

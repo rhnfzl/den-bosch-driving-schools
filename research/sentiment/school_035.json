@@ -1,0 +1,21 @@
+{
+  "row_index": 35,
+  "slug": "school_035",
+  "rijschool": "Autorijschool Heinsman",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 5,
+  "sentiment_index": 92,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "duidelijke instructies",
+    "geduldige hulp",
+    "kritische maar prettige instructeur",
+    "gezellige lessen",
+    "snelle voorbereiding op examen",
+    "in één keer slagen",
+    "aanbevolen als goede rijschool"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes prijzen vooral de duidelijke, geduldige en prettige begeleiding van Ronald en noemen meerdere keren dat leerlingen in één keer slaagden."
+}

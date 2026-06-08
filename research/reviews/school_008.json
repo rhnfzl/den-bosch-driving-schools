@@ -1,0 +1,49 @@
+{
+  "row_index": 8,
+  "slug": "school_008",
+  "rijschool": "Rijschool Danny van den Bergh",
+  "review_trust": "moderate",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 3,
+  "sentiment": "positive",
+  "sentiment_index": 78,
+  "english_in_reviews": "no",
+  "review_summary": "On aggregators the Rosmalen school (Danny van den Bergh, Wildeweitstraat 7, KvK 59669128) scores 5.0/5 across 21 Google reviews and 100% recommend across 14 Facebook reviews, with a reported 11 of 13 students passing first time; thematic summaries say Danny explains clearly, gives useful feedback, stays calm and patient, and adapts the pace and scheduling to the student. However, almost no individual verbatim review bodies were readable for THIS specific school, so trust is capped at moderate.",
+  "representative_quotes": [
+    "11 van 13 leerlingen voor de eerste keer geslaagd - Rijschool Danny van den Bergh. (Facebook)",
+    "100% aanbevolen (14 beoordelingen). (Facebook)",
+    "Rijschool Danny van den Bergh ... In de Google reviews (21x, gemiddeld 5,0) worden vooral leskwaliteit en begeleiding geprezen: Danny legt duidelijk uit, geeft bruikbare feedback, blijft rustig en geduldig en past het tempo/inplannen aan aan de voortgang van de leerling. (rijschoolbijmij.nl, paraphrase of Google reviews)"
+  ],
+  "themes_positive": [
+    "clear explanation",
+    "patient",
+    "calm",
+    "useful feedback",
+    "flexible scheduling",
+    "high first-time pass rate",
+    "transparent pricing"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Could not read verbatim individual review bodies for the correct Rosmalen school (KvK 59669128); only aggregate scores and a paraphrased thematic summary were available.",
+    "Name collision: a different 'Rijschool Danny' in Rotterdam (KvK 590128620000, rijschooldanny.nl, clickdrive.nl) has detailed 5-star Google reviews that are NOT for this school; those quotes were deliberately excluded.",
+    "No independent verified-customer platform (klantenvertellen / Kiyoh) page exists for this school.",
+    "No negative or mixed reviews were readable, so the spread could not be assessed; only uniformly positive aggregate signals seen.",
+    "Low review volume (21 Google + 14 Facebook) for a 15+ year school."
+  ],
+  "platforms_found": [
+    "Google (via Infobel and rijschoolbijmij.nl aggregators)",
+    "Facebook",
+    "Infobel",
+    "DriveDutch (CBR exam stats only)",
+    "CBR (exam stats only)"
+  ],
+  "sources": [
+    "https://www.infobel.com/nl/netherlands/rijschool_danny_van_den_bergh/rosmalen/NL103184157/businessdetails.aspx",
+    "https://www.rijschoolbijmij.nl/rijschool/in/rosmalen",
+    "https://www.facebook.com/rijschooldannyvandenbergh/reviews?locale=nl_NL",
+    "https://www.drivedutch.nl/forum/Rijschool%20Danny%20van%20den%20Bergh/Rosmalen/596691280000",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-danny-van-den-bergh"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "row_index": 56,
+  "slug": "school_056",
+  "rijschool": "Rijschool Polman",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 3,
+  "sentiment_index": 89,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldige instructeur",
+    "ervaren",
+    "prettige omgang",
+    "fijne en eerlijke rijschool"
+  ],
+  "themes_negative": [],
+  "confidence": "medium",
+  "rationale": "De quotes noemen de rijschool en instructeur meerdere keren positief, met nadruk op geduld, ervaring en een prettige, eerlijke sfeer."
+}

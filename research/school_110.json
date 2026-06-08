@@ -1,0 +1,33 @@
+{
+  "row_index": 110,
+  "slug": "school_110",
+  "rijschool": "Rijschool Pip",
+  "plaats": "Rosmalen",
+  "english_instruction": "yes",
+  "english_confidence": "high",
+  "english_evidence": "Je hebt altijd dezelfde rijinstructrice, die Nederlands of Engels spreekt. (instructor speaks Dutch or English) plus an English-language learner review: 'Thank you for time and knowledge which you shared with me. It was a pleasure to be your student.'",
+  "english_source": "https://rijschoolpip.nl",
+  "transmission": "manual",
+  "transmission_source": "https://rijschoolpip.nl",
+  "founding_year": 2024,
+  "founding_year_basis": "kvk",
+  "founding_confidence": "med",
+  "website": "https://rijschoolpip.nl",
+  "phone": "0612277311",
+  "address": "Pastoor de Leijerstraat 2",
+  "postcode": "5246JC",
+  "kvk_number": null,
+  "cbr_rijschoolnummer": "1107U6",
+  "google_rating": null,
+  "review_count": null,
+  "price_signal": "Proefles €64 (1,5u); Lespakket MINI €1.815 (20 lesuren ~€90/uur); BASIS €2.727 (35 lesuren); MAXI €3.635",
+  "waitlist_signal": "Currently NOT accepting new students: 'Door de grote hoeveelheid aanmeldingen neem ik momenteel tijdelijk geen nieuwe leerlingen aan.' Will update website when spots reopen.",
+  "notes": "One-person driving school (eenmansrijschool / eenmanszaak). Sole female instructor/owner: Linda Kleiterp. RIS-certified (Rijopleiding in Stappen method). Category B only. Specializes in calm/structured lessons, autism and ADHD support, and faalangst-friendly approach. Lesson car: Skoda Scala (manual/schakel). Active in Rosmalen, 's-Hertogenbosch/Den Bosch, Berlicum, Vught, Empel, Nuland. Founding: rijloket aggregator (CBR Open Data) shows 'Actief sinds 2024'; owner began teaching in 2020 at larger schools before going independent under her own name. CBR slagingspercentage B 100% (only 2 exams in 2025). No Google rating/review count or KvK number surfaced. Exam location: Den Bosch (Hambakenwetering 13A).",
+  "transmission_note": "Skoda Scala schakelauto = manual transmission car; no automaat option mentioned.",
+  "sources": [
+    "https://rijschoolpip.nl",
+    "https://rijschoolpip.nl/rijles-bij-rustige-vrouwelijke-instructeur-rosmalen",
+    "https://rijschoolpip.nl/rijlessen-ris-methode-den-bosch-rosmalen",
+    "https://rijloket.nl/rijscholen/rosmalen/rijschool-pip-rosmalen"
+  ]
+}

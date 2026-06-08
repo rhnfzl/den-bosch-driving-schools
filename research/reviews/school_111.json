@@ -1,0 +1,44 @@
+{
+  "row_index": 111,
+  "slug": "school_111",
+  "rijschool": "Toon Lambooij",
+  "plaats": "Den Dungen (s-Hertogenbosch / Den Bosch)",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 55,
+  "english_in_reviews": "unclear",
+  "platforms_found": [
+    "clickdrive.nl (Google reviews aggregator)",
+    "rijschoolspecialist.nl",
+    "rijscholen-gids.nl",
+    "autorijschooltarieven.nl",
+    "rijschool-tips.nl",
+    "vindjerijschool.nl",
+    "drivedutch.nl",
+    "cbr.nl"
+  ],
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable review text found on any platform",
+    "klantenvertellen.nl: no presence / no verified reviews found",
+    "Google profile shows only a single review (5.0/5, 1 review via clickdrive.nl) with no extractable body text",
+    "rijschoolspecialist.nl, rijscholen-gids.nl and autorijschooltarieven.nl all show 0 reviews",
+    "Very new, single-person school (KvK active since 13 March 2023) with only ~3-5 total CBR exams; near-zero online footprint",
+    "Some aggregator 'Over' descriptions are boilerplate copied from another school (Rijschool Andre Severs in Doetinchem), not authentic to Toon Lambooij"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/den-dungen/toon-lambooij",
+    "https://www.rijschoolspecialist.nl/toon-lambooij",
+    "https://rijscholen-gids.nl/den-dungen/a-j-c-m-lambooij",
+    "https://www.autorijschooltarieven.nl/rijschool/ajcm-lambooij",
+    "https://vindjerijschool.nl/rijscholen/den-dungen/toon-lambooij",
+    "https://www.drivedutch.nl/forum/Toon%20Lambooij/DEN%20DUNGEN/895372110000",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/toon-lambooij"
+  ],
+  "review_summary": "No substantive customer review text could be found for Toon Lambooij on any platform. The only signal is a single Google star rating (5.0/5, 1 review) surfaced via clickdrive.nl, with no readable body text; klantenvertellen, Trustpilot and Facebook have no presence, and the other aggregators (rijschoolspecialist, rijscholen-gids, autorijschooltarieven) explicitly show zero reviews. This is a very new one-person school (active since March 2023) with only ~3-5 CBR exams, so there is no corpus to judge authenticity or sentiment from."
+}

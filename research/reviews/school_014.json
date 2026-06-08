@@ -1,0 +1,54 @@
+{
+  "row_index": 14,
+  "slug": "school_014",
+  "rijschool": "HalimRijschool",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 16,
+  "sentiment": "very_positive",
+  "sentiment_index": 88,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Halim is absoluut professioneel, geduldig man en zorgt ervoor dat de zwakke punten worden bijgeschaafd... ik ben hem dankbaar dat hij mij heeft getransformeerd tot een zelfverzekerde bestuurder op de weg.",
+    "Ik ben in één keer geslaagd voor mijn examen en heb echt genoten van de hele leerervaring.",
+    "Bedankt Halim heeft mij geholpen met mij rijbewijs en hij kan goed uitleggen en duidelijk fout en goed uitleggen en ik ben gelukkig door hem in een keer geslaagd.",
+    "Goede ervaring, consistent en betrokken, het is mij de eerste keer gelukt.",
+    "Bedankt, Halim, voor de hulp en voor het behalen van mijn rijbewijs, Ik vind heel goed school.",
+    "Uitstekende leraar, getalenteerde en geduldige leraar in het onderwijs.. Allemaal dankzij professor Abdel Halim. Godzijdank is het mij de eerste keer gelukt.",
+    "Een geweldige en gerespecteerde professor.",
+    "De sterkste school.",
+    "Het is een hele goede rijschool die ik aanbeveel.",
+    "Hij is goeie man als wil rijbewijs.",
+    "Moge God je een hele goede coach en een goede behandeling geven.",
+    "Bedankt voor uw vriendelijke inspanningen, professor Abdel Halim, en veel succes en blijvend succes bij uw lessen."
+  ],
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "builds confidence",
+    "personal attention",
+    "passed first time (per reviews)"
+  ],
+  "themes_negative": [
+    "low CBR first-time pass rate (24%) inconsistent with review narrative",
+    "no exam-day or faalangst detail",
+    "many reviews very short/generic"
+  ],
+  "red_flags": [
+    "Single-platform: all reviews are Google (via clickdrive); no klantenvertellen verified reviews, no Trustpilot/Trustoo/Facebook for this school",
+    "Uniform 5-star with no negative, mixed or lukewarm reviews at all",
+    "Many generic one-liners ('De sterkste school', 'Een geweldige en gerespecteerde professor', 'Hele goede rijschool, aanrader') with no specifics",
+    "Several reviews read like solicited well-wishes/blessings ('Moge God je een hele goede coach geven', 'veel succes en blijvend succes bij uw lessen') rather than service descriptions",
+    "Reviewer names cluster around one community; repeated 'in één keer geslaagd' narrative conflicts with the school's actual 24% first-time CBR pass rate"
+  ],
+  "review_summary": "Across ~16 readable Google reviews (4.9/5, ~94 total) students consistently praise instructor Halim (\"professor Abdel Halim\") as patient, professional and clear, with many claiming they passed first time and felt transformed into confident drivers. The corpus is uniformly 5-star with only a couple of specific reviews and many short generic or well-wish-style entries; there are no verified (klantenvertellen) reviews and the glowing first-time-pass claims sit uneasily next to the school's low 24% first-time CBR pass rate.",
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vught/halimrijschool",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/halimrijschool",
+    "https://www.rijschoolbijmij.nl/rijschool/673/halim-rijschool"
+  ]
+}

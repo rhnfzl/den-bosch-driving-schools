@@ -1,0 +1,20 @@
+{
+  "row_index": 81,
+  "slug": "school_081",
+  "rijschool": "Rijschool van de Griendt",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldig en vriendelijk",
+    "duidelijke en rustige uitleg",
+    "persoonlijke begeleiding",
+    "veel tips en technieken",
+    "zelfvertrouwen en comfort tijdens lessen",
+    "geslaagd in één keer"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over de geduldige, duidelijke en persoonlijke begeleiding, en koppelen die vaak aan meer zelfvertrouwen en direct slagen."
+}

@@ -1,0 +1,46 @@
+{
+  "row_index": 35,
+  "slug": "school_035",
+  "rijschool": "Autorijschool Heinsman",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "sentiment": "positive",
+  "sentiment_index": 82,
+  "english_in_reviews": "no",
+  "platforms_found": ["Google (via clickdrive.nl)", "Trustoo"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-heinsman",
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/autorijschool-heinsman",
+    "https://www.rijschoolbijmij.nl/rijschool/705/autorijschool-heinsman",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-heinsman"
+  ],
+  "representative_quotes": [
+    "Volledig pakket in combinatie met goede instructies bleek voor onze zoon (17) voldoende om in een keer te slagen. Rijles bij Ronald kunnen we daarom aanbevelen.",
+    "Top rijschool! Ronald is duidelijk, kritisch en gezellig! In korte tijd heeft hij mij klaar gestoomd voor het examen wat ook gelijk succesvol verliep.",
+    "Voor een goede rijschool bent u hier bij het juiste adres!",
+    "Fijne lessen gevolgd en in een keer geslaagd dankzij geduldige hulp. Dankuwel",
+    "Top rijschool!"
+  ],
+  "themes_positive": [
+    "clear explanation (duidelijk)",
+    "critical/sharp instruction (kritisch)",
+    "patient (geduldige hulp)",
+    "passed in one go (in een keer geslaagd)",
+    "efficient / fast preparation (in korte tijd klaargestoomd)",
+    "pleasant atmosphere (gezellig)",
+    "personal small-scale approach"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Very few reviews: only 4 distinct Google reviews exist, all 5-star",
+    "Two of the four are generic one-liners ('Top rijschool!')",
+    "Reviews are old (2-5 years ago); no recent feedback",
+    "No independent verified reviews (no klantenvertellen page); Trustoo's '6 reviews from 2 sources' appears to reuse the same Google reviews",
+    "CBR first-time pass rate is below average (37-39%), which the positive reviews do not reflect"
+  ],
+  "review_summary": "The handful of reviews for this one-man school (instructor Ronald Heinsman) are uniformly positive: students describe him as clear, critical, patient and pleasant, with several saying they passed in one go and were efficiently prepared for the exam. However, the corpus is thin (only ~4 distinct Google reviews, all old and two of them generic one-liners), so confidence is moderate at best.",
+  "english_in_reviews_note": "School advertises lessons can optionally be given in English and targets faalangst/ASS learners, but no actual review is written in English or by an expat; all review text is Dutch."
+}

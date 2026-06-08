@@ -1,0 +1,22 @@
+{
+  "row_index": 76,
+  "slug": "school_076",
+  "rijschool": "Rijschool Asro",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 88,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "goede voorbereiding op examen",
+    "duidelijke uitleg",
+    "veel geduld",
+    "rust en zelfvertrouwen opbouwen",
+    "persoonlijke aandacht voor fouten",
+    "goede communicatie",
+    "gezellige sfeer",
+    "snel/slagen in één keer"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend: leerlingen noemen duidelijke uitleg, veel geduld, goede voorbereiding en meer zelfvertrouwen, met meerdere snelle en eerste-keer-slagen."
+}

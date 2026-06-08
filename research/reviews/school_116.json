@@ -1,0 +1,29 @@
+{
+  "row_index": 116,
+  "slug": "school_116",
+  "rijschool": "Rij en VerkeersAcademie",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No reviews found that can be reliably attributed to THIS school (Rij en VerkeersAcademie, risacademie.nl, rijschoolnummer 4399K5, KvK 17214145, Berlicum/Den Bosch).",
+    "The klantenvertellen page 'Rijschool Berlicum' (216 reviews, instructors Jose/Twan) belongs to a DIFFERENT business: Rijschool 'Berlicum' V.O.F., KvK 160731010000 - different KvK, different name, two instructors. Not this school.",
+    "The feedbackcompany 'De Verkeersacademie' reviews belong to an unrelated national rij-instructeur training institute (deverkeersacademie.nl, Nieuwegein/Best/Zwolle), not this local rijschool.",
+    "This school appears brand-new and tiny: only 2 first CBR exams in the last 4 quarters, single fixed instructor, single Tesla Model Y; consistent with having essentially no review footprint yet.",
+    "Attributing any of the found review text to this school would be misattribution, so quotes are intentionally left empty."
+  ],
+  "review_summary": "No authentic customer reviews could be found that genuinely belong to Rij en VerkeersAcademie (risacademie.nl) in Berlicum/Den Bosch. It is a very new, single-instructor school (Tesla Model Y, only 2 first CBR exams in the last measured year) with no Google, klantenvertellen, Trustoo or Trustpilot review presence under its own name and KvK. Review pages that surface for similar-sounding names ('Rijschool Berlicum', 'De Verkeersacademie') are confirmed to be different companies and were deliberately not used.",
+  "sources": [
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rij-en-verkeersacademie",
+    "https://risacademie.nl",
+    "https://www.drivedutch.nl/forum/Rijschool%20%22Berlicum%22%20V.O.F./VINKEL/160731010000",
+    "https://www.klantenvertellen.nl/reviews/1052928/rijschool-berlicum"
+  ]
+}

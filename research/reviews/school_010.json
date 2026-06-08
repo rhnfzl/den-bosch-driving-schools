@@ -1,0 +1,40 @@
+{
+  "row_index": 10,
+  "slug": "school_010",
+  "rijschool": "Autorijschool Johan Helvoirt",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No customer review text found on any platform",
+    "clickdrive.nl explicitly shows 0,0 / 5 (0 reviews) and 'Er zijn nog geen beoordelingen gevonden voor deze rijschool'",
+    "No klantenvertellen.nl page exists for this school (klantenvertellen hits in search belonged to other, unrelated schools)",
+    "All discoverable pages are directory/aggregator listings (CBR, rijschool-tips, rijlessen.net, educarplatform, autorijschooltarieven, DriveDutch) carrying only business info and CBR exam pass-rate statistics, not student reviews",
+    "Small family-run school (Johan + wife Julia, 2 instructors) with no visible online review footprint"
+  ],
+  "platforms_found": [
+    "clickdrive.nl",
+    "drivedutch.nl",
+    "cbr.nl",
+    "rijschool-tips.nl",
+    "rijlessen.net",
+    "educarplatform.nl",
+    "autorijschooltarieven.nl",
+    "itheorie.nl"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/helvoirt/autorijschool-johan-helvoirt",
+    "https://www.drivedutch.nl/nl/forum/Autorijschool%20Johan%20Helvoirt/HELVOIRT/632815030000",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-johan-helvoirt",
+    "https://www.rijschool-tips.nl/rijschool/helvoirt/autorijschool-johan-helvoirt",
+    "https://www.educarplatform.nl/rijscholen/kaatsheuvel/6586-autorijschool-johan-helvoirt"
+  ],
+  "review_summary": "No customer review text could be found for Autorijschool Johan Helvoirt on any platform. clickdrive.nl explicitly lists 0 reviews, no klantenvertellen page exists, and every other discoverable page is a directory listing with only CBR exam pass-rate statistics (roughly 45-52% first-attempt pass rate at Den Bosch / Berkel-Enschot), not student reviews. With zero readable review bodies, authenticity and sentiment cannot be judged from review content."
+}

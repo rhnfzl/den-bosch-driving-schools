@@ -1,0 +1,13 @@
+{
+  "row_index": 105,
+  "slug": "school_105",
+  "rijschool": "Autorijschool Zainab",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 0,
+  "sentiment_index": null,
+  "sentiment": "insufficient",
+  "themes_positive": [],
+  "themes_negative": [],
+  "confidence": "low",
+  "rationale": "no review quotes available"
+}

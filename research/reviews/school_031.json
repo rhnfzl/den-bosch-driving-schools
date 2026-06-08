@@ -1,0 +1,38 @@
+{
+  "row_index": 31,
+  "slug": "school_031",
+  "rijschool": "J.M. van Eijk",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No customer reviews found on any platform (klantenvertellen, Google, Trustpilot, Trustoo, Facebook)",
+    "clickdrive.nl per-school page explicitly shows 0.0/5 (0 reviews): 'Er zijn nog geen beoordelingen gevonden voor deze rijschool'",
+    "Small traditional one-man rijschool (~35-50 yr in business) with effectively zero online review footprint",
+    "Search results frequently conflated with a DIFFERENT school 'Rijschool van der Eijk' (rijschoolvdeijk.nl) in Friesland (holwerd/burgum) - those reviews are NOT this school and were excluded",
+    "Only CBR exam pass-rate statistics available (58% first-time, 61% overall), no qualitative review text"
+  ],
+  "review_summary": "No authentic customer reviews could be found for J.M. van Eijk (also operating as Autorijschool Hans van Eijk) on any review platform. The only available data is CBR exam statistics (43 first exams, 58% first-time pass rate, roughly the regional average); there is no readable review text to judge what students actually say.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/j-m-van-eijk",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/j.m.-van-eijk",
+    "https://slaagpuls.nl/en/driving-school/s-hertogenbosch/j-m-van-eijk",
+    "https://www.drivedutch.nl/forum/J.M.%20van%20Eijk/'s-Hertogenbosch/160439870000",
+    "http://www.autorijschoolhansvaneijk.nl",
+    "https://debesterijscholen.nl/s-hertogenbosch"
+  ],
+  "platforms_found": [
+    "clickdrive.nl (0 reviews)",
+    "slaagpuls.nl (CBR stats only)",
+    "cbr.nl (pass-rate stats only)",
+    "drivedutch.nl (CBR stats only)",
+    "own website (no reviews)"
+  ]
+}

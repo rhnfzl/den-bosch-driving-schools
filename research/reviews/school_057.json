@@ -1,0 +1,61 @@
+{
+  "row_index": 57,
+  "slug": "school_057",
+  "rijschool": "Autorijschool Sam",
+  "plaats": "'s-Hertogenbosch",
+  "website": "https://autorijschoolsam.com",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 15,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "unclear",
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl)",
+    "DriveDutch (exam stats only, no review text)",
+    "rijschoolspecialist.nl (no reviews)",
+    "CBR (stats only)"
+  ],
+  "themes_positive": [
+    "patient instructor",
+    "clear and calm explanation",
+    "passed first time",
+    "punctual / no wasted lesson time",
+    "good with nervous / stressed learners",
+    "personal attention",
+    "flexible scheduling",
+    "fair / not money-grabbing"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "All reviews are 5/5 with no negative or mixed reviews surfaced anywhere",
+    "Several short generic one-liners ('Ik ben helemaal tevreden zij heeft echt ervaring') mixed in with detailed ones",
+    "Two near-duplicate reviewer names (amin rasekhkhoo / Amin Rasekh) within two weeks",
+    "Reviews concentrated on Google and only mirrored via clickdrive.nl; no independent verified platform (no klantenvertellen, no Trustpilot)",
+    "Cluster of reviewers with similar (Persian/Iranian) name profiles"
+  ],
+  "verified_reviews_note": "No klantenvertellen.nl page exists for this school; reviews are unverified Google reviews surfaced via clickdrive.nl.",
+  "representative_quotes": [
+    "Beste rijschool! Instructrice is heel aardig en legt alles rustig uit wat je niet begrijpt. Ze luisteren ook altijd naar waar je zelf meer aan wilt verbeteren. Ik raad ze je echt aan!",
+    "Nadat het bij een andere rijinstructeur niet was gelukt ben ik bij rijschool sam terecht gekomen waar het me na ongeveer 13 lessen in een keer is gelukt!",
+    "Je benut bij deze rijschool echt elke minuut van je les en ze is altijd stipt op tijd, zo heb je nooit het idee dat je tijd verloren gaat.",
+    "Mijn instructeur was zeer geduldig, professioneel en toegewijd ... wat me enorm heeft geholpen om mijn Nederlandse rijbewijs te halen.",
+    "Vorige week had ik mijn examen en ik kon in de eerste keer slagen. Ze is erg toegewijd en geduldig, je hebt de volledige aandacht van haar tijdens de lessen.",
+    "Azadeh, mijn instructeur, was werkelijk uitzonderlijk. Ze is ongelooflijk vriendelijk en geduldig, waardoor elke les plezierig en stressvrij is.",
+    "De instructeurs zijn geduldig, vriendelijk en zeer professioneel. Ze bieden de beste prijzen in heel Nederland. Dankzij hun geweldige begeleiding ben ik in een keer geslaagd.",
+    "Sam is een goede rijschool en je merkt dat ze er echt voor gaan om je te laten slagen en niet om geld binnen te harken. Mijn rij instructeur was Azadeh alaei.",
+    "Zij is erg aardig, met veel geduld gaf zij me in korte tijd de beste oefeningen.",
+    "Goede instructies, ontzettend geduldig en flexibele tijden en echte aanrader.",
+    "Ik ben helamaal tevereden zij heeft echt ervaring.",
+    "Deze instructrice leeft echt mee met studenten en doet er alles aan zodat haar studenten slagen ... Ze geeft heel rustig en duidelijk uitleg zodat je het ook echt begrijpt. 100% aan te raden!!"
+  ],
+  "review_summary": "Students consistently praise a patient, punctual female instructor (named Azadeh Alaei) who explains calmly, gives full attention every minute of the lesson, and helps many pass on the first attempt, including learners who had failed at another school; the tone is uniformly very positive with no negative reviews found.",
+  "sources": [
+    "https://clickdrive.nl/en/driving-schools/s-hertogenbosch/autorijschool-sam",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-sam",
+    "https://www.drivedutch.nl/forum/Autorijschool%20Sam/'S-HERTOGENBOSCH/88495256",
+    "https://www.rijschoolspecialist.nl/autorijschool-sam",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-sam"
+  ]
+}

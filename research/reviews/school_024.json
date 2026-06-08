@@ -1,0 +1,56 @@
+{
+  "row_index": 24,
+  "slug": "school_024",
+  "rijschool": "Autorijschool Valentina T.H.O.D.N. NXXT",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "sentiment": "mixed",
+  "sentiment_index": 42,
+  "english_in_reviews": "unclear",
+  "verified_reviews": false,
+  "reviews_read": 14,
+  "representative_quotes": [
+    "Zeer ontevreden, niet aan te raden. Afspraken worden afgezegd en vaak geen reactie. Les hier niet je bent een dief van eigen portemonnee.",
+    "Niet voor niks dat de 2 keer 5 sterren van haarzelf en een andere rijschool zijn. Ik en een vriend hebben hier gelesd en wij zijn zeer ontevreden.",
+    "Geld verloren, niet lessen hier! Plant examen in en word laatste week geannuleerd door een gemiste les. Geld ook niet terug gewoon opgelicht.",
+    "Geweldige rijschool ervaring - Geweldig Rijschool (review geplaatst door 'Autorijschool BLITZ', een andere rijschool).",
+    "Vernoemd naar mij (5-sterren review geplaatst door Valentina Ramezanzadeh, de eigenaar zelf).",
+    "Goede lessen met goede resultaat!",
+    "Echte aanrader onze zoon 1e keer geslaagd top rijschool.",
+    "1e keer geslaagd, top rijschool! Goede rijschool, snel rijbewijs gehaald.",
+    "[NXXT-breed, niet locatie-specifiek] Heel fijn, altijd een gezellige sfeer.",
+    "[NXXT-breed, niet locatie-specifiek] Fijne rijlessen en geduldige instructeur!",
+    "[Reddit, over NXXT algemeen] Een vriendin van mij heeft rijlessen gevolgd bij NXXT en was heel tevreden over haar instructeur en de begeleiding; zelf ben ik op trustpilot wat negatieve reviews tegengekomen.",
+    "[Reddit, over NXXT algemeen] Ik heb haar een appje gestuurd... uiteindelijk niks meer gehoord, en na een week nog maar eens gevraagd... weer een hele week voorbij dat mijn vraag niet beantwoord is."
+  ],
+  "themes_positive": [
+    "passed first time",
+    "good results",
+    "fast to license"
+  ],
+  "themes_negative": [
+    "lessons/appointments cancelled",
+    "hard to reach / no response",
+    "exam cancelled, money not refunded",
+    "feels like being scammed / waste of money",
+    "fake-looking self-reviews and competitor reviews"
+  ],
+  "red_flags": [
+    "Only ~7 school-specific Google reviews exist for the Valentina entity; very thin school-specific evidence.",
+    "Two of the positive 5-star reviews are demonstrably not genuine customers: one posted by the owner herself (Valentina Ramezanzadeh) and one by a competing driving school (Autorijschool BLITZ).",
+    "A negative reviewer explicitly accuses the school of planting fake 5-star reviews ('de 2 keer 5 sterren zijn van haarzelf en een andere rijschool').",
+    "Multiple specific, serious complaints: appointments cancelled, no response, exam cancelled in final week, money not refunded ('opgelicht').",
+    "The glowing 9.3-9.4 NXXT scores (Feedbackcompany 2736 reviews, nxxt.nl 435) are NETWORK-WIDE across all NXXT branches nationwide, NOT attributable to this Den Bosch/Valentina location; named instructors (Rob van Dessel, Mendel Meinema, Truus, Peter) are not based at Veldpad 19.",
+    "NXXT-aggregate reviews read as solicited bursts of generic short 5-star one-liners ('Heel fijn', 'Leuke lessen', 'Top rijschool')."
+  ],
+  "review_summary": "School-specific evidence is limited to ~7 Google reviews for the Valentina entity, which are mixed-to-negative: several detailed complaints about cancelled appointments, being unreachable, an exam cancelled in the final week and money not refunded, alongside a few short positive 'passed first time' notes. Crucially, two of the positive reviews were planted by the owner herself and by a competing driving school, and a customer explicitly flags this. The high 9.3-9.4 NXXT scores seen elsewhere are network-wide across all NXXT franchises, not this branch, so they should not be read as evidence for this location.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/valentina-rijschool",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-valentina-t.h.o.d.n.-nxxt",
+    "https://www.nxxt.nl/rijschool-den-bosch",
+    "https://www.feedbackcompany.com/nl-nl/reviews/nxxt",
+    "https://trustoo.nl/noord-brabant/rosmalen/rijschool/nxxt-den-bosch",
+    "https://www.reddit.com/r/nederlands/comments/1iunpj8/ervaringen_rijschool_nxxt",
+    "https://www.rijschoolspecialist.nl/valentina-rijschool"
+  ]
+}

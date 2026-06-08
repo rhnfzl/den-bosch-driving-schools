@@ -1,0 +1,42 @@
+{
+  "row_index": 100,
+  "slug": "school_100",
+  "rijschool": "AROS Autorijschool",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "no",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No customer reviews found on any platform (klantenvertellen, Google/clickdrive, Trustoo, Trustpilot, DriveDutch, rijschoolspecialist, autorijschooltarieven)",
+    "clickdrive.nl explicitly shows 'Er zijn nog geen beoordelingen gevonden voor deze rijschool' (0.0/5, 0 reviews)",
+    "rijschoolspecialist.nl shows 0.0 rating with 'There are no reviews yet'",
+    "Very low CBR pass rate context: ~21% overall, 33% first-attempt (only 6 exams), 12% re-exam pass rate",
+    "Very small operation (1 employee, ~8-14 exams total); business is primarily a translation/interpreter and resilience-training agency that also offers driving lessons (per rijschool-tips.nl: 'Tolk en vertaalbureau. Weerbaarheid- en agressietraining, coaching en voorlichting. Autorijlessen en theoriecursus.')",
+    "autorijschooltarieven.nl lists language as Dutch only; no English-lesson indication anywhere"
+  ],
+  "sentiment_index_note": "Set to neutral (50) because there is NO review content to derive sentiment from. This is not evidence of neutrality, only absence of data.",
+  "review_summary": "No customer reviews exist for AROS Autorijschool on any platform checked (klantenvertellen, Google/clickdrive, Trustoo, Trustpilot, DriveDutch, rijschoolspecialist, autorijschooltarieven) — all show zero reviews. There is no readable review text, so authenticity and sentiment cannot be judged. The only available signals are non-review data: a very small one-person operation that is primarily a translation/interpreter and resilience-coaching agency offering driving lessons on the side, with a low CBR pass rate (~21%).",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/aros-autorijschool",
+    "https://www.rijschoolspecialist.nl/aros-autorijschool",
+    "https://drivedutch.nl/forum/AROS%20Autorijschool/'S-HERTOGENBOSCH/091868720000",
+    "https://www.autorijschooltarieven.nl/rijschool/aros-autors",
+    "https://www.rijschool-tips.nl/rijschool/den-bosch",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/aros-autorijschool",
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool"
+  ],
+  "platforms_found": [
+    "clickdrive.nl (0 reviews)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "drivedutch.nl (exam stats only, no reviews)",
+    "autorijschooltarieven.nl (no reviews, 'be the first')",
+    "cbr.nl (official exam stats only)"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "row_index": 48,
+  "slug": "school_048",
+  "rijschool": "rij-correct",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "review_trust": "moderate",
+  "review_substance": "substantive",
+  "verified_reviews": false,
+  "reviews_read": 7,
+  "sentiment": "very_positive",
+  "sentiment_index": 93,
+  "english_in_reviews": "yes",
+  "verified_reviews_note": "No klantenvertellen or Trustpilot page exists for this specific school; corpus is Google Maps reviews surfaced via rijloket.nl. Google profile shows 4.9 across 170 reviews, but only ~7 individual review bodies were readable.",
+  "representative_quotes": [
+    "Today I have passed my exam in one go. Thank you Fabian Sir for all your hard efforts and being an amazing instructor, I have learned a lot from you... Correct is really a great driving School from the name of it u understand that they correct you. All of their instructors are very professional.",
+    "I completed my BE license with the one-day course and had a great experience. Everything was clearly reviewed, and we practiced extra where needed. The personal approach really helped me feel confident and well prepared. I was taught by Nordin, who was a great instructor.",
+    "Farlan is a great driving instructor - knowledgeable, patient, and an excellent trainer. He can be strict at times, but it's always with the best intentions to help you become a confident and safe driver.",
+    "The driving school is also very professional and takes customer service, training seriously, ensuring students get the best preparation. I highly recommend them!",
+    "I did all my lessons with Els + one with Farlan! Els is kind, nice and very strict in an extremely positive way! Was my best choice! The whole team is very competent! I'm approved and very happy about it! Highly recommended!",
+    "I had Najiem as my motorbike instructor. The best instructor you could hope for! He took his time explaining things, was very patient and always gave you constructive feedback.",
+    "Great environment to be in when you want to learn to ride a motorbike with confidence.",
+    "Thank you Mrs Els also for your amazing tips and guidance."
+  ],
+  "themes_positive": [
+    "professional instructors",
+    "patient",
+    "clear explanation",
+    "personal approach",
+    "passed first time",
+    "lessons available in English",
+    "good preparation for exam",
+    "strict but constructive",
+    "builds confidence"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Only ~7 individual review bodies were readable despite a claimed 170 Google reviews; cannot verify the full distribution.",
+    "Reviews are Google Maps only (self-solicited possible); no independent verified platform (klantenvertellen/Trustpilot) found for this school.",
+    "Aggregator data is messy: clickdrive.nl conflates this school with an unrelated 'Rijschool VLNR / William Schalkx' (2 reviews), and rijloket.nl lists the website/phone of an unrelated 'Correct Verkeersschool' in Katwijk. The Den Bosch school is identified by address Almhof 21, CBR 5553G8, KvK 69592586.",
+    "No negative or mixed reviews surfaced, so the positive-only picture may be incomplete rather than confirmed."
+  ],
+  "sources": [
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/rij-correct-s-hertogenbosch",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rij-correct",
+    "https://vindjerijschool.nl/rijscholen/s-hertogenbosch/rij-correct",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rij-correct"
+  ],
+  "review_summary": "On Google (4.9, 170 reviews) students - many of them English-speaking expats - praise rij-correct's professional, patient instructors (Farlan, Els, Fabian, Nordin, Najiem), the personal approach, and strong exam preparation, with several reporting passing first time. No critical or mixed reviews were found, and there is no independent verified-review platform page for this specific school, so trust is capped at moderate."
+}

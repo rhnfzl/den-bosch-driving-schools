@@ -1,0 +1,48 @@
+{
+  "row_index": 52,
+  "slug": "school_052",
+  "rijschool": "Autorijschool Thomassen",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 9,
+  "sentiment": "positive",
+  "sentiment_index": 86,
+  "english_in_reviews": "no",
+  "review_summary": "Students consistently praise instructor Roy Thomassen as patient, professional and pleasant, with a good atmosphere in the car; most reviews are short one-liner Google recommendations rather than detailed accounts. No readable English-language or expat reviews were found.",
+  "themes_positive": [
+    "patient instructor (geduldig)",
+    "professional",
+    "pleasant/good atmosphere (gezellig, goede sfeer)",
+    "instructive lessons (leerzaam)",
+    "personal guidance",
+    "recommended (aanrader)"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Several 5-star Google reviews have no written text (star-only)",
+    "Most written reviews are short generic one-liners ('Zeker een aanrader!', 'Zeer tevreden over de lessen!') with little specific detail",
+    "Only 12 Google reviews total; website shows a 9.2 widget but no public klantenvertellen/Kiyoh page with readable individual reviews could be located",
+    "All reviews are uniformly positive with no critical or mixed feedback visible (note: independent CBR first-time pass rate is a modest ~55-60%)"
+  ],
+  "representative_quotes": [
+    "Hele goede, geduldige (en gezellige) instructeur! Rijbewijs was zonder Roy niet gelukt!",
+    "Altijd super leerzame en productieve lessen gehad. Er is altijd een goede sfeer in de auto.",
+    "Zoek je nog een rijschool? Autorijschool Thomassen is zeker een aanrader!!",
+    "Professionele en zeer geduldige instructeur. Had helemaal geen problemen, geweldige lessen.. Beveel het aan",
+    "Leerzame en aangename rijlessen. Op zoek naar een rijschool waar je kunt rekenen op fijne begeleiding? Dan raad ik het je zeker aan.",
+    "Zeer tevreden over de lessen!",
+    "Zeker een aanrader!"
+  ],
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl)",
+    "CBR (pass-rate stats, no text reviews)",
+    "rijschoolthomassen.nl (9.2 rating widget, no readable individual reviews)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-thomassen",
+    "https://clickdrive.nl/en/driving-schools/rosmalen/autorijschool-thomassen",
+    "https://rijschoolthomassen.nl",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-thomassen"
+  ]
+}

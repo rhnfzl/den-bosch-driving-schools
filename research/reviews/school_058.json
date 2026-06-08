@@ -1,0 +1,31 @@
+{
+  "row_index": 58,
+  "slug": "school_058",
+  "rijschool": "Rijschool van Herwaarden",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No klantenvertellen.nl page exists for this school (no independent verified reviews).",
+    "Only 1 Google review found (5.0/5 via clickdrive.nl) and its TEXT is not displayed/readable.",
+    "Directory listings (rijschoolspecialist.nl, rijscholen-gids.nl, educarplatform.nl) all show 0 reviews.",
+    "The only pages containing actual review TEXT belong to DIFFERENT driving schools (autorijschool-marco.nl = 'Autorijschool Marco en Diana', phone 06-47763224, autism/ADHD specialty; and Autorijschool Marco van Die in Westmaas) and were NOT attributed to van Herwaarden to avoid name confusion.",
+    "Below-average CBR pass rate (~37-38% first-time vs ~54% location average at Den Bosch) — context only, not from reviews."
+  ],
+  "review_summary": "No readable customer review text could be found for Rijschool van Herwaarden (Kerkdriel; instructor Marco van Herwaarden, with Vienna Leijting). There is no klantenvertellen page, and Google shows only a single 5.0/5 rating with no visible review body. Review pages that did contain quotes belong to other, unrelated 'Marco' driving schools and were excluded to avoid misattribution.",
+  "sources": [
+    "https://clickdrive.nl/driving-schools/kerkdriel/rijschool-van-herwaarden (Google rating 5.0/5, 1 review, no text shown)",
+    "https://www.rijschoolspecialist.nl/rijschool-van-herwaarden (0 reviews)",
+    "https://rijscholen-gids.nl/kerkdriel/rijschool-van-herwaarden (0 reviews)",
+    "https://www.educarplatform.nl/rijscholen/kerkdriel/5718-rijschool-van-herwaarden (0.0, 0 reviews)",
+    "https://vindjerijschool.nl/rijscholen/kerkdriel/rijschool-van-herwaarden (CBR stats only)",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-van-herwaarden (CBR pass-rate data)"
+  ]
+}

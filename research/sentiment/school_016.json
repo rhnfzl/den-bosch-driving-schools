@@ -1,0 +1,19 @@
+{
+  "row_index": 16,
+  "slug": "school_016",
+  "rijschool": "P. Heins Rijopleidingen",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 7,
+  "sentiment_index": 87,
+  "sentiment": "positive",
+  "themes_positive": [
+    "flexibel plannen",
+    "in één keer geslaagd",
+    "snel afrijden",
+    "goede rijopleiding",
+    "aanbevolen door klanten"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel allemaal lovend en noemen concreet flexibiliteit, snel slagen en een prettige rijopleiding."
+}

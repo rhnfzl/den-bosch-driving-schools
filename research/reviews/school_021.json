@@ -1,0 +1,61 @@
+{
+  "row_index": 21,
+  "slug": "school_021",
+  "rijschool": "Autorijschool Coenen",
+  "review_trust": "strong",
+  "review_substance": "substantive",
+  "verified_reviews": true,
+  "reviews_read": 22,
+  "sentiment": "very_positive",
+  "sentiment_index": 84,
+  "english_in_reviews": "no",
+  "review_summary": "Across verified klantenvertellen reviews and Google reviews, students consistently praise instructors Jan and Annemarie for calm, patient, structured teaching, learning at your own pace, building confidence, and good support for nervous learners (rijangst/faalangst) and ADHD; the main complaint is a single older Google review accusing the school of stalling before booking the exam and pushing toward 45+ lessons.",
+  "themes_positive": [
+    "patient and calm instruction",
+    "learn at your own pace",
+    "clear, repeated explanation",
+    "builds confidence / good with nervous learners (rijangst/faalangst)",
+    "accommodates ADHD/autism",
+    "teaches independent driving",
+    "honest, no upselling (passes you when ready, not when package runs out)",
+    "friendly/gezellig atmosphere",
+    "good exam preparation"
+  ],
+  "themes_negative": [
+    "stalling before requesting the exam (one review)",
+    "perceived pressure toward more lessons / 45+ lesson packages (one review)",
+    "one bare 1-star with no explanation"
+  ],
+  "red_flags": [
+    "Google sample is small (only 9 reviews)",
+    "klantenvertellen scores are uniformly very high (many 10s), limited spread",
+    "some klantenvertellen entries are very short one-liners",
+    "one 1-star Google rating (KB) has no review text"
+  ],
+  "representative_quotes": [
+    "Ik heb bij Annemarie rijlessen gevolgd en in heel snel heel veel geleerd. Ze is enorm aardig maar ook een hele goede instructeur.",
+    "Met een rustige uitleg kreeg ik snel vertrouwen.",
+    "Structuur, regelmaat, fijne feedback en rust zodat je écht leert rijden. Oh en ook gewoon gezellig!",
+    "Langzaamaan meer zelfvertrouwen gekregen in de auto bij Jan en leren autorijden.",
+    "Altijd heel gezellig in de auto geweest, erg fijne manier van les geven, houdt rekening met uw eigen aandoeningen zoals adhd.",
+    "fijne en rustige lessen. Ik kon op mijn eigen tempo rijden en dat was erg fijn.",
+    "ik heb een prettige les ervaring gehad. De instructeur is duidelijk en open voor vragen en als je het niet snapt legt hij het gerust opnieuw uit.",
+    "Hele fijne begeleiding gehad. Jan is super eerlijk en leert je om echt zelfstandig te rijden door je geduldig steeds opnieuw uitleg te geven.",
+    "Fantastisch geholpen door mensen met passie die je op laten gaan als je er klaar voor bent en niet omdat je pakket op is. Begripvol, geduldig en gewoon goed.",
+    "Uitstekende rijschool. Instructeur Jan legt alles rustig uit en geeft mij de verantwoordelijkheid. Juist goed dat ik niet gehaast supersnel examen ga doen.",
+    "Mijn zoon heeft hier uitstekende rijles gehad in een automaat, was te zenuwachtig in een schakelwagen, in een keer geslaagd daardoor, zeer goede service.",
+    "Ze blijven rekken en strekken voordat ze een examen aanvragen. Als je dan zo'n pakket hebt met examen erbij, hebben ze je in de tang. Onder de 45 lessen kom je daar sowieso niet weg."
+  ],
+  "sources": [
+    "https://www.klantenvertellen.nl/reviews/1052201/autorijschool-coenen",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-coenen",
+    "https://clickdrive.nl/en/driving-schools/s-hertogenbosch/autorijschool-coenen",
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/autorijschool-coenen-s-hertogenbosch",
+    "https://www.rijschoolspecialist.nl/autorijschool-coenen"
+  ],
+  "platforms_found": [
+    "klantenvertellen.nl (verified)",
+    "Google reviews (via clickdrive.nl and rijloket.nl)",
+    "rijschoolspecialist.nl"
+  ]
+}

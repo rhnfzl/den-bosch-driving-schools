@@ -1,0 +1,36 @@
+{
+  "row_index": 11,
+  "slug": "school_011",
+  "rijschool": "G.J.C.J. Hanegraaf",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 6,
+  "platforms_found": ["autorijschooltarieven.nl", "Google (via clickdrive.nl)"],
+  "sources": [
+    "https://www.autorijschooltarieven.nl/rijschool/gjcj-hanegraaf",
+    "https://clickdrive.nl/rijscholen/rosmalen/g-j-c-j-hanegraaf",
+    "https://www.rijschoolspecialist.nl/g-j-c-j-hanegraaf",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/g.j.c.j.-hanegraaf"
+  ],
+  "representative_quotes": [
+    "Heb al 4 verschillende rij instructeurs gehad. En telkens voelde het niet prettig en was uitleg niet zo best. Tot ik Gerrie tegenkwam!! Een man die je goed uitleg geeft en je leert rijden en stukje inzicht etc.. hij heeft alles in huis wat je nodig hebt om goed te leren rijden en slagen voor je examen!! Topper!! (Maikel, 2014)",
+    "Een man om niet alleen bij te leren rijden maar ook om je verhaal kwijt te kunnen. Top instructeur en de auto mag ook zeker niet missen. (m schellekens van pouderoyen, 2009)",
+    "Heb 26 jaar geleden les gehad en examen ben zeer tevreden met de les die gegeven is. zo tevreden dat ik mijn dochter ook bij hem laat lessen",
+    "Echt een zeer goede rijschool zeker een aanrader (Jordy Van hamond, Google, ~7 jaar geleden)",
+    "Zeer goede rijschool, aanrader! (Google review titel, didar juice)"
+  ],
+  "sentiment": "positive",
+  "sentiment_index": 78,
+  "english_in_reviews": "no",
+  "themes_positive": ["clear explanation", "patient / personal attention", "good instructor (Gerrie)", "comfortable car", "trusted across generations"],
+  "themes_negative": ["very few reviews", "mostly old/dated reviews", "low CBR pass rate"],
+  "red_flags": [
+    "Only ~5-6 readable reviews total across all platforms; no single platform has a meaningful volume",
+    "No independent verified (klantenvertellen/Kiyoh) review page exists for this school",
+    "The most substantive review bodies are old (2009-2019); little recent feedback",
+    "Google rating is 5.0 but based on only 2 reviews",
+    "Review sample too small to be statistically meaningful; cannot detect balance"
+  ],
+  "review_summary": "The handful of reviews that exist are all positive and praise owner-instructor 'Gerrie' Hanegraaf for clear explanation, patience and a personal one-man approach, with one reviewer trusting him across two generations. However, there are only about five readable reviews, most are old (2009-2019), none are independently verified, and the CBR first-time pass rate is low, so trust is weak on volume despite the positive tone."
+}

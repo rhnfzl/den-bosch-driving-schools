@@ -1,0 +1,58 @@
+{
+  "row_index": 2,
+  "slug": "school_002",
+  "rijschool": "Rijschool Inseen",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "website": "https://inseen.nl",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 18,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "themes_positive": [
+    "patient instructors",
+    "clear explanation",
+    "good with nervous learners",
+    "named instructors (Ronny, Erwin)",
+    "fun/relaxed atmosphere (gezellig)",
+    "passed in one attempt",
+    "strong motorcycle (A/AVB/AVD) coaching",
+    "good communication and fast exam planning"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Perfect 5.0/5 average across ~128 Google reviews with zero negative or mixed reviews visible",
+    "Cluster of near-identical short 5-star one-liners (e.g. 'Top rijschool!', 'Top rijschool!!!') suggesting some solicited/low-substance reviews",
+    "No reviews on independent verified platforms (no Inseen-specific klantenvertellen.nl or Trustpilot page found); reliance on Google + Facebook only",
+    "Heavy concentration on motorcycle lessons; few car-license review specifics despite car being offered"
+  ],
+  "representative_quotes": [
+    "Mijn rijbewijs voor de auto, aanhanger en motor gehaald bij Rijschool INSEEN. Erwin en Ronny, super erg bedankt voor de leerzame en vooral gezellige lessen!",
+    "Geweldige rijschoolervaring bij Rijschool INSEEN! Ik heb mijn motorrijbewijs hier gehaald... De instructeurs zijn super vriendelijk, geduldig en weten precies hoe ze je moeten helpen.",
+    "Ze zorgden ervoor dat ik me op mijn gemak voelde en gaven duidelijke en nuttige instructies.",
+    "Top rijschool! Ik heb mijn lessen van Erwin gehad, geeft heel prettig les, is geduldig en nog gezellig ook. Rijbewijs A in 1x gehaald door Erwin en Ronny!",
+    "Vandaag in 1x geslaagd voor mijn motorrijbewijs A! ... Professionele begeleiding en hele leuke lessen. Hebben hart voor de leerlingen!",
+    "Motorrijbewijs bij Rijschool Inseen gehaald na nuttige, leerzame en vooral heel leuke lessen. Instructeurs Ronny en Erwin zijn erg professioneel, geduldig, duidelijk, denken met je mee.",
+    "Het lijkt alsof je les volgt bij een goede vriend die veel kennis van zaken heeft en enorm zijn best doet om jou succesvol en met veel plezier je motorrijbewijs te laten behalen.",
+    "Fijne instructeurs. Ooit B les van Ronnie gehad en nu hier ook mijn BE behaald.",
+    "Top rijschool. Ik ben 1,60 groot en kon goed op de verlaagde motor rijden.",
+    "Goeie rijschool! Leert snel en zeker een goeie service! Top rijschool!!!",
+    "Hele fijne rijschool. in 1 x geslaagd voor mijn motorrijbewijs. Zeer vakkundige uitleg zowel in theorie als in praktijk.",
+    "Gewoon de beste rijschool in Den Bosch. Altijd gezellig en leerzaam met Ronny! 10/10"
+  ],
+  "review_summary": "Students consistently praise instructors Ronny and Erwin as patient, professional and good-humoured, with many reporting they passed in one attempt - especially for the motorcycle (A/AVB/AVD) and trailer (BE) categories, which dominate the reviews. The picture is overwhelmingly positive (5.0/5 over ~128 Google reviews) but rests entirely on Google and Facebook with no independent verified-platform reviews and no negative or English-language feedback, so the unbroken positivity should be read with mild caution.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-inseen",
+    "https://clickdrive.nl/en/driving-schools/s-hertogenbosch/rijschool-inseen",
+    "https://inseen.nl",
+    "https://www.rijschoolbijmij.nl/rijschool/624/rijschool-inseen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-inseen"
+  ],
+  "platforms_found": [
+    "Google reviews (via clickdrive.nl, 5.0/5 ~128 reviews)",
+    "Facebook (via inseen.nl recent reviews widget)",
+    "CBR (pass-rate statistics only, no text reviews)"
+  ]
+}

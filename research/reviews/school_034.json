@@ -1,0 +1,34 @@
+{
+  "row_index": 34,
+  "slug": "school_034",
+  "rijschool": "Autorijschool Kwaks",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 3,
+  "sentiment": "positive",
+  "sentiment_index": 72,
+  "english_in_reviews": "no",
+  "review_summary": "Only three short Google reviews exist for Autorijschool Kwaks, all 5 stars and in Dutch. The single substantive one praises instructor Dirk for getting you on the road quickly and being easy to talk to; the other two are one-liners ('Top veilig op de weg', 'Is goed'). One reviewer shares the surname Kwaks, hinting at a possible related-party review, so the tiny sample cannot support a reliable judgment.",
+  "platforms_found": ["Google reviews (via clickdrive.nl / rijlessen.nl / regio-rijschool.nl)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/nuland/autorijschool-kwaks",
+    "https://rijlessen.nl/rijscholen/nuland/rijschool-4230-autorijschool-kwaks",
+    "https://regio-rijschool.nl/noord-brabant/nuland/autorijschool-kwaks",
+    "https://www.rijschoolbijmij.nl/rijschool/3339/autorijschool-kwaks"
+  ],
+  "representative_quotes": [
+    "Dirk is een instructeur die je snel de weg op helpt en waarmee je goed kan praten tijdens de lessen, zeker aan te raden!",
+    "Top veilig op de weg",
+    "Is goed"
+  ],
+  "themes_positive": ["clear/good communication", "gets you on the road quickly", "safe driving", "recommended"],
+  "themes_negative": [],
+  "red_flags": [
+    "Only 3 reviews total across all platforms - far too few to judge reliably",
+    "Two of three reviews are trivial one-liners ('Is goed', 'Top veilig op de weg') with no specifics",
+    "One reviewer (Annemiek Kwaks) shares the school's surname, suggesting a possible family/related-party review",
+    "No independent verified reviews (no klantenvertellen, Trustpilot, or Trustoo profile found)",
+    "Single-platform (Google only); all aggregator sites just mirror the same 3 Google reviews"
+  ]
+}

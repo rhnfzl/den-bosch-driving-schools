@@ -1,0 +1,21 @@
+{
+  "row_index": 50,
+  "slug": "school_050",
+  "rijschool": "Verkeersschool Vlaspoel",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "fijne en gezellige sfeer",
+    "goede uitleg en inhoudelijke lessen",
+    "instructor geeft vertrouwen en stelt op gemak",
+    "aandacht voor faalangst en zelfvertrouwen",
+    "flexibel en meedenkend",
+    "goede voorbereiding op examen",
+    "in één keer geslaagd"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "Alle quotes zijn sterk positief over de instructeur en rijschool, met veel nadruk op een prettige sfeer, goede begeleiding en succes bij het examen."
+}

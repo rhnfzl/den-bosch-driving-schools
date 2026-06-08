@@ -1,0 +1,19 @@
+{
+  "row_index": 17,
+  "slug": "school_017",
+  "rijschool": "M. van Heugten",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 95,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldige en rustige instructeurs",
+    "duidelijke uitleg en goede begeleiding",
+    "persoonlijke aandacht en stap-voor-stap uitleg",
+    "goede examenvoorbereiding en veel in één keer geslaagd",
+    "snelle planning en efficiënte lessen"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn unaniem lovend over de rustige, geduldige en duidelijke begeleiding, met veel succesvolle examenresultaten en geen noemenswaardige klachten."
+}

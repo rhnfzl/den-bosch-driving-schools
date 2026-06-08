@@ -1,0 +1,33 @@
+{
+  "row_index": 20,
+  "slug": "school_020",
+  "rijschool": "Motorrijles Max",
+  "plaats": "'s-Hertogenbosch",
+  "website": "https://motorrijlesmax.nl",
+  "phone": "06 44303081",
+  "address": null,
+  "postcode": "5236",
+  "kvk_number": "90818342",
+  "cbr_rijschoolnummer": "1666U0",
+  "english_instruction": "yes",
+  "english_confidence": "high",
+  "english_evidence": "Official site: 'NL · EN · AR — Les in jouw taal' / 'Les in Nederlands, Engels of Arabisch'; plus English-language learner reviews: 'Ik heb mijn lessen in het Engels gevolgd en dat ging heel goed' and 'Ideaal voor Engelssprekende leerlingen!'",
+  "english_source": "https://motorrijlesmax.nl",
+  "transmission": "unknown",
+  "transmission_source": null,
+  "founding_year": 2019,
+  "founding_year_basis": "website",
+  "founding_confidence": "med",
+  "google_rating": 4.9,
+  "review_count": 80,
+  "price_signal": null,
+  "waitlist_signal": "No waitlist — official site repeatedly states 'Geen wachtlijst' / 'Direct starten' / 'je start deze week nog'",
+  "notes": "Motorcycle-focused school (A / A1 / A2 categories, 8 Kawasaki lesmotoren, AVB & AVD focus); not a car driving school per its own website. Lessons offered in Dutch, English and Arabic (good for expats). Spoedopleiding (fast-track) and opfriscursus (refresher) available. Vaste instructeur (same instructor throughout). CBR-registered as Motorrijles Max, plaats 5236 's-Hertogenbosch, contact ak.denbosch@gmail.com. Clickdrive aggregator associates it with Autorijschool Baron and lists car (B), motor and aanhanger (BE) categories with '7 jaar ervaring' and 4.9/5 (67 reviews); De Beste Rijscholen lists a 54% CBR pass rate (26/48). Transmission (automaat vs schakel) not stated — marked unknown. Note: KvK 90818342 implies a ~2023 entity registration, while '7 jaar ervaring' (→ ~2019) likely reflects instructor experience rather than company incorporation; founding_year set to 2019 on the website 'jaar ervaring' basis with med confidence.",
+  "sources": [
+    "https://motorrijlesmax.nl",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-baron",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/motorrijles-max",
+    "https://debesterijscholen.nl/s-hertogenbosch",
+    "https://rijschoolbaron.nl"
+  ]
+}

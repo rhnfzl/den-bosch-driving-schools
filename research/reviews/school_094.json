@@ -1,0 +1,40 @@
+{
+  "row_index": 94,
+  "slug": "school_094",
+  "rijschool": "Autorijschool E. van Weert",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable review text found on any platform",
+    "klantenvertellen.nl page returns 404 (no verified-review profile exists)",
+    "Only 2 Google reviews total (5.0/5), bodies not retrievable; aggregators show star count only, no text",
+    "No presence on Trustpilot, Facebook, or Trustoo individual listing",
+    "rijschoolspecialist.nl and autorijschooltarieven.nl show 0 visitor reviews",
+    "Sentiment is inferred only from a 5.0/5 aggregate star rating, not from review content"
+  ],
+  "platforms_found": [
+    "Google (2 reviews, 5.0/5, via clickdrive.nl / rijloket.nl)",
+    "klantenvertellen.nl (404 - no profile)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "autorijschooltarieven.nl (no visitor reviews)",
+    "educarplatform.nl (0 reviews)"
+  ],
+  "review_summary": "No readable review text could be found for Autorijschool E. van Weert. The only review signal is a 5.0/5 aggregate from just 2 Google reviews; klantenvertellen has no profile (404), and no other platform carries review bodies, so authenticity and sentiment cannot be judged from actual student text.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/nuland/autorijschool-e-van-weert",
+    "https://rijloket.nl/rijscholen/nuland/autorijschool-e-van-weert-nuland",
+    "https://www.rijschoolspecialist.nl/autorijschool-e-van-weert",
+    "https://www.autorijschooltarieven.nl/rijschool/autors-e-van-weert",
+    "https://www.klantenvertellen.nl/reviews/autorijschool-e-van-weert",
+    "https://www.google.com/maps/search/Autorijschool+E.+van+Weert+Nuland",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-e.-van-weert"
+  ]
+}

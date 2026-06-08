@@ -1,0 +1,51 @@
+{
+  "row_index": 4,
+  "slug": "school_004",
+  "rijschool": "Verkeersschool Bakker V.O.F.",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 16,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "unclear",
+  "platforms_found": ["clickdrive.nl (Google reviews aggregated)", "Google reviews", "DriveDutch (stats only)", "Facebook (Vlijmen4you congrats post)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vlijmen/verkeersschool-bakker-v-o-f",
+    "https://www.drivedutch.nl/nl/forum/Verkeersschool%20Bakker%20V.O.F./Vlijmen/559569980000",
+    "https://www.rijschoolspecialist.nl/verkeersschool-bakker-v-o-f",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/verkeersschool-bakker-v.o.f."
+  ],
+  "representative_quotes": [
+    "Fijne rijschool, ze zijn rustig en als je iets fout doet leggen ze dit goed uit. Top ervaring gehad en meteen geslaagd!",
+    "Heb hier mijn autorijbewijs gehaald, super kunnen lessen bij Frank en Hans. Ze blijven altijd rustig en kalm, dit was heel fijn!",
+    "Na een ontzettend vervelende ervaring te hebben gehad met een andere rijschool. Hier terecht gekomen. Zelfvertrouwen terug gekregen in een veilige omgeving. Bedankt Hans, Frank en dames van de administratie.",
+    "Ik ben terecht gekomen bij Verkeersschool Bakker na een slechte ervaring bij een andere rijschool. Binnen no-time in een keer geslaagd, top begeleiding. Aanrader.",
+    "Les gehad van Eric voor het halen van mijn automaatrijbewijs. Fantastische rijschool. De planning en organisatie is uitstekend. Eric was vriendelijk, geduldig en positief en heeft me enorm geholpen zelfvertrouwen te ontwikkelen.",
+    "De elektrische rijlesauto is heel comfortabel en stil. Ook echt een aanrader als je al wat ouder bent. Ik ben superblij met mijn rijvaardigheden nu.",
+    "Geduldig, vriendelijk, vertrouwen....... Jij voelt je veilig bij elke instructor!",
+    "Ze leerden mijn vriendin autorijden en ze waren geweldig. De instructeur was uiterst geduldig. Ze rijdt nu uitstekend, wat mij niet verbaast.",
+    "Fantastische rijschool! Ze zijn eerlijk, vriendelijk, denken met je mee en leveren top kwaliteit. Super blij mee. Ga zo door!",
+    "Heel tevreden over de brommer praktijklessen. Veel geleerd in korte tijd en meteen geslaagd! Bedankt Bas!",
+    "Vandaan het aanhanger rijbewijs gehaald. Dit dankzij de goede lessen van Eric.",
+    "Verkeerschool Bakker is een mooi familie bedrijf die goed zijn vak verstaat."
+  ],
+  "themes_positive": [
+    "calm and patient instructors",
+    "clear explanation of mistakes",
+    "good with nervous learners / regained confidence (faalangst)",
+    "named instructors (Eric, Frank, Hans, Bas)",
+    "strong organisation and planning",
+    "family business with expertise",
+    "passed quickly / first time",
+    "comfortable electric lesson car, good for older learners"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "All reviews 4-5 stars with no critical or mixed feedback visible, which can indicate solicited/curated display",
+    "No independent verified-customer platform (no klantenvertellen page) found; only Google reviews aggregated via clickdrive",
+    "Only ~18 Google reviews total despite 30+ years operating and 200+ exams; several entries are one-liners or 'Geen beschrijving' (no text)",
+    "Some five-star reviews are from business relations (e.g. DJJD Scooters B.V., the scooter supplier) rather than students"
+  ],
+  "review_summary": "Across ~18 Google reviews (4.9/5, aggregated on clickdrive), students consistently describe calm, patient instructors who explain mistakes clearly, name individual instructors (Eric, Frank, Hans, Bas), and repeatedly mention regaining confidence after a bad experience elsewhere; several passed first time. The picture is uniformly positive with no critical reviews surfaced, and no independent verified-customer reviews (klantenvertellen) were found."
+}

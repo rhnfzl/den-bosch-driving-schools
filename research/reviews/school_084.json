@@ -1,0 +1,53 @@
+{
+  "row_index": 84,
+  "slug": "school_084",
+  "rijschool": "Beekwilder autorijlessen",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "verified_reviews": false,
+  "reviews_read": 14,
+  "platforms_found": ["Google Reviews (via clickdrive.nl)", "website testimonials (beekwilderautorijlessen.nl)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/beekwilder-autorijlessen",
+    "https://beekwilderautorijlessen.nl",
+    "https://www.rijschoolspecialist.nl/beekwilder-autorijlessen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/beekwilder-autorijlessen"
+  ],
+  "representative_quotes": [
+    "Vandaag in één keer geslaagd door de rijlessen van Christel. Ze stelt je erg op je gemak. Ze denkt mee met je persoonlijke omstandigheden, en met het inplannen van je rijlessen en je examens.",
+    "Wij ervaren rijschool Beekwilder als heel erg fijn en zeer geduldig. Christel legt alles heel rustig uit en blijft altijd positief.",
+    "Voor mensen die extra aandacht nodig hebben, is Christel de aangewezen persoon. Ze blijft altijd de rust zelve. Onze zoon heeft er meer zelfvertrouwen door gekregen!",
+    "Vandaag in een keer geslaagd door de rijlessen van Cristel! Hele fijne, rustige maar ook zeker gezellige vrouw. Neemt alle tijd voor je en geeft opbouwende feedback, waardoor je echt met vertrouwen de weg op gaat.",
+    "Cristel is een top instructrice. Uitleg is helder en het is ook nog eens gezellig in de auto!",
+    "Ik heb veel geleerd en was altijd wel gezellig in de auto",
+    "Fijne tijd gehad, veel geleerd en mijn rijbewijs behaald. Een aanrader!",
+    "Super fijne en gezellige lessen gehad! Alles rustig en duidelijk uitgelegd.",
+    "Heel fijne ervaring! Heel duidelijk, betrouwbaar en prettig om les van te krijgen :) Echt een aanrader!",
+    "Super fijne lessen gehad! Door de goede instructies in 1x kunnen slagen!!",
+    "Ik ben in één keer geslaagd dankzij deze rijschool, maar naast dat heb ik het ook super leuk, leerzaam en gezellig gehad in de auto met Cristel. Een echte aanrader! (website testimonial - Ilse)",
+    "Altijd heel vriendelijk, fijne en duidelijke uitleg. Zeker een aanrader als je stressloze lessen wilt! (website testimonial - Fenna)"
+  ],
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "good with nervous learners",
+    "calm/relaxed atmosphere",
+    "flexible scheduling",
+    "passed first time",
+    "builds confidence",
+    "personal attention",
+    "specialised in faalangst (exam anxiety)"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Many Google entries are 5-star with no written text ('Geen beschrijving') — rating-only, not substantive",
+    "Several written reviews are short one-liners ('Fijne lessen, aanrader!')",
+    "No verified-customer platform (klantenvertellen/Kiyoh) page exists for this school; rijschoolspecialist shows 0 reviews",
+    "Single-instructor school (owner Cristel), so reviews concentrate on one person and read uniformly glowing"
+  ],
+  "review_summary": "Students consistently describe owner-instructor Cristel as calm, patient and clear, praising her flexible planning and her skill with nervous/anxious learners, with many reporting they passed on the first attempt. The picture is uniformly very positive but rests mostly on short Google reviews and website testimonials, with no independently verified-customer reviews and many rating-only entries.",
+  "verified_reviews_flag": false
+}

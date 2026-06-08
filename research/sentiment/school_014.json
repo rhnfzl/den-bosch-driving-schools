@@ -1,0 +1,21 @@
+{
+  "row_index": 14,
+  "slug": "school_014",
+  "rijschool": "HalimRijschool",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 92,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "professionele en geduldige instructeur",
+    "duidelijke uitleg",
+    "persoonlijke begeleiding en betrokkenheid",
+    "zelfvertrouwen op de weg",
+    "in één keer slagen",
+    "goede behandeling en respectvolle coach",
+    "aanbevolen rijschool"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel unaniem lovend over Halim en de rijschool, met veel nadruk op geduld, duidelijke uitleg, persoonlijke hulp en in één keer slagen."
+}

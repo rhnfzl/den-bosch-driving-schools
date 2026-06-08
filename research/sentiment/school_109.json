@@ -1,0 +1,26 @@
+{
+  "row_index": 109,
+  "slug": "school_109",
+  "rijschool": "Flex Rijschool",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 8,
+  "sentiment_index": 58,
+  "sentiment": "mixed",
+  "themes_positive": [
+    "goede begeleiding",
+    "duidelijke instructies",
+    "goeie tips",
+    "hoge kwaliteit",
+    "geslaagd voor examens",
+    "fijne lessen voor motor en auto"
+  ],
+  "themes_negative": [
+    "scam",
+    "geld kwijt raken",
+    "levensgevaarlijk rijgedrag",
+    "regels worden genegeerd",
+    "door rood rijden met leerling"
+  ],
+  "confidence": "high",
+  "rationale": "Meerdere reviewers prijzen de duidelijke begeleiding en behalen van examens, maar er staan ook zeer zware klachten over onveilig en mogelijk frauduleus gedrag tegenover."
+}

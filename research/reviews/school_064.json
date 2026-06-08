@@ -1,0 +1,45 @@
+{
+  "row_index": 64,
+  "slug": "school_064",
+  "rijschool": "Autorijschool Wagenaar",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 2,
+  "sentiment": "mixed",
+  "sentiment_index": 45,
+  "english_in_reviews": "no",
+  "review_summary": "Almost no readable review text exists for Autorijschool Wagenaar (Den Bosch): only a single 5.0 Google review ('in 1x geslaagd' / passed first time) and one detailed 2020 negative review from a former student who complained about cancelled, expensive lessons that were still charged. Too few reviews to judge consistent quality.",
+  "platforms_found": [
+    "Google (via clickdrive.nl / rijschoolbijmij.nl)",
+    "autorijschooltarieven.nl (visitor review)"
+  ],
+  "themes_positive": [
+    "passed first time"
+  ],
+  "themes_negative": [
+    "lessons cancelled",
+    "expensive",
+    "billed for lessons not driven",
+    "poor lesson experience"
+  ],
+  "red_flags": [
+    "Only ~2 readable reviews total across all platforms",
+    "No verified/independent reviews (no klantenvertellen, Trustpilot, Trustoo, or Facebook page found)",
+    "Single Google review (5.0) is a generic one-liner with no specifics",
+    "The one substantive review is strongly negative (cancelled lessons billed anyway)"
+  ],
+  "representative_quotes": [
+    "in 1x geslaagd",
+    "Verschrikkelijke ervaring. Ik had enorm zin in mijn rijopleiding, maar dat heeft Monique Wagenaar helemaal verpest voor mij.",
+    "Niet alleen waren de rijlessen verschrikkelijk, ze waren ook nog duur en vaak afgeblazen.",
+    "Toch streepte ze elke keer de lessen af, al waren ze niet gereden.",
+    "Veel geld, energie en tijd kwijt aan deze rijschool. Geen aanrader."
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-wagenaar",
+    "https://www.autorijschooltarieven.nl/rijschool/autors-wagenaar",
+    "https://www.rijschoolbijmij.nl/rijschool/700/autorijschool-wagenaar",
+    "https://www.drivedutch.nl/nl/forum/Autorijschool%20Wagenaar/'S-HERTOGENBOSCH/735312430000"
+  ]
+}

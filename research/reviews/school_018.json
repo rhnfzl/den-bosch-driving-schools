@@ -1,0 +1,57 @@
+{
+  "row_index": 18,
+  "slug": "school_018",
+  "rijschool": "Autorijschool Van Grootel",
+  "review_trust": "moderate",
+  "review_substance": "substantive",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "platforms_found": [
+    "Google reviews (4.5/5, 17 reviews; syndicated via clickdrive.nl and rijschoolbijmij.nl)",
+    "Trustoo (9.1/10, 36 reviews; syndicates Google review bodies)",
+    "Facebook (100% recommend, 17 reviews; no readable bodies)",
+    "CBR (official pass-rate data, no review text)"
+  ],
+  "sources": [
+    "https://trustoo.nl/noord-brabant/rosmalen/rijschool/autorijschool-van-grootel",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-van-grootel",
+    "https://www.rijschoolbijmij.nl/rijschool/602/autorijschool-van-grootel",
+    "https://www.facebook.com/p/Auto-en-Motorrijschool-Edwin-en-Jolanda-van-Grootel-100063531674147",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-van-grootel"
+  ],
+  "representative_quotes": [
+    "Ik ben enorm tevreden over de (motor) rijlessen die ik van Edwin van Grootel heb gehad. Zijn scherpte en voortdurende aandacht hebben mijn gevoel van veiligheid op de weg versterkt.",
+    "Met behulp van zijn waardevolle tips/instructies slaagde ik in een keer voor zowel mijn AVB als AVD examen.",
+    "Dankzij zijn geduld en professionele aanpak heb ik mijn rijvaardigheid naar een hoger niveau kunnen tillen. Ik raad zijn rijschool zeker aan.",
+    "Eigenlijk had ik al 10x willen opgeven wegens mijn onzekerheid maar dankzij Edwin toch door blijven gaan met daarbij positief resultaat, gisteren geslaagd voor de motor!!!",
+    "Het is een zeer vriendelijke man en weet precies wat welke leerling nodig heeft. Bedankt voor alle leerzame lessen en vooral al je geduld!",
+    "Als je je motorrijbewijs wilt halen moet je bij Edwin zijn. Zijn voortdurend scherpe feedback heeft ervoor gezorgd dat ik mijn AVB & AVD in een keer heb behaald.",
+    "Geen addertjes onder het gras, en geen onnodige lessen. Gewoon precies wat je nodig hebt.",
+    "Alle AVD lessen zijn 1-op-1, waardoor je snel vooruitgang boekt.",
+    "Kijk maar eens naar zijn slagingspercentages bij het CBR, die zeggen genoeg.",
+    "Lessen gevolgd voor mijn motorrijbewijs. Kortom, gewoon super! Helemaal tevreden en ik zou het zeker aanraden.",
+    "Gewoon precies wat je nodig hebt zonder addertjes en problemen! Ik kan met zelfvertrouwen en een fijn gevoel de motor op! Dankjewel Edwin!"
+  ],
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "sharp/constant feedback",
+    "good with nervous/insecure learners",
+    "personal 1-on-1 approach",
+    "no unnecessary lessons",
+    "high motorcycle pass rate (pass first time AVB/AVD)"
+  ],
+  "themes_negative": [
+    "lower car (rijbewijs B) pass rates per CBR (44% first-time) vs strong motorcycle rates",
+    "small review base (~17 Google reviews) so average is less robust"
+  ],
+  "red_flags": [
+    "Limited number of readable review bodies (4 captured), all dated 2024-2025",
+    "Reviews are heavily motorcycle-focused; few/no readable car-lesson review bodies",
+    "No independent verified (klantenvertellen) page found for this school"
+  ],
+  "review_summary": "Students describe Edwin van Grootel as patient, friendly and giving sharp, constant feedback, with several motorcycle learners (AVB & AVD) reporting they passed first time via personal 1-on-1 lessons and no unnecessary lessons; one nervous learner credits him with not giving up. Reviews are genuine-reading and specific but few in number, all in Dutch, and skewed toward motorcycle training, while official CBR car (rijbewijs B) pass rates are notably weaker."
+}

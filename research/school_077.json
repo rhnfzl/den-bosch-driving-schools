@@ -1,0 +1,33 @@
+{
+  "row_index": 77,
+  "slug": "school_077",
+  "rijschool": "Rijschool Azeze",
+  "plaats": "Vught",
+  "english_instruction": "unknown",
+  "english_confidence": "low",
+  "english_evidence": null,
+  "english_source": null,
+  "transmission": "both",
+  "transmission_source": "https://rijschoolazeze.nl",
+  "founding_year": null,
+  "founding_year_basis": "unknown",
+  "founding_confidence": "low",
+  "website": "https://rijschoolazeze.nl",
+  "phone": "+31 6 38 36 12 69",
+  "address": "Vlasmeersestraat 58",
+  "postcode": "5261TD",
+  "kvk_number": "96721715",
+  "cbr_rijschoolnummer": "7395W8",
+  "google_rating": null,
+  "review_count": null,
+  "price_signal": "€60/uur (schakel), €63/uur (automaat); blok 1,5 uur €90 / €95 automaat",
+  "waitlist_signal": null,
+  "notes": "Kleinschalige eenmanszaak, eigenaar Yemane (CBR contact merhawiazeze@gmail.com). Site (rijschoolazeze.nl) noemt expliciet lessen in het Tigrinya en lessen met automaat naast schakelen; GEEN vermelding van Engelse rijles, dus english_instruction=unknown (geen positief of negatief bewijs). Transmission=both: site behandelt schakelen als standaard en biedt ook een automaat-lesauto. Zeer nieuwe/kleine school: vindjerijschool meldt 5 examens afgelopen jaar (60% slagingspercentage), CBR-pagina toont 14 eerste examens (21%) + 16 herexamens. Geen 'sinds YYYY' of KvK-registratiejaar gevonden; website-assets zijn gedateerd 2025-03 (wp-content/uploads/2025/03/) wat op een recente start (waarschijnlijk 2024-2025) wijst, maar onvoldoende voor een hard oprichtingsjaar, daarom founding_year=null. Vestigingsnummer 000062028014, rechtsvorm Eenmanszaak. Examenlocatie CBR Den Bosch. Tweede telefoonnummer: +31 6 18 20 16 89. E-mail: info@azeze.nl.",
+  "sources": [
+    "https://rijschoolazeze.nl",
+    "https://vindjerijschool.nl/rijscholen/vught/rijschool-azeze",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-azeze",
+    "https://www.oozo.nl/bedrijven/vught/vught/centrum/3767576/rijschool-azeze",
+    "https://www.telefoonboek.nl/bedrijven/t9704638/vught/rijschool-azeze"
+  ]
+}

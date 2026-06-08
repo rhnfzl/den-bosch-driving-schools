@@ -1,0 +1,38 @@
+{
+  "row_index": 32,
+  "slug": "school_032",
+  "rijschool": "Rijschool Erik Brok",
+  "plaats": "Herpt (examenlocatie Den Bosch / 's-Hertogenbosch)",
+  "website": "https://www.rijschool-erikbrok.nl",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 6,
+  "platforms_found": ["Google reviews (via clickdrive.nl)", "rijschoolspecialist.nl (0 reviews)", "Facebook page (no readable reviews)", "CBR (pass-rate stats only, no reviews)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/herpt/rijschool-erik-brok",
+    "https://clickdrive.nl/es/autoescuelas/herpt/rijschool-erik-brok",
+    "https://www.rijschoolspecialist.nl/rijschool-erik-brok",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-erik-brok",
+    "https://www.rijschool-erikbrok.nl/over-ons"
+  ],
+  "representative_quotes": [
+    "Slechte ervaring net voor examen. Gewoon slecht, haakt af net voor examen.. (J Bakker, 1/5)",
+    "Top instructeur met goede support! Zeer fijne instructeur, aangeven is netjes en de hulp als het nodig is is ook heel goed aanwezig. Top Instructeur! (TheDucky398, 5/5)",
+    "Gedulde en fijne instructeur! Goed. Super goed behandeld. Fijne instructeur. Veel geduld voor je (Lisa Brok, 5/5)"
+  ],
+  "sentiment": "mixed",
+  "sentiment_index": 62,
+  "themes_positive": ["patient instructor", "personal attention", "good support when needed", "clear/neat instruction (aangeven)"],
+  "themes_negative": ["dropped/quit student just before exam", "very small evidence base"],
+  "red_flags": [
+    "Only ~5-6 Google reviews total; only 3 contain any written text, the rest are star-only",
+    "No independent verified-review platform (no klantenvertellen, Trustpilot or Trustoo presence found)",
+    "One of the positive 5-star reviews is from 'Lisa Brok' (same surname as the owner Erik Brok) - likely a relative, not an independent customer",
+    "Single-platform corpus (Google only); reviews span 6 years so volume is very low",
+    "CBR pass rate is below the exam-location average (39% first-attempt / 46% school vs 54% location average), which the lone negative review echoes ('haakt af net voor examen')"
+  ],
+  "english_in_reviews": "no",
+  "review_summary": "The very small, single-platform (Google) review corpus describes Erik Brok as a patient instructor who gives personal attention and good support, but the evidence base is thin - only about three reviews carry any text, one positive review is from a likely relative (Lisa Brok), and the single recent negative review complains the instructor quit on the student right before the exam. No verified or independent-platform reviews and no sign of English-language/expat lessons.",
+  "sentiment_index_cross_check": 62
+}

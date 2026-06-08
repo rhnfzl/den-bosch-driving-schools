@@ -1,0 +1,34 @@
+{
+  "row_index": 22,
+  "slug": "school_022",
+  "rijschool": "Autorijschool Gertine Kollenburg",
+  "platforms_found": ["Google reviews (via clickdrive.nl)", "Trustoo.nl"],
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "no",
+  "themes_positive": ["well organised / goed geregeld"],
+  "themes_negative": ["unsafe / dangerous driving behaviour reported by one reviewer", "speed / road-positioning complaints"],
+  "representative_quotes": [
+    "Levensgevaarlijk rijgedrag, onaanvaardbaar. Overbodig links rijden en 73km/u waar je 100 mag zijn blijkbaar prioriteit voor deze docent. (Joost, 1/5, Google)",
+    "Goed geregeld allemaal. (Paul, 14 mrt. 2025, Trustoo.nl)"
+  ],
+  "red_flags": [
+    "Only 2 of ~4 ratings carry any written text; the rest are bare star ratings with 'Geen beschrijving' (no description).",
+    "One 5-star Google review is from 'Frans kollenburg', who shares the owner's surname and is also a co-instructor at the school (Frans Kollenburg) - likely a relative/owner self-review, not an independent customer.",
+    "No klantenvertellen.nl (independent verified) page exists for this school.",
+    "Trustoo aggregates '4 reviews uit 2 bronnen' but 3 bodies are not viewable; the readable Google set is essentially the same small pool.",
+    "Total readable-text reviews across all platforms is only 2, far too few to judge authenticity or a reliable sentiment."
+  ],
+  "review_summary": "Almost no substantive written reviews exist: only one short positive line on Trustoo ('Goed geregeld allemaal') and one detailed negative 1-star Google review accusing the instructor of unsafe driving behaviour; the remaining 5-star ratings have no text and one is likely an owner/relative self-review.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/alem/autorijschool-gertine-kollenburg",
+    "https://trustoo.nl/gelderland/alem/rijschool/autorijschool-gertine-kollenburg",
+    "https://www.rijschoolspecialist.nl/autorijschool-gertine-kollenburg",
+    "https://vindjerijschool.nl/rijscholen/alem/autorijschool-gertine-kollenburg",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-gertine-kollenburg"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "row_index": 49,
+  "slug": "school_049",
+  "rijschool": "Autorijschool Driezeeg",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 2,
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "yes",
+  "platforms_found": ["Google (via clickdrive.nl)"],
+  "sources": [
+    "https://clickdrive.nl/tr/surucu-kurslari/berlicum/autorijschool-driezeeg",
+    "https://www.weekblad-debrug.nl/ondernemend/ondernemend/50778/verkeersveiligheid-voorop-bij-autorijschool-driezeeg-uit-midd",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-driezeeg",
+    "https://driezeeg.nl"
+  ],
+  "representative_quotes": [
+    "Rijden met Frank is altijd een leuke ervaring. Hij stelt je op je gemak en begeleidt je gestructureerd richting je rijbewijs.",
+    "Ondanks het feit dat hij pas recent is begonnen heeft hij mij snel het vertrouwen weten te brengen in de auto en ben ik geslaagd voor mijn rijexamen.",
+    "Zeker een goede keuze als je zelf je rijbewijs wilt halen.",
+    "Wat een geweldige rijinstructeur is Frank! Hij is Nederlands, en goed nieuws voor de buitenlanders (zoals ik), hij is ook comfortabel om les te geven in het Engels!!",
+    "Hij heeft een zeer ontspannen en rustige energie, en zijn passie voor het instructeur zijn + jou helpen bij het behalen van je rijbewijs zijn geweldige punten om je veilig in de auto te voelen.",
+    "Ik kan het alleen maar aanbevelen."
+  ],
+  "themes_positive": [
+    "structured lessons",
+    "puts you at ease",
+    "builds confidence",
+    "calm and relaxed energy",
+    "teaches in English (expat-friendly)",
+    "passed the exam"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Only 2 reviews exist anywhere (Google), below the threshold for a confident authenticity judgment",
+    "Very new, single-instructor school (Frank Baeten started in 2026), so no track record yet",
+    "No independent/verified review platform (no klantenvertellen, Kiyoh, or Trustpilot page found)",
+    "Low CBR exam volume (~19-26 first exams) and below-average first-time pass rate (32-35%)"
+  ],
+  "review_summary": "Only two Google reviews exist, both 5 stars and genuinely specific: students praise instructor Frank Baeten for structured, calm, confidence-building lessons that got them through the exam, and one expat explicitly notes he teaches comfortably in English. Too few reviews to judge authenticity confidently, but what exists reads as real and very positive."
+}

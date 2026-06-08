@@ -1,0 +1,41 @@
+{
+  "row_index": 66,
+  "slug": "school_066",
+  "rijschool": "Anton Snelrijles",
+  "review_trust": "weak",
+  "review_substance": "mixed",
+  "sentiment": "mixed",
+  "sentiment_index": 42,
+  "english_in_reviews": "no",
+  "verified_reviews": false,
+  "reviews_read": 5,
+  "review_summary": "Only a handful of Google reviews exist (5 total, 3.4/5) and they are sharply polarized: two detailed 1-star reviews accuse instructor Anton of poor teaching, shortening paid lessons, lateness and 'money-grabbing' (one contains an ethnic slur), while two short 5-star reviews praise passing first time and getting the licence within two months. No independent/verified reviews (no klantenvertellen, Trustpilot or Kiyoh presence), no English-language or expat reviews.",
+  "platforms_found": ["Google reviews (via rijloket.nl, clickdrive.nl, educarplatform.nl)", "rijschoolspecialist.nl (0 reviews)"],
+  "sources": [
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/anton-snelrijles-s-hertogenbosch",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/anton-snelrijles",
+    "https://www.rijschoolspecialist.nl/anton-snelrijles",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/anton-snelrijles"
+  ],
+  "representative_quotes": [
+    "Slechtste rijschool in Den Bosch!!! Die rij instructeur Anton kent het verschil niet tussen links en rechts en dan zegt hij hier en daar.",
+    "Hij kan ook niet eens Nederlands praten en verstaan.",
+    "Anton fraudeerde ook met de lestijden, één les duurde 50 minuten en hij bracht mij altijd 10 minuten eerder naar huis.",
+    "En hij kwam ook altijd te laat voor mijn lessen en dan heeft hij allerlei smoesjes.",
+    "Ik heb 15 lessen gehad ... en al mijn geld is in water gegooid. Dus ik raad jullie deze rijschool niet aan!!! Alleen maar geld klopperij!!!",
+    "de slechts rij instructeur, van hele Den Bosch, hij leert jou niet op de just manier hoe je moet rijden, het word op een verkeerd manier uitgelegd, het is tijd verspilling.",
+    "daardoor raak je veel geld kwijt, en de kans is groot dat je bij de praktijkexamen niet zult slagen.",
+    "Hele goeie rijschool! Ik raad iedereen snelrijles aan, gelukkig ben ik in 1x geslaagd in een korte tijd. Het is zeker 5 sterren waard!",
+    "Goede rijschool! Rijbewijs gehaald binnen 2maanden. Snel kunnen beginnen en in 1keer geslaagd!"
+  ],
+  "themes_positive": ["passed first time", "quick start / short waiting time", "licence within 2 months"],
+  "themes_negative": ["poor / unclear teaching method", "instructor hard to understand (Dutch language)", "shortened paid lessons / time fraud", "instructor late", "felt like money-grabbing", "low chance of passing exam", "waste of time and money"],
+  "red_flags": [
+    "Only 5 Google reviews total; no independent verified platform (no klantenvertellen/Trustpilot/Kiyoh)",
+    "Reviews are sharply polarized (two glowing one-liners vs two detailed angry reviews) rather than a balanced spread",
+    "Positive reviews are generic short one-liners typical of solicited/friendly reviews",
+    "One negative reviewer username is 'Tik Tok' (non-real name), though the complaint is specific",
+    "One 1-star review contains an ethnic slur ('domme turk'), quoted complaints retained but slur omitted",
+    "Single-instructor, single-platform sample too small to judge reliably"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "row_index": 1,
+  "slug": "school_001",
+  "rijschool": "Jve Rijopleidingen B.V. t.h.o.d.n. ANWB Rijopleiding",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": true,
+  "reviews_read": 14,
+  "platforms_found": ["Google (via clickdrive.nl en rijscholenvergelijken.nl)", "Tevreden.nl / Feedback Company (ANWB's verified platform)", "anwb.nl reviews page"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/jve-rijopleidingen-b-v-t-h-o-d-n-anwb-rijopleiding",
+    "https://www.rijscholenvergelijken.nl/rijscholen/jve-rijopleidingen-b-v-t-h-o-d-n-anwb-rijopleiding-s-hertogenbosch",
+    "https://www.anwb.nl/auto/rijbewijs/rijschool-den-bosch/reviews",
+    "https://anwb-rijopleiding.tevreden.nl/organisatie/ARODenBosch/ANWB-Rijopleiding-Den-Bosch"
+  ],
+  "representative_quotes": [
+    "Met veel plezier heb ik mijn rijbewijs gehaald bij ANWB rijopleiding Den Bosch. Mijn rijinstructeur Ahmed gaf hele duidelijke uitleg en er was ook ruimte voor gezelligheid, zowel in de auto als op kantoor.",
+    "We hebben erg goede ervaring met ANWB rijopleiding Den Bosch. Zowel de rij instructeur als de medewerkers op kantoor zijn begaan met hun leerlingen, professioneel en klantgericht. Bedankt!",
+    "Na een zeer negatieve ervaring met een andere rijschool, was het geweldig om ANWB te ontdekken. Vanaf mijn proefles werd ik door het team op kantoor vriendelijk en met een grote glimlach ontvangen.",
+    "Ik heb een fijne ervaring gehad bij Fatiha. Een fijne manier van les geven en uitleggen, in 1 keer geslaagd.",
+    "Ik ben blij dat ik de snelle rijopleiding gedaan heb via de ANWB. Rijschool Den Bosch was een fijne leerschool met fijne en goede leraren. Wat mij betreft hebben ze een pluim verdiend. (Bas Tinnenbroek)",
+    "Mijn ervaringen zijn zeer positief. Dat geldt zowel voor het administratieve deel als het persoonlijke contact. Ook het contact met mijn instructeur heb ik als behulpzaam en prettig ervaren. (Gaby Leenders)",
+    "Na een tijd ben ik overgestapt naar een andere rijschool, en daar heb ik wel mijn rijbewijs gehaald. Bij deze rijschool had ik het gevoel dat mij onnodig extra lessen werden aangesmeerd.",
+    "Deze rijschool is niet ens 1 ster waard.... In het verleden heb ik bij een andere rijschool een examen gedaan en ben toen gezakt. Ik heb hier bij anwb rijschool den bosch ongeveer 2 maanden geleden...",
+    "Ik raad deze rijschool absoluut niet aan. Niet studentgericht, maar zakelijk gericht. Dat was mijn ervaring bij de rijschool ANWB Den Bosch.",
+    "Rijschool met gebreken. Mijn vriendin is hier al sinds zomer 2019 aan het lessen en heeft nu voor de 3e keer haar examen niet gehaald... Ook ben je bij deze rijschool een nummertje van velen, en moet je je rijlessen meerdere maanden van tevoren inplannen omdat ze te veel mensen aannemen.",
+    "Maar nu na 5000 euro kosten de 3e keer gezakt met dezelfde feedback... een aantrekkelijk verdienmodel voor de rijschool.",
+    "Niet goed.. (Muhammad Jasim)"
+  ],
+  "sentiment": "mixed",
+  "sentiment_index": 55,
+  "english_in_reviews": "unclear",
+  "themes_positive": ["duidelijke uitleg", "vriendelijk kantoorteam", "gezellige sfeer", "in 1 keer geslaagd", "professioneel en klantgericht", "focus op veilig rijden"],
+  "themes_negative": ["onnodig extra lessen aangesmeerd", "behandeld als een nummer", "zakelijk gericht i.p.v. studentgericht", "lange wachttijd op (her)examen", "hoge kosten", "instructeurs coachen zwakke punten niet gericht weg"],
+  "red_flags": [
+    "Sharp polarisation: Google rating only 3.6/5 (58 reviews) with several substantive 1-star reviews, while the ANWB-owned Tevreden.nl platform shows much higher instructor scores (~8.9) -- the verified-platform reviews are very short and skew positive, suggesting solicited post-lesson surveys.",
+    "Multiple independent complaints about being upsold unnecessary lessons and treated 'als een nummer' (as a number).",
+    "Tevreden.nl per-location page is JS-rendered and did not expose individual Den Bosch review bodies on extraction; only two snippets are confirmable from the ANWB site."
+  ],
+  "review_summary": "Students are split: positive reviews praise clear instructors (Ahmed, Fatiha), a friendly and engaged office team, and passing first time, while a substantive minority of Google reviews complain about being upsold unnecessary lessons, treated as 'a number', long waits for (re)exams, and high costs without targeted coaching. The ANWB-owned verified platform (Tevreden.nl) skews more positive but with very short, survey-style comments.",
+  "notes_on_credibility": "Two review ecosystems exist for this branch: independent Google reviews (3.6/5, 58 reviews, including detailed negatives) and the ANWB-controlled Tevreden.nl/Feedback Company surveys (verified buyers, high scores ~8.9 instructors / 7.8 overall on ~1700 regional reviews, but brief). CBR first-attempt pass rate ~57-59%, around/just below the local average. Trust set to 'moderate': real substance and some verified reviews exist, but the most detailed negatives and positives come from Google, and the verified platform's comments are thin."
+}

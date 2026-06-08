@@ -1,0 +1,45 @@
+{
+  "row_index": 117,
+  "slug": "school_117",
+  "rijschool": "Autorijschool Harri",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 6,
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "no",
+  "themes_positive": [
+    "patient",
+    "calm step-by-step explanation",
+    "clear explanation",
+    "good with nervous learners / builds confidence",
+    "stays calm when you make mistakes",
+    "personal attention to weak points",
+    "easy scheduling / smooth lessons"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "all 9 reviews are 5-star with no negative or mixed reviews",
+    "reviews are short and fairly generic / homogeneous in wording",
+    "two reviewers share the surname Langens (Fleur Langens, Joris Langens), possibly related - notable for a tiny single-instructor school",
+    "only one review source (Google Maps); no independent/verified platform (klantenvertellen, Trustpilot) exists",
+    "very small sample: only 9 lifetime reviews and ~4 CBR exams per year"
+  ],
+  "representative_quotes": [
+    "Goede en aardige instructeur, Alles werd rustig stap voor stap behandeld.",
+    "Kon ook aangeven wat ik nog lastig vond (daar werd dan meer aandacht aan besteed).",
+    "Ook blijft deze rij instructeur kalm als je een foutje maakt en dat is super fijn. Ik heb veel geleerd en super bedankt Harri!",
+    "Hele aardige fijne instructeur, legt alles rustig uit en verstaat zijn vak. Ben super tevreden om bij Harri rijlessen te volgen.",
+    "Aardige instructeur legt alles netjes rustig uit en zorgt dat je vertrouwen hebt in jezelf.",
+    "Afspraken voor rijles waren makkelijk te maken en de lessen verliepen soepel. Top rijschool!",
+    "Fijne rijschool! Alles word duidelijk uitgelegd en stap voor stap behandeld, zodat jij in 1x je rijbewijs kan halen! Ik ben in ieder geval super tevreden."
+  ],
+  "review_summary": "Across 9 five-star Google reviews for this tiny one-instructor school, students consistently praise Harri as a calm, patient, friendly instructor who explains everything step by step, pays extra attention to personal weak points, stays composed when learners make mistakes, and builds their confidence; a couple also note easy scheduling and smooth lessons. The reviews are uniformly glowing but short and homogeneous, from a single platform, with no negative feedback and no sign of English/expat lessons.",
+  "sources": [
+    "https://rijloket.nl/rijscholen/vlijmen/autorijschool-harri-vlijmen",
+    "https://www.google.com/maps/search/Autorijschool+Harri+Vlijmen",
+    "https://www.rijschoolbijmij.nl/rijschool/725/autorijschool-harri",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-harri"
+  ]
+}

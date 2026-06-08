@@ -1,0 +1,65 @@
+{
+  "row_index": 74,
+  "slug": "school_074",
+  "rijschool": "Van der Ven Rijopleidingen",
+  "review_trust": "weak",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 30,
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "no",
+  "review_summary": "The only readable review text comes from the school's OWN website testimonials (all dated 23 May 2018, uniformly glowing): students praise instructor Marco van der Ven as calm, patient and clear, say they learned at their own pace and often passed first time, and a couple mention overcoming driving anxiety. No independent/verified reviews (klantenvertellen, Trustpilot) exist for this specific Hedel school, and the 55 'Google reviews' cited on clickdrive show no rating and no readable bodies.",
+  "themes_positive": [
+    "patient",
+    "calm/relaxed atmosphere",
+    "clear explanation",
+    "learn at own pace",
+    "passed first time",
+    "good with nervous/anxious learners (faalangst/rijangst)",
+    "experienced instructor",
+    "personal attention (single instructor)"
+  ],
+  "themes_negative": [],
+  "representative_quotes": [
+    "Heel prettig om bij te lessen, onwijs geduldig en duidelijke instructies. Precies wat ik nodig had!",
+    "Marco is serieus als het gaat om autorijden, maar er is altijd tijd om te lachen.",
+    "Op een hele fijne wijze heb ik écht auto leren rijden bij Marco!",
+    "Top opleiding. Gelukkig had Marco veel geduld waardoor ik in 1 keer mijn rijbewijs haalde!",
+    "Super lessen, alles op je eigen tempo, geen gehaast en je weet precies wanneer je er klaar voor bent.",
+    "Op correcte, ontspannen manier auto leren rijden. Je bent er zeker van dat je met een veilig en goed gevoel alleen de weg op kan.",
+    "Rust, aandacht en een goede sfeer. Dat maakt van der Ven een top rijschool!",
+    "Ik heb altijd met plezier gelest bij Marco. Dankzij zijn rust en geduld in 1x geslaagd!",
+    "Een gedegen, prettige rijopleiding van een zeer ervaren instructeur. Door Marco ga je goed voorbereid de weg op!",
+    "Fijne rustige instructeur, ben bij hem van mijn rijangst afgekomen.",
+    "Overstappen naar Van der Ven rijopleidingen heb ik als zeer prettig ervaren! Er werd gekeken naar wat ik precies nodig had.",
+    "Heel veel geduld bij het uitleggen. Ik heb met veel plezier gelest."
+  ],
+  "red_flags": [
+    "Only readable reviews are first-party testimonials hosted on the school's own website (vandervenrijopleidingen.nl), not an independent platform",
+    "All on-site testimonials carry the same date (23 May 2018), suggesting a bulk import rather than dated, organic reviews",
+    "All testimonials are uniformly positive with no negative, mixed or critical entries visible — the school controls what is published",
+    "No verified-customer reviews found on klantenvertellen, Trustpilot or Trustoo for this specific Hedel school",
+    "clickdrive.nl cites '55 Google reviews' but displays a 0.0/5 rating with no readable review bodies; aggregator pages (rijschoolspecialist, rijscholen-gids, autorijschooltarieven, drivedutch) all show 0 reviews",
+    "Cannot independently confirm the testimonial authors are real customers"
+  ],
+  "platforms_found": [
+    "vandervenrijopleidingen.nl (own-site testimonials)",
+    "clickdrive.nl (claims 55 Google reviews, no readable bodies, 0.0/5 shown)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)",
+    "autorijschooltarieven.nl (0 reviews)",
+    "drivedutch.nl (stats only, no reviews)",
+    "cbr.nl (exam stats only)"
+  ],
+  "sources": [
+    "https://www.vandervenrijopleidingen.nl/testimonials-archive",
+    "https://www.vandervenrijopleidingen.nl/testimonials-archive/page/2",
+    "https://www.vandervenrijopleidingen.nl/testimonials-archive/page/3",
+    "https://www.vandervenrijopleidingen.nl/testimonials-archive/page/4",
+    "https://www.vandervenrijopleidingen.nl/testimonials-archive/page/5",
+    "https://clickdrive.nl/rijscholen/hedel/van-der-ven-rijopleidingen",
+    "https://www.rijschoolspecialist.nl/van-der-ven-rijopleidingen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/van-der-ven-rijopleidingen"
+  ]
+}

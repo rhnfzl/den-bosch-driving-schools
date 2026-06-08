@@ -1,0 +1,29 @@
+{
+  "row_index": 97,
+  "slug": "school_097",
+  "rijschool": "Autorijschool Sekandary",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No review page found on klantenvertellen, Trustpilot, Trustoo, Facebook or clickdrive for Autorijschool Sekandary.",
+    "The only listing with attributed review text (rijloket.nl, '5.0 / 190 reviews') is misattributed: every readable review names 'INSEEN' / 'Inseen team' and instructors Edwin, Ronny and Ramon, and the listing's website field is 'inseen.nl' - these reviews belong to a different school (Rijschool Inseen), not Sekandary.",
+    "CBR open data shows Autorijschool Sekandary is a brand-new, tiny school (active since 2024, CBR-code 1038F3) with only 1 practical exam on record (0% pass on that single exam) - too little activity to have generated a genuine review corpus.",
+    "No real review text genuinely attributable to Sekandary could be found, so authenticity and sentiment cannot be judged. Quotes intentionally left empty to avoid fabrication-by-misattribution."
+  ],
+  "sources": [
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/autorijschool-sekandary-s-hertogenbosch",
+    "https://debesterijscholen.nl/s-hertogenbosch",
+    "https://itheorie.nl/en/driving-school-details/17285858-autorijschool-sekandary",
+    "https://www.autorijschoolsekandary.com",
+    "https://www.autorijschoolsekandary.com/diensten"
+  ],
+  "review_summary": "No review text genuinely attributable to Autorijschool Sekandary could be found. It is a brand-new (since 2024), very small Den Bosch school with a single CBR exam on record; the '5.0 / 190 reviews' shown on rijloket.nl is a directory mix-up whose review text actually belongs to Rijschool Inseen (instructors Edwin/Ronny/Ramon, website inseen.nl), so it cannot be used to judge Sekandary. The school's own website advertises lessons in Dutch, English, Urdu, Hindi and Farsi, but no independent reviews confirm the expat experience."
+}

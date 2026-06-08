@@ -1,0 +1,45 @@
+{
+  "row_index": 108,
+  "slug": "school_108",
+  "rijschool": "Pass2Drive",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 2,
+  "sentiment": "positive",
+  "sentiment_index": 80,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [
+    "Hele fijne rijinstructrice met veel ervaring, veel mogen leren en in één keer kunnen slagen met volle zelfvertrouwen! Naast dat was het altijd gezellig in de auto, heb veel gehad aan mijn tijd bij pass2drive, zeker het proberen waard! :)",
+    "Dit is een hele fijne rijschool! Zeker aan te raden."
+  ],
+  "themes_positive": [
+    "experienced instructor",
+    "good with confidence-building",
+    "passed first time",
+    "pleasant atmosphere",
+    "recommended"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Only 2 readable review texts found for the Dutch Pass2Drive (Den Bosch); far too few to judge authenticity reliably",
+    "No independent verified-review presence (no klantenvertellen, no Trustpilot); only Google Maps reviews",
+    "Very new/small school (active since 2024, ~6-8 CBR exams, 16.7-38% pass rate) so corpus is naturally tiny",
+    "pass2drive.co.uk is an UNRELATED UK driving school (instructor 'Basir', UK test references) whose 5-star reviews must NOT be attributed to this Dutch school - excluded",
+    "Most search hits returned reviews for OTHER Den Bosch schools (Time2Drive/Peter, Les2Pass, SPEED/Roy), not Pass2Drive"
+  ],
+  "platforms_found": [
+    "Google Maps (2 reviews, via rijloket.nl)",
+    "Facebook (pass-celebration posts only, not customer reviews; not extractable)",
+    "CBR / DriveDutch / rijloket (exam statistics only, no written reviews)"
+  ],
+  "verified_reviews_note": "No klantenvertellen.nl, Trustpilot, or Trustoo page exists for the Dutch Pass2Drive; clickdrive page is 404; website hosts no testimonials.",
+  "review_summary": "Only two genuine Google Maps reviews exist for Pass2Drive Den Bosch, both positive: one substantive review praises an experienced female instructor who built the student's confidence to a first-time pass in a pleasant atmosphere, the other is a brief 'great driving school, recommended' one-liner. The corpus is far too small to judge authenticity, and no independent verified-review platform covers this very new (since 2024), small school.",
+  "sources": [
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/pass2drive-s-hertogenbosch",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/pass2drive",
+    "https://www.drivedutch.nl/forum/Pass2Drive/'S-HERTOGENBOSCH/90916069",
+    "https://pass2drive.nl/over-ons/",
+    "https://www.facebook.com/p/Pass2Drive-61555383507107"
+  ]
+}

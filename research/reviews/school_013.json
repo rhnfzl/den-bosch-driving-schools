@@ -1,0 +1,36 @@
+{
+  "row_index": 13,
+  "slug": "school_013",
+  "rijschool": "Autorijschool van Grunderbeek",
+  "review_trust": "moderate",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 5,
+  "sentiment": "positive",
+  "sentiment_index": 82,
+  "english_in_reviews": "no",
+  "review_summary": "Students describe the (owner) instructor Patrick and the small two-person team as calm, patient and confidence-building, with several saying they passed their exam feeling safe in traffic; however the readable corpus is only a handful of short positive Google one-liners with no detail and no critical or expat-specific feedback.",
+  "platforms_found": ["Google reviews (via rijloket.nl and clickdrive.nl aggregators)"],
+  "sources": [
+    "https://rijloket.nl/rijscholen/rosmalen/autorijschool-van-grunderbeek-rosmalen",
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-van-grunderbeek",
+    "https://www.rijschoolbijmij.nl/rijschool/2070/autorijschool-van-grunderbeek",
+    "https://www.rijschoolspecialist.nl/autorijschool-van-grunderbeek"
+  ],
+  "representative_quotes": [
+    "Een top rijschool! Waar gekeken wordt naar jou capaciteiten en kunnen. Het team bestaat uit twee ervaren vakrotten, die jou heel relaxed en toch daadkrachtig de lessen leren van het autorijden. Bedankt voor jullie goede instructies! (Bart Vorstenbosch)",
+    "Hele fijne rijlessen gehad. Patrick heeft ervoor gezorgd dat ik met vertrouwen en veilig in het verkeer kan rijden en geslaagd ben. (Alexander Westelaken)",
+    "Super fijne rijlessen fijne instructeurs die je vertrouwen geven en ze helpen op een fijne manier (Ryan Van Engelen)",
+    "Super fijne en rustige instructeur! (Nicole Van de laar)"
+  ],
+  "themes_positive": ["patient and calm approach", "builds confidence", "good with capabilities/tailored to learner", "passed exam / safe in traffic", "experienced instructors"],
+  "themes_negative": [],
+  "red_flags": [
+    "Only about 4 reviews carry actual text; one Google entry has no description (rating only)",
+    "All readable reviews are short generic positive Google one-liners with no specifics on exam day, scheduling, or price",
+    "Single platform (Google) only; no independent/verified reviews (no klantenvertellen, Trustpilot or Trustoo presence for this school)",
+    "rijschoolspecialist.nl lists the school with 0 reviews; aggregator review counts disagree (clickdrive 2, rijloket 4-5), suggesting very low volume",
+    "Zero negative or mixed reviews available, so the spread cannot be cross-checked against criticism"
+  ],
+  "verified_reviews_note": "No klantenvertellen.nl page found for this school; all text comes from Google reviews surfaced via aggregators."
+}

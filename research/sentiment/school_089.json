@@ -1,0 +1,19 @@
+{
+  "row_index": 89,
+  "slug": "school_089",
+  "rijschool": "Rijschool Attent",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 5,
+  "sentiment_index": 85,
+  "sentiment": "positive",
+  "themes_positive": [
+    "heldere uitleg",
+    "goed onderhouden motoren",
+    "fijne lesomgeving",
+    "duidelijke informatie en programma",
+    "goede prijs-kwaliteitverhouding"
+  ],
+  "themes_negative": [],
+  "confidence": "medium",
+  "rationale": "De quotes prijzen vooral de duidelijke uitleg, het goede programma, de goed onderhouden motoren en de gunstige prijs-kwaliteitverhouding."
+}

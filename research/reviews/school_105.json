@@ -1,0 +1,41 @@
+{
+  "row_index": 105,
+  "slug": "school_105",
+  "rijschool": "Autorijschool Zainab",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable individual review text found on any platform (klantenvertellen, Google/clickdrive, Trustpilot, Facebook).",
+    "No klantenvertellen.nl (independent verified) page exists for this school.",
+    "Clickdrive shows only an aggregate of 3 Google reviews (3.7/5) with no review bodies rendered.",
+    "Rijloket lists 4.8 (76 reviews) but at a shared training address (Koedijkstraat 31, also used by Les2Pass and other schools), so the count is not reliably attributable and no review bodies are shown.",
+    "Brand-new school: founded ~April 2025 (1-year jubilee April 2026), KvK 96318481, single operator, female-only lessons.",
+    "Very small CBR sample: only 5 first practical exams, 40% pass rate (below the 54% Den Bosch location average).",
+    "Metadata mismatch: the provided website autorijschoolamir.nl belongs to a different, larger school (Autorijschool Amir, 4.8/5, 47 reviews, 19 yrs) — not Zainab.",
+    "Facebook page contains only promotional/marketing posts plus two congratulatory comments ('Leuk! Heel veel succes, Zainab!', 'Heel tof!!'), which are not customer reviews of lessons."
+  ],
+  "review_summary": "No genuine, readable customer review text could be found for Autorijschool Zainab on any platform. It is a brand-new (April 2025) single-instructor, female-focused driving school in 's-Hertogenbosch with only a tiny aggregate footprint (clickdrive: 3 Google reviews at 3.7/5; rijloket: 4.8 at a shared address) and no verified independent reviews; authenticity and sentiment cannot be reliably judged from the available evidence.",
+  "platforms_found": [
+    "clickdrive.nl (aggregate only, 3 Google reviews, 3.7/5)",
+    "rijloket.nl (aggregate only, 4.8 / 76 at a shared address)",
+    "Facebook (promotional posts + 2 congratulatory comments)",
+    "CBR (pass-rate data only)",
+    "iTheorie / Oozo (directory listings, no reviews)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-zainab",
+    "https://rijloket.nl/rijscholen/s-hertogenbosch",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-zainab",
+    "https://www.facebook.com/61572445720239/posts/vanaf-1-april-start-autorijschool-zainab-officieel-met-rijlessen-speciaal-voor-v/122116653662748190",
+    "https://itheorie.nl/rijschoolgegevens/96318481-autorijschool-zainab",
+    "https://www.oozo.nl/bedrijven/s-hertogenbosch/muntel-vliert/de-muntel/3727424/autorijschool-zainab"
+  ]
+}

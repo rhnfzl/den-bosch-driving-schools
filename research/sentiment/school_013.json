@@ -1,0 +1,20 @@
+{
+  "row_index": 13,
+  "slug": "school_013",
+  "rijschool": "Autorijschool van Grunderbeek",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 4,
+  "sentiment_index": 92,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "persoonlijke aandacht",
+    "ervaren instructeurs",
+    "rustige en relaxte lessen",
+    "vertrouwen geven",
+    "duidelijke en goede instructies",
+    "veilig leren rijden"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "Alle quotes zijn duidelijk positief en noemen ervaren, rustige instructeurs die persoonlijke aandacht geven en leerlingen met vertrouwen en veilige instructies laten slagen."
+}

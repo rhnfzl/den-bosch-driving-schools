@@ -1,0 +1,53 @@
+{
+  "row_index": 81,
+  "slug": "school_081",
+  "rijschool": "Rijschool van de Griendt",
+  "plaats": "'s-Hertogenbosch (Den Bosch)",
+  "website": "https://rijschoolvandegriendt.nl",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": true,
+  "reviews_read": 11,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "no",
+  "platforms_found": ["Trustoo", "Google (via Trustoo aggregation)"],
+  "sources": [
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/rijschool-van-de-griendt",
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool",
+    "https://rijschoolvandegriendt.nl",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-van-de-griendt"
+  ],
+  "representative_quotes": [
+    "Max is ontzettend aardig en geduldig. Ik voel me altijd erg op mijn gemak tijdens zijn rijlessen, wat voor mij heel belangrijk is. Hij legt alles duidelijk uit en gebruikt zelfs uitgeschreven voorbeelden wanneer ik iets niet begreep. (Ilse, Trustoo)",
+    "Daarnaast geeft hij meerdere technieken als voorbeeld en kijkt hij echt wat het beste past bij mij als leerling. Dankzij zijn persoonlijke aanpak voel ik me zelfverzekerd en goed voorbereid op mijn examen. (Ilse, Trustoo)",
+    "Voorheen 2x gezakt en daarna bij Max gaan lessen waarop ik in 1x geslaagd ben. Super fijne ervaring gehad bij deze rijschool! (Roan Kluijtmans, Google)",
+    "Vanochtend in een keer geslaagd dankzij Max. Hij legt alles op een fijne manier uit en liet mij ook met een zelfvertrouwend gevoel op de weg rijden. Topgozer! (Michi Bianchi, Google)",
+    "Super fijne rijschool met veel geduld en duidelijke uitleg. Dankzij de goede begeleiding voelde ik mij zelfverzekerd tijdens het rijden en bij mijn examen. De lessen waren leerzaam én gezellig. (Kristina Volkaviciene, Google)",
+    "Vanaf de eerste les voelde ik me op mijn gemak. De instructeur legt alles rustig en duidelijk uit, heeft veel geduld en geeft goede tips waardoor ik snel meer zelfvertrouwen kreeg in het rijden. Dankzij de professionele begeleiding ben ik in één keer geslaagd! (M Vd s / Djani, Google)",
+    "Hele fijne rij instructeur! Altijd aardig en legt dingen duidelijk en rustig uit. Je kunt alles vragen en er zijn leuke gesprekken in de auto. (Nolle, Trustoo)",
+    "Geeft goede en duidelijke uitleg en heeft veel humor. Beste instructeur die er is. (Rachid Elkaduri, Trustoo)",
+    "Erg fijne lessen, de instructeur geeft ook een goede uitleg. (Cornelis, Trustoo)",
+    "Geeft goed en duidelijke uitleg, zorgt dat jij je comfortabel voelt in de auto. (Bertho, Trustoo)",
+    "Geweldige rijinstructeur! Erg geduldig en zeer vriendelijk. Zeker aan aanrader. (Bridget, Trustoo)",
+    "Goede rijschool heb het erg na mijn zin gehad en goede tips gehad. Ik ben dan ook in een keer geslaagd, een echte aanrader! (Giovanni Peters, Trustoo)"
+  ],
+  "themes_positive": [
+    "patient (geduldig)",
+    "clear explanation (duidelijke uitleg)",
+    "good with nervous learners / builds confidence",
+    "personal approach, adapts to the learner",
+    "friendly and relaxed/fun atmosphere (gezellig)",
+    "fixed instructor, flexible timing",
+    "passed first time (also after failing elsewhere)"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Some Trustoo and Google reviews are short generic one-liners ('Geweldige rijinstructeur! Zeker aanrader')",
+    "All reviews are 5-star with zero critical/mixed feedback, which limits balance",
+    "Small/new one-man school (active since 2025, ~36 reviews, low exam volume) so the sample is thin",
+    "No independent verified-customer platform (klantenvertellen.nl) found for this school"
+  ],
+  "review_summary": "Students consistently praise instructor Max van de Griendt for patience, clear and calm explanations, a personal approach, and a relaxed/fun atmosphere that builds confidence; several report passing first time, including one who had failed twice at another school. Reviews are verified on Trustoo (Premium Partner) and mirrored from Google, but the corpus is uniformly 5-star, partly short one-liners, and from a small new one-man school, so trust is moderate rather than strong.",
+  "notes": "Instructor/owner is Max (M.) van de Griendt; single-instructor school, manual (schakel), rijbewijs B only, exam location CBR Den Bosch. No reviews written in English and no mention of English-language lessons or expat learners. CBR slagingspercentage roughly average for the area (~54-59% on low volume of 11-16 exams)."
+}

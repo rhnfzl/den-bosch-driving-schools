@@ -1,0 +1,21 @@
+{
+  "row_index": 102,
+  "slug": "school_102",
+  "rijschool": "Rijschool Sosan",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 92,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "geduldig en rustig",
+    "duidelijke uitleg en goede feedback",
+    "neemt tijd en maakt les leuk",
+    "betrouwbaar en eerlijk over aantal lessen",
+    "goed voorbereid op examen",
+    "geschikt voor Engelssprekenden",
+    "veilig en comfortabel gevoel"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn vrijwel allemaal lovend en noemen vooral geduld, duidelijke begeleiding, eerlijkheid en goede examenvoorbereiding, zonder noemenswaardige klachten."
+}

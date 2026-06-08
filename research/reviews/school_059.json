@@ -1,0 +1,55 @@
+{
+  "row_index": 59,
+  "slug": "school_059",
+  "rijschool": "Rijschool van Venrooij",
+  "plaats": "Rosmalen (s-Hertogenbosch / Den Bosch)",
+  "website": "https://rijschool-vanvenrooij.nl",
+  "review_trust": "moderate",
+  "review_substance": "substantive",
+  "verified_reviews": false,
+  "reviews_read": 20,
+  "sentiment": "very_positive",
+  "sentiment_index": 95,
+  "english_in_reviews": "no",
+  "verified_platform_note": "No klantenvertellen.nl page exists for this school. No Trustpilot/Trustoo entry. Facebook page shows 'Not yet rated (0 Reviews)'. Evidence comes from Google reviews (5.0/5, 10 reviews) surfaced via clickdrive.nl per-school page, plus the school's own website testimonials.",
+  "platforms_found": ["Google (via clickdrive.nl)", "own website testimonials", "Facebook (0 reviews)"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/rijschool-van-venrooij",
+    "https://rijschool-vanvenrooij.nl",
+    "https://rijschool-vanvenrooij.nl/reviews",
+    "https://www.facebook.com/people/Rijschool-vanvenrooij/100091750724812",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-van-venrooij"
+  ],
+  "representative_quotes": [
+    "Kon mezelf geen fijnere rijles ervaring voor stellen en ben blij dat ik elke keer met een goed gevoel de auto in stapte. Met een super gezellige instructeur Frank en een hele fijne manier van les geven! (Ise Sieperda, Google)",
+    "Ook ik kan, als ouder, de rijlessen van Frank van Venrooij van harte aanbevelen. Frank is een rustige, geduldige, maar ook duidelijke instructeur die zijn leerlingen veel vertrouwen geeft. Mijn kind is in 1 keer geslaagd! (MRJLN LSKR, Google)",
+    "Kon me geen betere fijne rij-instructeur wensen. Super fijne lessen gehad Frank legde alles goed en rustig uit. Wat een geduld heeft frank en wat is dat een fijne vorm van les geven. (MRJLN LSKR / Britt Stakenburg, Google)",
+    "In 1 keer rijbewijs gehaald. Frank is een gezellige en geduldige rijinstructeur die de lessen erg comfortabel maakt! (Google)",
+    "Dankzij de geduldige en altijd vrolijke Frank, heb ik mijn rijbewijs in een keer gehaald, en dat terwijl ik niet altijd de makkelijkste was, haha. De lessen waren altijd leerzaam, een aanrader voor iedereen die relaxed en met plezier wil leren rijden. (Robert G, Google)",
+    "Frank is super vriendelijk, onwijs begaan met zijn leerlingen en weet iedereen op zijn gemak te stellen. Staat altijd open voor feedback, geeft heldere instructies en weet er bovenal achter te komen waar je beter in moet worden om te kunnen slagen. (Ruben vds, Google)",
+    "Super leuk persoon en relaxte en goede rij instructeur! Dankzij Frank in 1 keer geslaagd. Dank je wel!! (Robert G, Google)",
+    "Ik niet anders dan mijn waardering uiten voor de geweldige rijschool. Het was niet makkelijk vanwege mijn moeite met druk en verwachtingen, maar de rustige begeleiding en vriendelijke sfeer in de auto maakten echt het verschil. (website testimonial)",
+    "Frank is een hele fijne rijinstructeur. Hij heeft heel veel geduld gehad met mij en op een hele leuke en enthousiaste manier les gegeven. Door zijn enthousiasme ging ik met veel plezier naar zijn lessen en ben ik in 1 keer geslaagd. (website testimonial)",
+    "Met Frank in de auto is het altijd leuk. Hij geeft zowel positieve als negatieve feedback op een positieve manier. Ook is hij zeer soepel met zijn planning! (website testimonial)",
+    "Frank is een rij-instructeur die helder communiceert met je, op een positieve manier. Dit zorgt voor een ontspannen en gezellige sfeer in de auto... waardoor ik uiteindelijk ben geslaagd voor mijn rijbewijs. (website testimonial)",
+    "duidelijke uitleg, fijne comunicatie. en een hele leuke rij instructeur (website testimonial)"
+  ],
+  "themes_positive": [
+    "patient (geduldig)",
+    "calm / relaxed atmosphere (rustig, ontspannen sfeer)",
+    "clear explanation (duidelijke uitleg)",
+    "builds confidence / good with nervous learners (vertrouwen, hielp bij druk en verwachtingen)",
+    "friendly and personable (vriendelijk, gezellig)",
+    "flexible scheduling (soepel met planning)",
+    "many passed first time (in 1 keer geslaagd)",
+    "60-minute lessons, personal one-on-one approach"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "All reviews uniformly 5-star with no negative or even mildly critical entries; cannot see the full spread.",
+    "No independent verified-reviewer platform (no klantenvertellen.nl); Google + own-website testimonials only.",
+    "Small single-instructor school (~3 years old, 10 Google reviews) so the sample is limited.",
+    "Note: CBR/clickdrive practical first-time pass rate is mid-range (CBR ~72-80% first exams over a small sample; clickdrive lists 56% first-time over 86 exams), which is more mixed than the glowing reviews suggest, though this is exam data, not review text."
+  ],
+  "review_summary": "Students consistently describe Frank van Venrooij as a calm, patient and friendly one-on-one instructor who explains clearly, creates a relaxed/pleasant atmosphere, is flexible with planning and helps anxious learners build confidence, with many reporting they passed first time. All available review text (Google 5.0/5 over 10 reviews plus website testimonials) is uniformly very positive in Dutch; no negative reviews and no English/expat-language reviews were found, and there is no verified independent platform (klantenvertellen) for this school."
+}

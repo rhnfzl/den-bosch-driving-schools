@@ -1,0 +1,33 @@
+{
+  "row_index": 99,
+  "slug": "school_099",
+  "rijschool": "Rijschool Eye 4 You",
+  "plaats": "Vlijmen",
+  "website": "https://www.rijschooleye4you.nl",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "platforms_found": ["clickdrive.nl (Google reviews)", "infobel.nl", "rijschoolspecialist.nl", "rijlessen.net", "rijscholen-gids.nl", "CBR"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vlijmen/rijschool-eye-4-you",
+    "https://www.infobel.com/nl/netherlands/rijschool_eye_4_you/vlijmen/NL100284578-0735116654/businessdetails.aspx",
+    "https://www.rijschoolspecialist.nl/rijschool-eye-4-you",
+    "https://rijlessen.net/rijschool/rijschool-eye-4-you",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-eye-4-you"
+  ],
+  "representative_quotes": [],
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable review text found on any platform",
+    "Only 1 Google review exists (clickdrive.nl: Wouter Wevers, ~7 years old) and it has no written body ('Geen beschrijving')",
+    "infobel shows 5.0 from only 2 ratings with no text; rijschoolspecialist shows 0 reviews",
+    "No klantenvertellen page exists for this school",
+    "Same-name confusion risk: 'DL 4 You / Driving License 4 You' and 'Rijless4you' are DIFFERENT schools and their reviews were excluded"
+  ],
+  "review_summary": "No substantive customer review text could be found for Rijschool Eye 4 You on any platform. The only trace is a single, body-less 5-star Google rating from about 7 years ago (and a 5.0/2-rating count on infobel), which is far too little to judge quality or authenticity. CBR data shows a roughly 50-57 percent first-attempt pass rate, but that is a statistic, not a review."
+}

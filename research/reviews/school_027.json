@@ -1,0 +1,43 @@
+{
+  "row_index": 27,
+  "slug": "school_027",
+  "rijschool": "Autorijschool Avalon",
+  "review_trust": "strong",
+  "review_substance": "substantive",
+  "verified_reviews": true,
+  "reviews_read": 20,
+  "platforms_found": ["klantenvertellen.nl", "Google (via rijloket.nl / trustoo.nl)", "CBR", "clickdrive.nl"],
+  "sources": [
+    "https://www.klantenvertellen.nl/reviews/1076746/autorijschool_avalon",
+    "https://www.klantenvertellen.nl/reviews/1076746/autorijschool_avalon?page=2",
+    "https://rijloket.nl/rijscholen/rosmalen/autorijschool-avalon-rosmalen",
+    "https://trustoo.nl/noord-brabant/uden/rijschool/rijschool-avalon",
+    "https://clickdrive.nl/rijscholen/rosmalen/autorijschool-avalon",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-avalon"
+  ],
+  "representative_quotes": [
+    "Ik had zelf best wel last van faalangst en stress tijdens het autorijden... Avalon kan hier heel erg goed mee omgaan en ze helpt met veel geduld en vertrouwen. (Anna, 's-Hertogenbosch)",
+    "De sfeer in de auto is altijd goed en de lessen zijn de perfecte voorbereiding op het examen. (Anna, 's-Hertogenbosch)",
+    "Met concentratie problemen gaan lessen valt niet mee maar bij Avalon kan het. In alle rust geeft ze les en ze denkt mee... Hierdoor is onze zoon voor de 1ste keer geslaagd. (Ouders Jelte, Volkel)",
+    "Ze leert je ook zelf te reflecteren zodat je zelf weet wat er goed en minder goed gaat... blij dat ik in 1x geslaagd ben! (Anouk, Volkel)",
+    "Avalon is heel aardig en zorgt echt ervoor dat je je op je gemak voelt in de auto. Ze geeft duidelijk wat al goed gaat en wat je nog kan verbeteren.",
+    "Ze kijkt naar wat iedereen persoonlijk nodig heeft en past dit dus aan op de manier van les geven. (Senne, Uden)",
+    "Dankzij haar fijne begeleiding kreeg ik meer zelfvertrouwen en heb ik veel geleerd. (Lianne, Uden)",
+    "Ik heb bij Avalon heel goed kunnen lessen, ze heeft geduld, rust, begrip, interesse en ze kan situaties goed uitleggen. (Luuk, Uden)",
+    "super geduldig en enorm rustig. heel fijn gehad! (Niels, Uden)",
+    "Leerzaam en gezellig had er altijd zin in. (Thomas, Venhorst, 8/10)",
+    "Richard is een fijne instructeur met veel ervaring. Hij is relaxed, streng waar nodig... Ik kon snel bij hem terecht waar andere rijscholen lange wachtlijsten hadden. (Vintage Girl, Google)",
+    "Tijdens een file... haalt de bestuurder in de verkeerde richting meerdere voertuigen in... Op het moment dat deze instructeur gewezen wordt op zijn asociale gedrag krijg je een grote bek... Ik zou deze rijschool zeker niet aanbevelen. (Nick van der Linde, Google)"
+  ],
+  "sentiment": "very_positive",
+  "sentiment_index": 88,
+  "themes_positive": ["patient", "calm/relaxed", "good with nervous learners (faalangst)", "good with concentration/learning difficulties", "clear explanation", "personalised approach", "builds confidence", "passed first time", "short waiting list / quick availability", "pleasant atmosphere"],
+  "themes_negative": ["isolated Google complaint of aggressive/intimidating instructor behaviour (older, likely the male instructor Richard)", "below-average CBR pass rate (~42-45%)"],
+  "english_in_reviews": "no",
+  "review_summary": "On the independent, verified klantenvertellen platform (96 reviews, 9.9/10, 100% recommend, fresh into 2026) students consistently praise instructrice 'Avalon' for being calm, patient and personal, especially helping learners with faalangst, stress or concentration problems pass — often first time. The main negative note is an older Google one-star review describing aggressive/intimidating behaviour from a male instructor (Richard), plus a below-average CBR pass rate.",
+  "red_flags": [
+    "Reviews split across two apparent personas: verified klantenvertellen praises female instructor 'Avalon' (clearly tied to autorijschool-avalon.nl), while Google/rijloket/trustoo conflate a related 'Rijschool Avalon' Uden listing with male instructor 'Richard' who has one strongly negative review.",
+    "klantenvertellen reviews are uniformly glowing (almost all 10/10) and many come from the same nearby towns (Uden/Volkel), but they are verified, specific, dated and substantive, so not flagged as fake.",
+    "Google sample is very small (~6 reviews) so the negative outlier carries limited statistical weight."
+  ]
+}

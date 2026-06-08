@@ -1,0 +1,16 @@
+{
+  "row_index": 43,
+  "slug": "school_043",
+  "rijschool": "Autorijschool Nieuwelaar",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 1,
+  "sentiment_index": 72,
+  "sentiment": "positive",
+  "themes_positive": [
+    "vakmanschap",
+    "professionaliteit"
+  ],
+  "themes_negative": [],
+  "confidence": "low",
+  "rationale": "De enige quote prijst Berry expliciet als een echte vakman, wat wijst op een positieve indruk van de rijschool, maar de beoordeling steunt op zeer weinig tekst."
+}

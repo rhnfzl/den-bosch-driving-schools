@@ -1,0 +1,41 @@
+{
+  "row_index": 33,
+  "slug": "school_033",
+  "rijschool": "Autorijschool Reches",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 11,
+  "sentiment": "positive",
+  "sentiment_index": 84,
+  "english_in_reviews": "no",
+  "review_summary": "Students consistently praise instructor Amit Reches as patient, calm and giving clear, individually-tailored instruction, with several reporting passing in one attempt, especially for motorcycle lessons; reviews are all positive but mostly short Google/website one-liners with no verified (klantenvertellen) source and no negative feedback found.",
+  "platforms_found": ["Google reviews (via clickdrive.nl)", "reches.nl (own website testimonials)", "autorijschooltarieven.nl"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vught/autorijschool-reches",
+    "https://www.reches.nl",
+    "https://www.autorijschooltarieven.nl/rijschool/autors-reches",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-reches"
+  ],
+  "representative_quotes": [
+    "Amit is een geweldige rijinstructeur! Hij heeft ontzettend veel geduld en geeft duidelijke, heldere instructies die het leren rijden echt makkelijk maken.",
+    "Dankzij zijn begeleiding ben ik in één keer geslaagd! Ik kan Amit aan iedereen aanraden. Bedankt, Amit!",
+    "Motorrijles gehad. Fijne rijopleider, Amit is rustig en neemt de tijd voor jou wat de aandachtspunten zijn. Je krijgt individueel les dus je krijgt volle aandacht. Een echte aanrader dus.",
+    "Amit heeft geduld, geeft goede uitleg, en past zijn lesprogramma aan aan jou snelheid zodat je effectief voortgang boekt.",
+    "Een uitstekende instructeur die me snel aan mijn motorrijbewijs hielp maar mij ook begrip van veilig motorrijden bij bracht. Top!",
+    "Dit is het derde kind van ons dat bij Reches rijlessen neemt. Een is al geslaagd, een bijna. Prettige persoon, deskundig. Prima dus",
+    "ondanks dat ik niet bepaald Max Verstappen ben, heeft Amit veel geduld gehad.",
+    "Altijd rustige en duidelijke lessen, in 1 keer geslaagd.",
+    "Goede rijschool aanrader",
+    "Amit Reches is een geduldige, zeer ervaren instructeur. Waar nodig stelt hij je op je gemak, waar dat kan geeft hij je ruimte om het geleerde in de praktijk te brengen.",
+    "Geen detail van je prestaties ontsnapt aan zijn oog. Aanrader!!"
+  ],
+  "themes_positive": ["patient", "calm lessons", "clear explanation", "individual attention / tailored to pace", "experienced instructor", "passed in one attempt", "good for motorcycle lessons"],
+  "themes_negative": [],
+  "red_flags": [
+    "No independent verified-review source (klantenvertellen) found; trust rests on Google + the school's own website",
+    "Only ~8 Google reviews, several with no written text ('Geen beschrijving')",
+    "Many reviews are short one-liners ('Top!', 'aanrader') with limited specifics",
+    "All reviews are positive with no critical or mixed feedback, though CBR first-time car pass rate is low (~23%), which the glowing reviews do not reflect"
+  ]
+}

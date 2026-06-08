@@ -1,0 +1,59 @@
+{
+  "row_index": 5,
+  "slug": "school_005",
+  "rijschool": "Autorijschool van Hoorn",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 10,
+  "sentiment": "mixed",
+  "sentiment_index": 60,
+  "english_in_reviews": "no",
+  "themes_positive": [
+    "good with nervous learners",
+    "clear explanation",
+    "humor / relaxed atmosphere",
+    "passed in one go",
+    "patient (repeats until understood)",
+    "turns around students who failed elsewhere"
+  ],
+  "themes_negative": [
+    "hard to reach / no callback",
+    "mediocre independent Google score (3.0/5)",
+    "small and dated review corpus"
+  ],
+  "red_flags": [
+    "Independent Google aggregate is only 3.0/5 over 12 reviews, well below the glowing tone of the older written reviews",
+    "Most substantive written reviews are 10-15 years old (2010-2014); little recent independent review text found",
+    "No klantenvertellen / verified-reviews page exists for this school",
+    "Quotes on the school's own website (Daphne, Diona, Jimmy, Zoe) are self-published testimonials, not independent",
+    "A defensive owner-style reply to an anonymous critical post appears in the third-party thread"
+  ],
+  "representative_quotes": [
+    "Wat een geweldige mannen zijn Hans en Bart van Hoorn... Doormiddel van Hans en Bart ben ik gelijk geslaagd.",
+    "Heb je naar de rijles pijn in je kaken van het lachen en dan ook nog is leeer je heeel veeel! Geweldig dat zijn jullie.",
+    "mijn dochter leste bij een andere rijschool 2x gezakt, hans haalde de fouten er uit en bij hem afrijde slaagde ze.",
+    "hij is ook direct als er iets niet goed is grijpt hij ook in, dan heb je de seriuse kant van hans... top rijschool en instruckteur.",
+    "de allerbeste die je maar kan hebben ik ben in een keer geslaagd. deze man is echt grappig en je voelt je op je gemak.",
+    "Zeer fijn persoon om bij af te rijden, gezonde dosis humor in de auto met kwaliteit als uitgangspunt... Echt een aanrader in omgeving den bosch.",
+    "Wil je snel je rijbewijs hebben en je bent gemotiveerd dan ben je hier op het juiste adres. Afrijden op je eigen tempo.",
+    "heb gebeld, voor info, niet 1 keer maar een paar keer, ik ben niet onder de indruk, want er wordt niet terug gebeld!!",
+    "Hans en Bart leggen duidelijk en simpel uit, als ik iets niet snapte deden we het gewoon opnieuw.",
+    "Hans van hoorn is een super leuke leerzame rijschool.. Met vragen kun je altijd terecht... Ik zal jullie aan iedereen aanraden!",
+    "Theorie en praktijk in 19 lessen en in 1 keer gehaald."
+  ],
+  "review_summary": "Independent written reviews (mostly 2010-2014 on autorijschooltarieven.nl) praise instructors Hans and Bart for clear, patient, humorous teaching, turning around students who had failed elsewhere and getting them through in one go; one genuine negative review complains the school never called back after repeated info requests, and the independent Google aggregate sits at a mediocre 3.0/5 over 12 reviews, so the overall picture is positive-but-mixed rather than uniformly glowing.",
+  "sources": [
+    "https://www.autorijschooltarieven.nl/rijschool/autors-h-van-hoorn",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/autorijschool-van-hoorn",
+    "https://rijschoolvanhoorn.nl",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-van-hoorn",
+    "https://www.rijschool-tips.nl/rijschool/den-bosch"
+  ],
+  "platforms_found": [
+    "autorijschooltarieven.nl (independent visitor reviews)",
+    "clickdrive.nl (Google reviews aggregate 3.0/5, 12 reviews)",
+    "rijschoolvanhoorn.nl (own-site testimonials)",
+    "cbr.nl (pass-rate stats, no review text)"
+  ]
+}

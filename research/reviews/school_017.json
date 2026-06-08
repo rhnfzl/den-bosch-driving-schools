@@ -1,0 +1,61 @@
+{
+  "row_index": 17,
+  "slug": "school_017",
+  "rijschool": "M. van Heugten",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 15,
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "english_in_reviews": "no",
+  "themes_positive": [
+    "patient",
+    "clear explanation",
+    "calm/relaxed instructor",
+    "good with nervous learners",
+    "fast scheduling / quick exam dates",
+    "passed first time",
+    "good exam preparation",
+    "good with concentration problems"
+  ],
+  "themes_negative": [
+    "hard to reach (occasionally)",
+    "skewed toward trailer/BE one-day courses rather than full car licence",
+    "many short generic 5-star one-liners"
+  ],
+  "platforms_found": [
+    "Google reviews (via Clickdrive)",
+    "Trustoo",
+    "Facebook",
+    "CBR (pass-rate data only)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/m-van-heugten",
+    "https://trustoo.nl/noord-brabant/den-bosch/rijschool/aanhangerrijbewijs-in-1-dag",
+    "https://www.rijschoolbijmij.nl/rijschool/623/verkeersschool-m-van-heugten-rijschool-den-bosch-auto-motor-scooter-aanhangwagen-theorie-in-1-dag",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/m.-van-heugten",
+    "https://verkeersschool-m-van-heugten-rijschool-den-bosch.wheree.com"
+  ],
+  "red_flags": [
+    "No independent verified-customer platform (klantenvertellen) found for this school; reviews are Google/Trustoo only, which are easier to solicit.",
+    "Heavy concentration of short generic 5-star one-liners ('aanrader', 'top') with little specific detail.",
+    "Review mix is strongly skewed to trailer/BE 'rijbewijs in 1 dag' courses praising owner Michael, with very few full car-licence (B) student narratives; an aggregator (rijschoolbijmij.nl) explicitly flags possible review-mix bias though does not call it fake.",
+    "CBR first-time car (B) pass rate (~62-68%) is at or below the local average (~71%), which the uniformly glowing reviews do not reflect."
+  ],
+  "representative_quotes": [
+    "Michael heeft mij stap voor stap geleerd, niet alleen voorbereid op het examen maar ook voor mijn werk. Zelfs nooit met een aanhangwagen gereden toch in een dag geslaagd.",
+    "Ik kon niet dromen van een betere rij-instructeur dan Michael! Hij is rustig, geduldig, vriendelijk en legt alles heel goed uit.",
+    "Geduldige en fijne instructeur met aandacht voor details, zeker aan te raden met mensen met concentratieproblemen!",
+    "Ik was best zenuwachtig maar Michael heeft mij op een leuke leerzame manier goed voorbereid op het examen!",
+    "Zeer fijne rijschool!! Ik heb alles in 1 keer gehaald. De rij-instructeurs zijn heel aardig, geduldig en geven duidelijk uitleg.",
+    "Michael heeft ervoor gezorgd dat mijn aanhangerrijbewijs behalen een 'piece of cake' was, alles op een hele rustige en duidelijke manier uitgelegd.",
+    "De begeleiding was zeer plezierig, uitgebreide uitleg en scenario's besproken. Tijdens het rijden krijg je zeer goede tips om met vertrouwen het examen in te gaan.",
+    "Micheal is super aardig en altijd rustig, wat heel fijn is tijdens de lessen. Zelf heb ik automaat gedaan en ben in 1 keer geslaagd!",
+    "Zeer bevlogen en deskundige rijschool. Het examen kon ook snel worden ingepland. Alles in een dag klaar, theorie, lessen en examen voor E achter B.",
+    "Abid is een fijne en kalme instructeur die zegt waar het op staat... zou ik Abid zeker aanbevelen.",
+    "Michael neemt de tijd voor je, bereidt je goed voor, zodat je vol zelfvertrouwen het examen kan ingaan.",
+    "Leerzame dag in gezellige sfeer. Examen direct gehaald."
+  ],
+  "review_summary": "Students consistently describe Michael (the owner) and instructors like Abid as calm, patient and clear, with quick exam scheduling and many 'passed first time' results, though the review corpus is heavily weighted toward one-day trailer/BE courses and short praise rather than detailed full car-licence (B) journeys. No negative reviews were found and reviews are Google/Trustoo only (no independent verified platform), so the uniformly 5-star picture should be read with some caution."
+}

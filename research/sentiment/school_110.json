@@ -1,0 +1,20 @@
+{
+  "row_index": 110,
+  "slug": "school_110",
+  "rijschool": "Rijschool Pip",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 4,
+  "sentiment_index": 88,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "kundige en betrokken instructeurs",
+    "veel tips en tricks",
+    "actief leren autorijden",
+    "weinig onnodig ingrijpen",
+    "leerzame lessen",
+    "in één keer geslaagd"
+  ],
+  "themes_negative": [],
+  "confidence": "medium",
+  "rationale": "De quotes zijn allemaal lovend over de instructeurs en de leerzame lessen, met als resultaat dat meerdere studenten in één keer slaagden."
+}

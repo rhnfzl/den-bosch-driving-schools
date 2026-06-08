@@ -1,0 +1,23 @@
+{
+  "row_index": 64,
+  "slug": "school_064",
+  "rijschool": "Autorijschool Wagenaar",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 5,
+  "sentiment_index": 5,
+  "sentiment": "very_negative",
+  "themes_positive": [
+    "passed in one attempt"
+  ],
+  "themes_negative": [
+    "terrible experience",
+    "bad driving lessons",
+    "expensive",
+    "lessons often cancelled",
+    "lessons marked off without being driven",
+    "waste of money, energy and time",
+    "not recommended"
+  ],
+  "confidence": "high",
+  "rationale": "The quotes overwhelmingly describe a terrible, expensive and unreliable lesson experience, with only a single passing remark about succeeding in one try."
+}

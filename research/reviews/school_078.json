@@ -1,0 +1,46 @@
+{
+  "row_index": 78,
+  "slug": "school_078",
+  "rijschool": "Rijschool De Draak",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 9,
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/rijschool-de-draak",
+    "https://www.rijschoolbijmij.nl/rijschool/in/rosmalen",
+    "https://www.rijscholenvergelijken.nl/rijscholen/rijschool-de-draak-rosmalen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-de-draak"
+  ],
+  "platforms_found": ["Google reviews (via clickdrive.nl)", "Facebook", "CBR (success rates only)"],
+  "representative_quotes": [
+    "Super ervaring gehad bij rijschool De Draak. Goede en rustige uitleg wat resulteerde in een geslaagd afrijdexamen. Mooie en verzorgde auto. Super bedankt!",
+    "Met humor, inlevingsvermogen, vriendelijkheid en op de juiste moment duidelijk zijn waar nodig was. Als iets even spannend of moeilijk was wist william mij er doorheen te coachen zodat ik met een veilig en goed gevoel door kon rijden.",
+    "Een rijinstructeur die echt vertrouwd in jou eigen kunnen! Ik zou iedereen rijschool De Draak aanraden en William nogmaals bedankt voor alles.",
+    "Vandaag geslaagd voor m'n rijbewijs. Dit komt door de lessen van William. Echt een instructeur die goed de balans tussen humor en een serieuze les weet te vinden. Erg prettige rijschool! Een aanrader.",
+    "Super fijne en gezellige lessen gehad! In een keer geslaagd door de goede instructies en lesmethode van William. Dankjewel!",
+    "William is een zeer goede rijinstructeur. Hij is zeer professioneel, deskundig en ervaren. Hij gaf zeer duidelijke instructies en uitleg.",
+    "Ik waardeer ook zijn gevoel voor humor en kalmte, die mijn stress en angst tijdens het leren helpen verminderen. Een echte vijfsterren rijinstructeur!",
+    "Top lessen; met gevoel voor humor, en gerichte focus op datgene wat nodig is. Zonder onnodige lessen mijn examen gehaald. Dank William!"
+  ],
+  "english_in_reviews": "unclear",
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "themes_positive": [
+    "calm/rustig instructor",
+    "clear explanation",
+    "humor and relaxed atmosphere",
+    "good with nervous/stressed learners",
+    "tailored pace (lesplan op maat)",
+    "passed exam, often first time",
+    "no unnecessary lessons"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Single-instructor school (William); all reviews praise the same person, so feedback reflects one person's style",
+    "All visible reviews are 5/5 with no mixed or critical reviews surfaced, limiting balance",
+    "No independent verified-customer platform (klantenvertellen) page found; reviews are unverified Google reviews",
+    "Review count inconsistent across aggregators (9 on clickdrive vs 22 cited elsewhere)"
+  ],
+  "review_summary": "Students consistently describe instructor William as calm, clear and good-humoured, crediting his tailored, no-unnecessary-lessons approach and ability to ease exam nerves for passing (often first time). Only glowing 5-star Google reviews were found and no verified-customer (klantenvertellen) reviews, so the picture is uniformly positive but single-platform and unverified."
+}

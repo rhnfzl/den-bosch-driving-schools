@@ -1,0 +1,36 @@
+{
+  "row_index": 85,
+  "slug": "school_085",
+  "rijschool": "Autorijschool Zone073",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable customer review text found on any platform (klantenvertellen, Kiyoh, Trustpilot, Google, Trustoo, Facebook).",
+    "Clickdrive Zone073 page explicitly states 'Er zijn nog geen beoordelingen gevonden voor deze rijschool' (0,0/5, 0 reviews).",
+    "Aggregator pages (vindjerijschool.nl, rijschool-tips.nl, cbr.nl) show only CBR pass-rate statistics and KVK data, no review bodies.",
+    "Single-instructor sole proprietorship (eenmanszaak) with low exam volume (~14-21 first exams/yr), so very small review footprint.",
+    "Many search hits returned review text belonging to OTHER schools (A73, Start Driving, Demo, Zoom, Hoefijzer, Loomans) rather than Zone073 - none attributable to this school."
+  ],
+  "platforms_found": [
+    "clickdrive.nl (0 reviews)",
+    "vindjerijschool.nl (stats only)",
+    "rijschool-tips.nl (stats only)",
+    "cbr.nl (pass-rate stats only)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vlijmen/autorijschool-zone073",
+    "https://vindjerijschool.nl/rijscholen/vlijmen/autorijschool-zone073",
+    "https://www.rijschool-tips.nl/rijschool/vlijmen/autorijschool-zone073",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-zone073",
+    "https://autorijschoolzone073.nl"
+  ],
+  "review_summary": "No genuine customer review text could be located for Autorijschool Zone073 on any independent or general platform. Clickdrive explicitly lists zero reviews, and other directories carry only CBR pass-rate statistics (around 57-76% pass rate at CBR Den Bosch) and KVK registration data. There is no review evidence on which to base a sentiment read, so authenticity is judged insufficient and no quotes were captured."
+}

@@ -1,0 +1,19 @@
+{
+  "row_index": 40,
+  "slug": "school_040",
+  "rijschool": "WeGo academy",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 5,
+  "sentiment_index": 94,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "professional instructor",
+    "patient and supportive teaching",
+    "flexible scheduling",
+    "clear explanations of rules and driving etiquette",
+    "helps students pass the practical test"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "All usable quotes praise Hikmat/WeGo for professionalism, patience, clear instruction, flexibility, and successful test results, with no substantive complaints."
+}

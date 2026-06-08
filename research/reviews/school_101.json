@@ -1,0 +1,41 @@
+{
+  "row_index": 101,
+  "slug": "school_101",
+  "rijschool": "Rijschool Hellen",
+  "platforms_found": ["Google (via clickdrive.nl)", "Google Maps", "rijschoolspecialist.nl (0 reviews)", "CBR (pass-rate data, no text reviews)"],
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 9,
+  "sources": [
+    "https://clickdrive.nl/rijscholen/rosmalen/rijschool-hellen",
+    "https://clickdrive.nl/en/driving-schools/rosmalen/rijschool-hellen",
+    "https://www.google.com/maps/search/Rijschool+Hellen+Rosmalen",
+    "https://www.rijschoolspecialist.nl/rijschool-hellen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-hellen",
+    "https://rijschool-hellen.nl"
+  ],
+  "representative_quotes": [
+    "Ik heb altijd fijne, gezellige lessen gehad bij Hellen. Alles kon op mijn eigen tempo en ben in 1x geslaagd. Zeker een aanrader!",
+    "Top rijschool. Geeft rustig uitleg en laat je goed op je gemak voelen in de auto. Neemt de tijd voor je en leert je veilig rijden. Aanrader!",
+    "Ik heb altijd veel plezier gehad tijdens de rijlessen, door de fijne rustige uitleg. Ik ben in een keer geslaagd en kijk enorm positief terug op de altijd gezellige en leerzame rijlessen.",
+    "Prettig in de communicatie, rustig en begripvol. Ik raad het aan om bij haar te rijden.",
+    "Als je op zoek bent naar een vriendelijke, aardige en kundige rijinstructrice zit je bij Hellen op het juiste adres! Erg fijne lessen gehad en in 1x geslaagd voor mijn examen.",
+    "Super aardige en rustige instructrice, het was altijd gezellig in de auto. Vandaag in 1x geslaagd voor mijn praktijk.",
+    "Mijn ervaring bij rijschool Hellen heb ik als bijzonder prettig ervaren. Hellen is gewoon een super lieve vrouw, waarvan je enorm veel leert, fouten maken is echt geen probleem en zij leert het je zo, dat je uiteindelijk een veilige en goeie bestuurder wordt!",
+    "Als er meer sterren gegeven konden worden had ik het gedaan! Ik ben dankzij Hellen in 1 keer geslaagd echt een mooie ervaring en het was ook nog eens gezellig :)"
+  ],
+  "sentiment": "very_positive",
+  "sentiment_index": 90,
+  "themes_positive": ["calm/clear explanation", "patient", "relaxed/gezellig atmosphere", "good with nervous learners", "own pace", "passed first time", "female instructor", "makes mistakes feel okay"],
+  "themes_negative": ["low CBR first-time pass rate (25%, small sample) contradicts in-1x-geslaagd narrative", "single platform (Google only)", "small total review count"],
+  "english_in_reviews": "no",
+  "review_summary": "All readable reviews are 5-star Google reviews (12 total, ~9 with text) describing a calm, patient, female instructor (Hellen) who explains clearly, lets students work at their own pace, creates a relaxed atmosphere, and helps nervous learners; several mention passing the practical exam on the first try. Reviews are genuinely worded and somewhat specific (named instructor, own-pace, mistakes-okay) but uniformly glowing, single-platform, and not independently verified.",
+  "red_flags": [
+    "All reviews are 5-star with no negative or mixed feedback visible",
+    "Reviews exist only on Google (surfaced via clickdrive); no klantenvertellen/Trustpilot/Facebook presence for this Rosmalen school",
+    "Heavy repetition of 'in 1x geslaagd' / 'gezellig' / 'rustige uitleg' phrasing across reviews",
+    "Reviews are not verified-customer (klantenvertellen-style); Google reviews are easier to solicit",
+    "CBR shows only 25% first-time pass rate over 4 exams, which sits oddly against the many 'passed first time' reviews (small sample, but a credibility note)"
+  ]
+}

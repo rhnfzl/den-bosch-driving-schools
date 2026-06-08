@@ -1,0 +1,47 @@
+{
+  "row_index": 16,
+  "slug": "school_016",
+  "rijschool": "P. Heins Rijopleidingen",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 5,
+  "sentiment": "positive",
+  "sentiment_index": 68,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "ik weet niet wat deze mensen die reviews hebben geplaatst denken maar ik en mijn vriendengroep hebben allemaal ons rijbewijs bij deze rijschool gehaald, ik heb alles in 1 keer gehaald en ze konden eigenlijk altijd op de tijden lessen wanneer ik kon dus erg flexibel!",
+    "ook mijn scooter heb ik hier weten te halen, ook in 1 keer nadat ik 3 keer was gezakt bij een andere rijschool.",
+    "Kortom een goede rijschool die van snel afrijden houd (wel als je het kan) aanrader!",
+    "Goede rijschool! Na meerdere keren gezakt te zijn bij andere rijscholen overgestapt naar Heins op aanraden van vrienden. In een korte tijd kunnen afrijden, 5 sterren!",
+    "Bij Thorsten Heins heb ik in 2010 mijn rijbewijs gehaald. Ik raad deze rijschool bij iedereen aan.",
+    "Ik kan deze rijschool zeker aanbevelen!",
+    "Goede rijopleiding. Met plezier mijn motorrijbewijs gehaald."
+  ],
+  "themes_positive": [
+    "flexible scheduling",
+    "passed quickly / in one go",
+    "good after failing at other schools",
+    "recommended by friends",
+    "covers car, scooter and motorbike"
+  ],
+  "themes_negative": [
+    "focus on fast exam ('snel afrijden') may not suit slower learners",
+    "moderate Google star rating (~3.7) implies unwritten low ratings",
+    "no detail on instructor patience or nervous-learner support"
+  ],
+  "red_flags": [
+    "Only ~5 written Google reviews; total 6-7 ratings, so star average (3.7-3.9) is dragged down by unwritten low ratings whose reasons are not visible.",
+    "One reviewer openly rebuts earlier negative reviewers ('ik weet niet wat deze mensen die reviews hebben geplaatst denken'), confirming critical raters exist but their text was not retrievable.",
+    "No independent verified-review platform (klantenvertellen / Kiyoh / Trustpilot) page exists for this school.",
+    "Some web results conflate this school with an unrelated instructor 'Heinz' on RijLESS.nl (Den Haag/Vlaardingen) — those reviews were excluded as not belonging to this school.",
+    "Reviews are old (mostly 4-10 years ago); little recent feedback."
+  ],
+  "review_summary": "The handful of written Google reviews are positive: students praise flexible scheduling and passing quickly, often after failing at other schools, for car, scooter and motorbike. However the corpus is thin (about 5 short written reviews, all years old), unverified, and the ~3.7 star average implies low ratings whose text is not visible, so trust is weak.",
+  "sources": [
+    "https://clickdrive.nl/rijscholen/ammerzoden/p-heins-rijopleidingen",
+    "https://rijloket.nl/rijscholen/ammerzoden/p-heins-rijopleidingen-ammerzoden",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/p.-heins-rijopleidingen",
+    "https://drivedutch.nl/nl/forum/P.%20Heins%20Rijopleidingen/AMMERZODEN/637234920000"
+  ]
+}

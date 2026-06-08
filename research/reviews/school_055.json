@@ -1,0 +1,37 @@
+{
+  "row_index": 55,
+  "slug": "school_055",
+  "rijschool": "Rijschool Van Dijk",
+  "review_trust": "moderate",
+  "review_substance": "mixed",
+  "verified_reviews": false,
+  "reviews_read": 4,
+  "sources": [
+    "https://trustoo.nl/gelderland/hedel/rijschool/rijschool-angelo-van-dijk",
+    "https://www.rijschoolbijmij.nl/rijschool/675/rijschool-angelo-van-dijk",
+    "https://www.rijschoolspecialist.nl/rijschool-van-dijk",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-van-dijk"
+  ],
+  "platforms_found": ["Google (via Trustoo)", "Trustoo", "Rijschoolspecialist (0 reviews)", "CBR (stats only)"],
+  "representative_quotes": [
+    "Geweldig goeie rijschool voor bromfiets, motor en autorijbewijs. Zowel automaat als schakel.",
+    "Fijne rijschool! Heb er veel geleerd en waren gezellige lessen!",
+    "Super positieve ervaring! Voor mijn scooterrijbewijs ontzettend prettige en professionele 1-op-1 begeleiding gekregen.",
+    "De instructeur is een ontzettend gezellige gozer en het lunchen was erg lekker én gezellig.",
+    "Een super rijschool! De lessen worden gegeven met geduld en oog voor de leerling.",
+    "Ondanks dat de lessen bij Angelo erg leerzaam zijn en ik er mijn rijbewijs mee heb gehaald, waren deze ook fijn en gezellig.",
+    "Wat ook zorgde voor een relaxte en fijne leer sfeer. Dank jullie wel!"
+  ],
+  "sentiment": "very_positive",
+  "sentiment_index": 88,
+  "english_in_reviews": "no",
+  "themes_positive": ["patient", "clear explanation", "relaxed/friendly atmosphere", "personal 1-on-1 attention", "good for nervous learners (autism/ADHD specialism)", "passed exam"],
+  "themes_negative": [],
+  "red_flags": [
+    "Very small review base (~4-7 readable Google reviews); not statistically robust",
+    "All readable reviews are positive 5-star; no negative/mixed reviews surfaced to balance the picture",
+    "No independent verified-customer platform (no klantenvertellen profile found); Rijschoolspecialist shows 0 reviews",
+    "Reviews are single-platform (Google), aggregated via Trustoo"
+  ],
+  "review_summary": "The handful of readable Google reviews are uniformly positive: students praise Angelo van Dijk for patience, a relaxed and friendly atmosphere, and personal 1-on-1 guidance, with several reporting they passed (car, motor and scooter). The base is small (~4-7 reviews) and all 5-star, so substance is genuine but limited and one-sided."
+}

@@ -1,0 +1,37 @@
+{
+  "row_index": 80,
+  "slug": "school_080",
+  "rijschool": "Rijschool Vlijmen",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No customer review text found on any platform for this specific business (Rijschool Vlijmen, Marconilaan 5, KvK 64751929, rijschoolnummer 4445N6).",
+    "clickdrive.nl, rijschoolspecialist.nl and rijschool-tips.nl all show 0 reviews / 'Er zijn nog geen beoordelingen gevonden'; rijloket.nl lists it with no star rating.",
+    "No klantenvertellen.nl, Trustpilot, Trustoo or Facebook review page exists for this school.",
+    "Name collision risk: most 'Rijschool Vlijmen' search hits are OTHER schools advertising to the Vlijmen geography (NXXT/Ronald Valentijn, Bax Opleidingen, Speed, Start Driving, Kees de Vaan, Verkeersschool Bakker) or different nearby one-person schools (e.g. Autorijschool Harri, Marconilaan 22, 9 Google reviews) — their reviews must NOT be attributed to this school.",
+    "Very small operator: eenmanszaak (1 employee) active since Dec 2015, ~32 CBR exams total, 63% overall pass (53-55% first attempt) at Den Bosch; specialism faalangstbegeleiding."
+  ],
+  "platforms_found": [
+    "clickdrive.nl (0 reviews)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "rijloket.nl (no rating shown)",
+    "rijschool-tips.nl (no reviews, CBR/KvK data only)",
+    "cbr.nl (official pass-rate listing only)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vlijmen/rijschool-vlijmen",
+    "https://www.rijschoolspecialist.nl/rijschool-vlijmen",
+    "https://rijloket.nl/rijscholen/vlijmen",
+    "https://www.rijschool-tips.nl/rijschool/vlijmen/rijschool-vlijmen",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-vlijmen"
+  ],
+  "review_summary": "No authentic customer reviews could be found for this specific business (Rijschool Vlijmen, Marconilaan 5, Vlijmen — a one-person school active since 2015, specialised in faalangstbegeleiding). Every directory page that could hold reviews (clickdrive, rijschoolspecialist, rijloket, rijschool-tips) shows zero ratings, and there is no klantenvertellen/Trustpilot/Facebook presence. The many positive reviews returned for the query 'Rijschool Vlijmen' belong to unrelated schools that market to the Vlijmen area, so nothing can be said about this school from review text. Only official CBR data is available: ~32 exams, 63% overall pass rate."
+}

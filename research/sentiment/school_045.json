@@ -1,0 +1,17 @@
+{
+  "row_index": 45,
+  "slug": "school_045",
+  "rijschool": "Rijschool Henk van Heck",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 1,
+  "sentiment_index": 88,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "luistert naar behoeften",
+    "goede feedback",
+    "fijne en gezellige lessen"
+  ],
+  "themes_negative": [],
+  "confidence": "medium",
+  "rationale": "De quote is duidelijk zeer positief over de instructeur, met nadruk op goed luisteren, sterke feedback en prettige lessen."
+}

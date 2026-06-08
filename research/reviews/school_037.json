@@ -1,0 +1,33 @@
+{
+  "row_index": 37,
+  "slug": "school_037",
+  "rijschool": "Rijschool Ron Veen t.h.o.d.n. NXXT",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 60,
+  "english_in_reviews": "unclear",
+  "review_summary": "No reviews specific to Ron Veen / the Hedel location could be found on any platform. The only review text available is NXXT's network-wide review feed (feedbackcompany.com 9.4/10, nxxt.nl), which praises completely different instructors (Richard Iriks, Paul de Jongh, Rob, Truus, Peter, Jeremy) and cannot be attributed to this specific school, so the sentiment read is not grounded in this school's own reviews.",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "Zero reviews specific to Ron Veen / Hedel: Clickdrive states 'Aucun avis n'a encore ete trouve pour cette auto-ecole' (no review found) and educar/drivedutch carry no review text",
+    "The 9.3-9.4/10 score and all visible review text on nxxt.nl and feedbackcompany.com are NXXT franchise-wide and name other instructors (Richard Iriks, Paul de Jongh, Rob, Truus, Peter, Jeremy), not Ron Veen",
+    "No klantenvertellen page exists for this specific school (the brand-wide score is not location-attributable)",
+    "Network-wide review feed shows many near-identical one-line 5-star blurbs ('Heel fijn, altijd een gezellige sfeer', 'Leuke lessen'), a generic-solicited pattern",
+    "New school (KvK 91911303, founded ~2 years ago) with low pass rate (CBR first-exam 25-29%, vs ~54% area average), so high franchise marketing score is not corroborated by outcomes",
+    "Reddit/Facebook threads raise reliability concerns about the NXXT franchise model (unanswered messages, prepaid packages, instructors quitting) though not specific to Ron Veen"
+  ],
+  "sources": [
+    "https://www.nxxt.nl/rijscholen/rijschool-hedel-186",
+    "https://clickdrive.nl/fr/auto-ecoles/hedel/rijschool-ron-veen-t-h-o-d-n-nxxt",
+    "https://www.educarplatform.nl/rijscholen/alem/5719-rijschool-ron-veen-t-h-o-d-n-nxxt",
+    "https://www.drivedutch.nl/nl/forum/Rijschool%20Ron%20Veen%20t.h.o.d.n.%20NXXT/HEDEL/91911303",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-ron-veen-t.h.o.d.n.-nxxt",
+    "https://www.feedbackcompany.com/nl-nl/reviews/nxxt",
+    "https://www.reddit.com/r/nederlands/comments/1iunpj8/ervaringen_rijschool_nxxt"
+  ]
+}

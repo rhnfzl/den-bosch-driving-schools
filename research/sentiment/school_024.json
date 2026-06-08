@@ -1,0 +1,26 @@
+{
+  "row_index": 24,
+  "slug": "school_024",
+  "rijschool": "Autorijschool Valentina T.H.O.D.N. NXXT",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 28,
+  "sentiment": "negative",
+  "themes_positive": [
+    "goede lessen",
+    "goed resultaat",
+    "geduldige instructeur",
+    "gezellige sfeer",
+    "snel rijbewijs gehaald"
+  ],
+  "themes_negative": [
+    "afspraken worden afgezegd",
+    "slechte communicatie",
+    "geen reactie op vragen",
+    "geld verloren / geen terugbetaling",
+    "examen geannuleerd",
+    "onbetrouwbaar"
+  ],
+  "confidence": "high",
+  "rationale": "De concrete feedback is overwegend negatief met klachten over afgezegde afspraken, geen reactie en geldverlies, terwijl veel positieve quotes generiek of mogelijk niet representatief zijn."
+}

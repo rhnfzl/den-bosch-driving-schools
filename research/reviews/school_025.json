@@ -1,0 +1,50 @@
+{
+  "row_index": 25,
+  "slug": "school_025",
+  "rijschool": "Rijschool Azizi",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 2,
+  "sentiment": "mixed",
+  "sentiment_index": 58,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Ik ben vanaf een andere rijschool overgestapt naar rijschool Azizi. Hier heb ik absoluut geen spijt van.",
+    "Bij Azizi kun je je focussen op rijden van examenroutes, dit is een groot voordeel t.o.v. andere rijscholen.",
+    "De instructeur geeft goede heldere uitleg, prettig rijlessen. De communicatie is heel goed.",
+    "Instructeur is eerlijk en geeft je veel zelfvertrouwen waardoor je veel vooruitgang ziet.",
+    "Ik raad rijschool Azizi 100% aan en ben heel tevreden. Azizi bedankt :)"
+  ],
+  "themes_positive": [
+    "clear explanation",
+    "good communication",
+    "honest instructor",
+    "builds confidence",
+    "focus on exam routes"
+  ],
+  "themes_negative": [
+    "low CBR pass rate (35-40% first attempt, below the 54% location average)",
+    "Google rating only 2.8/5 over 11 reviews (no readable negative review text found)"
+  ],
+  "red_flags": [
+    "Almost no readable review bodies exist on any platform; only one substantive written review (telefoonboek.nl, Su Mi, Jul 2022) could be captured verbatim.",
+    "Conflicting rating signals: telefoonboek 7.7/10 (6 ratings) and a single 5-star text review, versus Google 2.8/5 over 11 reviews whose bodies are not exposed by any aggregator.",
+    "klantenvertellen.nl has NO page for this school (verified independent reviews unavailable).",
+    "Several aggregators conflate Rijschool Azizi with Autorijschool Amir (rijloket.nl shows '4.8/76 reviews', '4.9 Google' and English 'Amir' reviews but lists website autorijschoolamir.nl / phone 06 20896343 = a different school); those reviews were excluded.",
+    "No website; sole owner one-man business; contact only a hotmail address."
+  ],
+  "sources": [
+    "https://www.telefoonboek.nl/bedrijven/t4614574/den-bosch/rijschool-azizi",
+    "https://clickdrive.nl/rijscholen/s-hertogenbosch/rijschool-azizi",
+    "https://www.drivedutch.nl/forum/Rijschool%20Azizi/'S-HERTOGENBOSCH/581267160000",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-azizi"
+  ],
+  "platforms_found": [
+    "telefoonboek.nl (1 substantive written review + aggregate 7.7/10, 6 ratings)",
+    "Google reviews via clickdrive.nl (2.8/5, 11 reviews, no bodies exposed)",
+    "DriveDutch (CBR stats only, no review text)",
+    "klantenvertellen.nl (no page for this school)"
+  ],
+  "review_summary": "Only one genuine substantive review could be read (telefoonboek.nl, 2022): a learner who switched from another school praised the instructor's clear explanations, honest feedback, good communication and confidence-building, and the focus on practising CBR exam routes. Beyond that single positive write-up the evidence is thin and conflicting: telefoonboek aggregates 7.7/10 over 6 ratings while Google shows just 2.8/5 over 11 reviews whose text is not exposed anywhere, so the overall picture cannot be trusted."
+}

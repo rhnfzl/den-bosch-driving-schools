@@ -1,0 +1,18 @@
+{
+  "row_index": 34,
+  "slug": "school_034",
+  "rijschool": "Autorijschool Kwaks",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 3,
+  "sentiment_index": 76,
+  "sentiment": "positive",
+  "themes_positive": [
+    "snelle voortgang",
+    "prettige communicatie met instructeur",
+    "aanrader",
+    "veilig op de weg"
+  ],
+  "themes_negative": [],
+  "confidence": "medium",
+  "rationale": "De quotes zijn duidelijk positief over de instructeur, de leservaring en het gevoel van veiligheid op de weg, zonder noemenswaardige klachten."
+}

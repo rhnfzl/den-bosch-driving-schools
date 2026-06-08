@@ -1,0 +1,20 @@
+{
+  "row_index": 108,
+  "slug": "school_108",
+  "rijschool": "Pass2Drive",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 2,
+  "sentiment_index": 87,
+  "sentiment": "positive",
+  "themes_positive": [
+    "ervaren rijinstructrice",
+    "veel geleerd",
+    "zelfvertrouwen opgebouwd",
+    "gezellige lessen",
+    "in één keer geslaagd",
+    "fijne rijschool"
+  ],
+  "themes_negative": [],
+  "confidence": "medium",
+  "rationale": "De quotes zijn duidelijk positief over de ervaren instructrice, het leerproces, de sfeer in de auto en het succesvol slagen."
+}

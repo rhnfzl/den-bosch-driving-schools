@@ -1,0 +1,35 @@
+{
+  "row_index": 40,
+  "slug": "school_040",
+  "rijschool": "WeGo academy",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 6,
+  "platforms_found": ["Google reviews (via rijloket.nl and clickdrive.nl)"],
+  "sources": [
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/wego-academy-s-hertogenbosch",
+    "https://clickdrive.nl/en/driving-schools/s-hertogenbosch/wego-academy-s-hertogenbosch",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/wego-academy",
+    "https://www.educarplatform.nl/rijscholen/oss/8379-wego-academy"
+  ],
+  "representative_quotes": [
+    "Great driving school, Hikmat is a very professional trainer, responsible, flexible timing, and have a great knowledge. (Antone Kamel, Google, EN)",
+    "Goede rijinstructeur erg geduldig en professioneel. Zeker aan te raden. (omar okla, Google, NL)",
+    "ik vind het een prachtige rijschool mijn advies als je rijles wilt nemen ga maar bij WeGo is de beste. (Ghaith Albriki, Google, NL)",
+    "أشكر الأستاذ حكمت على تعامله الراقي واحترافيته العالية في تعليم القيادة. شرح ممتاز، دعم كبير للطلاب، وتجربة أكثر من رائعة. (Mustafa M, Google, AR — thanks instructor Hikmat for his refined manner and high professionalism, excellent explanation, great support for students)",
+    "مدرسة أكثر من رائعة تم اجتياز الإختبار العملي من أول محاولة كل الشكر والتقدير للأستاذ حكمت على الشرح المفصل للقوانين و آداب القيادة. (Mazen Almohamad, Google, AR — more than excellent school, passed the practical exam on the first attempt, thanks to Hikmat for detailed explanation of rules and driving etiquette)"
+  ],
+  "sentiment": "very_positive",
+  "sentiment_index": 88,
+  "english_in_reviews": "yes",
+  "themes_positive": ["patient", "professional", "flexible timing", "clear/detailed explanation", "passed on first attempt"],
+  "themes_negative": ["very new school / little track record", "low CBR success rate (~16-29%, below average)", "thin generic one-liner reviews", "single platform only (Google)"],
+  "red_flags": [
+    "Very new school (CBR-registered 2025); only ~16 Google reviews, all 5-star, no spread of opinion",
+    "No independent/verified review platform (no klantenvertellen, Trustpilot, Trustoo, Facebook)",
+    "Reviews are short generic one-liners with little concrete detail; all praise one instructor (Hikmat)",
+    "Perfect 5.0 review average contradicts CBR open data showing a low success rate (29% first-exam average; rijloket lists 16.7% for B, ~32 points below national)"
+  ],
+  "review_summary": "The handful of readable reviews (all 5-star Google) uniformly praise owner-instructor Hikmat as patient, professional and flexible, with a couple of students saying they passed on the first attempt; but the corpus is thin, single-platform and unverified, and the glowing sentiment sits awkwardly against CBR data showing a below-average pass rate."
+}

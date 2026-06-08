@@ -1,0 +1,40 @@
+{
+  "row_index": 61,
+  "slug": "school_061",
+  "rijschool": "Autorijschool de Gier",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No written customer reviews found on any platform (klantenvertellen, Google, Trustpilot, Facebook, Trustoo, clickdrive, rijschoolspecialist, rijscholen-gids).",
+    "clickdrive.nl, rijschoolspecialist.nl and rijscholen-gids.nl all explicitly show 0 reviews / 0.0 rating ('Er zijn nog geen beoordelingen gevonden').",
+    "School is not listed at all on the Trustoo Vught rijschool ranking.",
+    "Only objective CBR exam statistics are available (no qualitative review text), so authenticity cannot be judged."
+  ],
+  "platforms_found": [
+    "klantenvertellen.nl (no page for this school)",
+    "clickdrive.nl (0 reviews)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)",
+    "drivedutch.nl (exam stats only, no review text)",
+    "cbr.nl (exam stats only)",
+    "trustoo.nl (school not listed)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vught/autorijschool-de-gier",
+    "https://www.rijschoolspecialist.nl/autorijschool-de-gier",
+    "https://rijscholen-gids.nl/vught/autorijschool-de-gier",
+    "https://www.drivedutch.nl/forum/Autorijschool%20de%20Gier/VUGHT/172526860000",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-de-gier",
+    "https://trustoo.nl/noord-brabant/vught/rijschool",
+    "https://sponsorportaal.nl/zwaluwvfc/9938/de-gier-autorijschool/bedrijfsinformatie"
+  ],
+  "review_summary": "No written customer reviews could be found for Autorijschool de Gier on any platform (klantenvertellen, Google, Trustpilot, Facebook, Trustoo, or the directory aggregators), so student sentiment cannot be assessed from review text. The only available data is objective CBR exam performance (around 38 exams, ~79% pass rate), and the school's own marketing (small one-man RIS-certified school in Vught with exam guarantee; instructors Christ de Gier and Danny van den Bergh)."
+}

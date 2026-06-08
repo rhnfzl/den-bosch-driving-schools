@@ -1,0 +1,20 @@
+{
+  "row_index": 8,
+  "slug": "school_008",
+  "rijschool": "Rijschool Danny van den Bergh",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 3,
+  "sentiment_index": 88,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "hoge slagingskans",
+    "duidelijke uitleg",
+    "bruikbare feedback",
+    "rustig en geduldig",
+    "persoonlijke begeleiding",
+    "tempo en planning afgestemd op leerling"
+  ],
+  "themes_negative": [],
+  "confidence": "medium",
+  "rationale": "De quotes prijzen vooral de leskwaliteit, begeleiding en slagingsresultaten, zonder duidelijke kritiek."
+}

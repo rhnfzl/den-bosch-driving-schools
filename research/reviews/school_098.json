@@ -1,0 +1,38 @@
+{
+  "row_index": 98,
+  "slug": "school_098",
+  "rijschool": "Autorijschool Bert van Doornmalen",
+  "review_trust": "weak",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 7,
+  "platforms_found": ["Google (via clickdrive.nl)", "1001rijscholen.nl"],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/ammerzoden/autorijschool-bert-van-doornmalen",
+    "https://clickdrive.nl/en/driving-schools/ammerzoden/autorijschool-bert-van-doornmalen",
+    "https://www.1001rijscholen.nl/reviews/rijschool-van-doornmalen"
+  ],
+  "english_in_reviews": "no",
+  "sentiment": "positive",
+  "sentiment_index": 72,
+  "themes_positive": ["clear explanation", "passed first time", "home pick-up", "honest / does not overcharge", "personal attention", "BOVAG certified"],
+  "themes_negative": ["one isolated 1-star rating (no text/reason given)", "small single-instructor school", "thin written review corpus"],
+  "red_flags": [
+    "Only 13 Google reviews total and the vast majority have NO written text (just star ratings)",
+    "No independent verified platform (no klantenvertellen / Kiyoh page exists for this school)",
+    "Two of the captured quotes come from 1001rijscholen.nl, a low-trust affiliate/ReviewTycoon-generated review site",
+    "One 1-star Google rating from Maarten van Heerikhuize with no description, so the negative reason is unknown",
+    "CBR practical exam first-time pass rate is modest (~70%) with high retake volume"
+  ],
+  "representative_quotes": [
+    "Mijn zoon vond Bert een fijne instructeur die duidelijke uitleg gaf, zoals het hoort. Mijn zoon was in een keer geslaagd voor z'n brommer examen. Top (Lou T, Google 5/5)",
+    "Heel fijn gelest bij Bert. Leert je op een goede manier auto rijden. (Christa Hooijmans, Google 5/5)",
+    "Werd altijd op tijd opgehaald zonder dat ik iemand eerst moest weg brengen. (Christa Hooijmans, Google 5/5)",
+    "Wil je gewoon je rijbewijs halen bij een vak-rijschool zonder dat ze je compleet proberen leeg te melken dan zou ik naar Bert gaan. (Christa Hooijmans, Google 5/5)",
+    "Mocht je een goede rijschool zoeke, dan ben je hier aan het juiste adres. (Eefje, 1001rijscholen, 3 juli 2019)",
+    "Geen minuten van je kostbare lestijd afsnoepen en je krijgt goed les zoals je mag verwachten! (Eefje, 1001rijscholen, sterke punten)",
+    "Super toffe rijschool, staat altijd klaar, gezellig en alles wat je van een rijschool mag verwachten!!! (anoniem, 1001rijscholen)",
+    "Maarten van Heerikhuize gaf een 1/5 zonder beschrijving (Google, geen tekst / reden onbekend)"
+  ],
+  "review_summary": "The handful of written reviews are positive: students describe Bert as a clear-explaining, personable instructor whose pupils often pass first time, with home pick-up and an honest, no-upselling approach. However the evidence base is thin and low-trust: only ~13 Google reviews (3.8/5, mostly star-only with no text), no verified klantenvertellen page, two quotes from an affiliate review site, and one unexplained 1-star Google rating."
+}

@@ -1,0 +1,24 @@
+{
+  "row_index": 107,
+  "slug": "school_107",
+  "rijschool": "Rijschool Eigen-Wijs",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 96,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "calm and patient instructor",
+    "clear explanations and structured lessons",
+    "personal and professional approach",
+    "good communication",
+    "supportive and encouraging",
+    "builds confidence",
+    "practical examples",
+    "good value for price",
+    "takes time for students",
+    "helped students pass exam"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "The quotes consistently praise Danny and Eigen-Wijs for patience, clear guidance, personal support, and effective preparation that helped students feel confident and pass their exams."
+}

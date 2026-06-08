@@ -1,0 +1,36 @@
+{
+  "row_index": 118,
+  "slug": "school_118",
+  "rijschool": "Autorijschool van Heeswijk",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "red_flags": [
+    "No reviews exist on any platform for the driving school itself (rijschoolspecialist.nl 0, clickdrive.nl 0, rijscholen-gids.nl 0, autorijschooltarieven.nl 0)",
+    "No Google reviews, Trustpilot, or Facebook reviews found for the driving school",
+    "Klantenvertellen page that surfaces ('J. van Heeswijk Auto's & Verhuur B.V.') is a separate CAR RENTAL/DEALERSHIP business, NOT this driving school; its reviews are about renting vans/cars and must not be attributed to the rijschool",
+    "Very small one-man business (eenmanszaak) with only 3-4 CBR first exams in the measurement period; LinkedIn indicates owner Karel van Heeswijk ran the school 2005-2019 and moved to another employer in 2019, so it may be largely inactive"
+  ],
+  "sentiment": "mixed",
+  "sentiment_index": 50,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/sint-michielsgestel/autorijschool-van-heeswijk",
+    "https://www.rijschoolspecialist.nl/autorijschool-van-heeswijk",
+    "https://rijscholen-gids.nl/sint-michielsgestel/autorijschool-van-heeswijk",
+    "https://www.autorijschooltarieven.nl/rijschool/autors-van-heeswijk",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-van-heeswijk-1"
+  ],
+  "platforms_found": [
+    "clickdrive.nl (0 reviews)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "rijscholen-gids.nl (0 reviews)",
+    "autorijschooltarieven.nl (0 reviews)",
+    "cbr.nl (official register, no review text)"
+  ],
+  "review_summary": "No readable customer review text could be found for the driving school on any platform; every aggregator (clickdrive, rijschoolspecialist, rijscholen-gids, autorijschooltarieven) shows zero reviews. The only klantenvertellen page under the 'van Heeswijk' name belongs to a separate car rental/dealership business, not the rijschool, so it cannot be used. There is no basis in real review text to judge sentiment or authenticity."
+}

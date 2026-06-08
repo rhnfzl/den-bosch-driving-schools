@@ -1,0 +1,27 @@
+{
+  "row_index": 21,
+  "slug": "school_021",
+  "rijschool": "Autorijschool Coenen",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 12,
+  "sentiment_index": 78,
+  "sentiment": "positive",
+  "themes_positive": [
+    "rustige uitleg",
+    "geduldige begeleiding",
+    "duidelijke feedback",
+    "vertrouwen opbouwen",
+    "leren in eigen tempo",
+    "persoonlijke aandacht",
+    "gezellige lessen",
+    "aandacht voor speciale behoeften",
+    "zelfstandig leren rijden"
+  ],
+  "themes_negative": [
+    "lessen worden lang gerekt",
+    "examen wordt laat aangevraagd",
+    "pakketconstructie voelt dwingend"
+  ],
+  "confidence": "high",
+  "rationale": "De quotes zijn overwegend lovend over de rustige, geduldige en duidelijke begeleiding waardoor leerlingen vertrouwen en zelfstandigheid opbouwen, met één duidelijke klacht over het rekken van lessen en het laat aanvragen van examen."
+}

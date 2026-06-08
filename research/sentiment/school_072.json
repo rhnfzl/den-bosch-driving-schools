@@ -1,0 +1,18 @@
+{
+  "row_index": 72,
+  "slug": "school_072",
+  "rijschool": "Haarsteegse Autorijschool",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 2,
+  "sentiment_index": 20,
+  "sentiment": "negative",
+  "themes_positive": [],
+  "themes_negative": [
+    "unsafe driving behavior",
+    "reckless speeding",
+    "disrespect toward road workers",
+    "sarcastic/complaining tone"
+  ],
+  "confidence": "medium",
+  "rationale": "The only substantive quote criticizes dangerous overtaking and speeding near roadworks, which reflects poorly on the school as a driving-learning environment."
+}

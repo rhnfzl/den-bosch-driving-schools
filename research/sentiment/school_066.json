@@ -1,0 +1,25 @@
+{
+  "row_index": 66,
+  "slug": "school_066",
+  "rijschool": "Anton Snelrijles",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 9,
+  "sentiment_index": 18,
+  "sentiment": "negative",
+  "themes_positive": [
+    "snel kunnen beginnen",
+    "in één keer geslaagd",
+    "rijbewijs snel gehaald"
+  ],
+  "themes_negative": [
+    "slechte instructie",
+    "taalproblemen met instructeur",
+    "fraude met lestijden",
+    "te laat komen",
+    "geldklopperij",
+    "tijdverspilling",
+    "lage slagingskans"
+  ],
+  "confidence": "high",
+  "rationale": "De meeste quotes beschrijven ernstige problemen met de instructeur, lestijden en geldverlies, terwijl de positieve reacties kort en beperkt zijn."
+}

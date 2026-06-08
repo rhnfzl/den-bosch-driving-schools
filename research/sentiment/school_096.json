@@ -1,0 +1,20 @@
+{
+  "row_index": 96,
+  "slug": "school_096",
+  "rijschool": "rijschoolGP",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 11,
+  "sentiment_index": 93,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "rustige en geduldige instructeur",
+    "duidelijke uitleg en kalme instructies",
+    "meer zelfvertrouwen en veilig de weg op",
+    "aangepast aan tempo van leerling",
+    "in één keer geslaagd / snel rijbewijs gehaald",
+    "fijne en prettige lessen"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes prijzen vooral Gijs’ rust, duidelijkheid en geduld, en koppelen de lessen herhaaldelijk aan slagen in één keer en meer zelfvertrouwen."
+}

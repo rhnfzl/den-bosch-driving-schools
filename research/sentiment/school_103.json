@@ -1,0 +1,20 @@
+{
+  "row_index": 103,
+  "slug": "school_103",
+  "rijschool": "Rijschool Story",
+  "model": "gpt-5.4-mini",
+  "n_quotes": 9,
+  "sentiment_index": 92,
+  "sentiment": "very_positive",
+  "themes_positive": [
+    "vriendelijke en fijne lessen",
+    "goede en duidelijke begeleiding",
+    "prettige sfeer in de auto",
+    "meer zelfvertrouwen tijdens het rijden",
+    "snel leren en in één keer slagen",
+    "sterke aanbeveling van de instructrice"
+  ],
+  "themes_negative": [],
+  "confidence": "high",
+  "rationale": "De quotes zijn unaniem lovend over de lessen, sfeer en begeleiding, en meerdere noemen dat ze zelfverzekerder werden en in één keer slaagden."
+}

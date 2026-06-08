@@ -1,0 +1,42 @@
+{
+  "row_index": 43,
+  "slug": "school_043",
+  "rijschool": "Autorijschool Nieuwelaar",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 1,
+  "sentiment": "positive",
+  "sentiment_index": 70,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Berry is een echte vakman op dit vakgebied"
+  ],
+  "themes_positive": [
+    "skilled instructor",
+    "craftsmanship"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Only one customer review exists across all platforms (single 5-star Google review)",
+    "No verified reviews on klantenvertellen.nl (no page for this school)",
+    "No reviews on Trustpilot, Trustoo, Facebook, or rijschoolspecialist.nl (0 reviews)",
+    "Very new, single-instructor school (active since 2023); too little review evidence to judge quality",
+    "Below-average CBR first-time pass rate (~38.7% for 2025 per CBR open data) but this is exam data, not review text",
+    "The single review is short and generic with no specifics on lessons, exam day, or instruction"
+  ],
+  "platforms_found": [
+    "Google (via clickdrive.nl and rijloket.nl)",
+    "rijschoolspecialist.nl (0 reviews)",
+    "drivedutch.nl (CBR stats only, no review text)",
+    "cbr.nl (exam stats only)"
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/vught/autorijschool-nieuwelaar",
+    "https://rijloket.nl/rijscholen/vught/autorijschool-nieuwelaar-vught",
+    "https://www.rijschoolspecialist.nl/autorijschool-nieuwelaar",
+    "https://www.drivedutch.nl/forum/Autorijschool%20Nieuwelaar/VUGHT/91304429",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/autorijschool-nieuwelaar"
+  ],
+  "review_summary": "Only a single customer review exists for this new (2023), single-instructor school across all platforms: one 5-star Google review calling owner-instructor Berry 'a real craftsman in this field'. There is no verified (klantenvertellen) feedback and no other review text, so the evidence is insufficient to judge real-world quality, communication, or how the school handles nervous learners or expats."
+}

@@ -1,0 +1,44 @@
+{
+  "row_index": 54,
+  "slug": "school_054",
+  "rijschool": "NRV Autorijschool",
+  "review_trust": "insufficient",
+  "review_substance": "thin",
+  "verified_reviews": false,
+  "reviews_read": 1,
+  "sentiment": "negative",
+  "sentiment_index": 25,
+  "english_in_reviews": "no",
+  "representative_quotes": [
+    "Akelige mensen, onvriendelijk en geheel buiten het instructie geven onrespectvol. (Heleen, rijschoolspecialist.nl, 1.0/5)"
+  ],
+  "themes_positive": [],
+  "themes_negative": [
+    "unfriendly / disrespectful staff",
+    "poor treatment outside of instruction"
+  ],
+  "red_flags": [
+    "Almost no readable review text exists on any independent platform for this school.",
+    "The only readable customer review found anywhere is a single 1-star negative review (Heleen on rijschoolspecialist.nl).",
+    "No klantenvertellen.nl page exists for NRV Autorijschool (the klantenvertellen result was a different school, 'Dutch Driving' / owner Romeo).",
+    "klantervaringen.nl page shows only default 7.0 placeholder ratings, is unclaimed, and lists '1 verborgen recensie' (1 hidden review) with no body text.",
+    "The '8.6' average is a self-reported figure on the school's own website (autorijschoolnrv.nl) with no underlying readable reviews to verify it.",
+    "Listings show conflicting locations (Eindhoven HQ vs Den Bosch exam center) and the school is primarily Eindhoven/Veldhoven oriented; very small footprint.",
+    "No Google, Trustoo, Facebook, or Trustpilot review bodies could be located for this specific school."
+  ],
+  "review_summary": "There is essentially no substantive, independent review corpus for NRV Autorijschool. The only readable customer review found on any platform is a single 1-star complaint calling the staff unfriendly and disrespectful; all other listings show default placeholder scores, hidden reviews, or a self-reported 8.6 on the school's own website that cannot be corroborated.",
+  "sources": [
+    "https://www.rijschoolspecialist.nl/nrv-autorijschool",
+    "https://www.klantervaringen.nl/www.autorijschoolnrv.nl",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/nrv-autorijschool",
+    "https://slaagpuls.nl/rijschool/den-bosch/nrv-autorijschool",
+    "http://autorijschoolnrv.nl"
+  ],
+  "platforms_found": [
+    "rijschoolspecialist.nl (1 review, negative)",
+    "klantervaringen.nl (unclaimed, default 7.0 placeholders, 1 hidden review)",
+    "cbr.nl (pass-rate data only, no reviews)",
+    "slaagpuls.nl (pass-rate data only, no reviews)",
+    "own website autorijschoolnrv.nl (self-reported 8.6, no readable reviews)"
+  ]
+}

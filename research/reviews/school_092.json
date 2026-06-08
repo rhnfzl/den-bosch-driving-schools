@@ -1,0 +1,38 @@
+{
+  "row_index": 92,
+  "slug": "school_092",
+  "rijschool": "Rijschool Jan Dekkers",
+  "review_trust": "insufficient",
+  "review_substance": "none",
+  "verified_reviews": false,
+  "reviews_read": 0,
+  "sentiment": "positive",
+  "sentiment_index": 62,
+  "english_in_reviews": "unclear",
+  "representative_quotes": [],
+  "themes_positive": [],
+  "themes_negative": [],
+  "red_flags": [
+    "No readable written review text could be found for this specific school (Ammerzoden) on any platform; only aggregate star ratings are exposed.",
+    "Aggregate ratings are inconsistent across sources: clickdrive.nl shows 4.3/5 (59 Google reviews), Google Maps direct shows 3.9, and rijlessen.nl shows 1.0/5 (based on only 1 review).",
+    "Klantenvertellen results found in search are for a DIFFERENT school ('Rijschool Dekker' / rijschooldekker.nl in Eindhoven), not Rijschool Jan Dekkers in Ammerzoden; those reviews were excluded.",
+    "No klantenvertellen (independent/verified) page exists for this Ammerzoden one-man school.",
+    "Google Maps blocks individual review bodies in the public/non-logged-in view, so review text could not be captured."
+  ],
+  "sources": [
+    "https://clickdrive.nl/rijscholen/ammerzoden/rijschool-jan-dekkers",
+    "https://rijlessen.nl/rijscholen/ammerzoden/rijschool-1628-rijschool-jan-dekkers",
+    "https://www.google.com/maps/search/Rijschool+Jan+Dekkers+Ammerzoden",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/rijschool-jan-dekkers",
+    "https://www.drivedutch.nl/forum/Rijschool%20Jan%20Dekkers/AMMERZODEN/110614870000"
+  ],
+  "platforms_found": [
+    "Google (via clickdrive.nl: 4.3/5, 59 reviews)",
+    "Google Maps (direct: 3.9 rating, no readable bodies)",
+    "rijlessen.nl (1.0/5 on 1 review, no text)",
+    "Facebook (page exists, reviews not extractable)",
+    "CBR (pass-rate stats only, no reviews)"
+  ],
+  "review_summary": "No actual written review text could be located for Rijschool Jan Dekkers in Ammerzoden. Only aggregate star ratings exist, and they conflict sharply across sources (Google ~3.9-4.3/5 across ~59 reviews on clickdrive vs a single 1.0/5 on rijlessen.nl), with no readable review bodies on any platform to judge authenticity or substance. The CBR first-attempt pass rate is 86% (82% overall).",
+  "verified_reviews_note": "No verified/independent (klantenvertellen) reviews exist for this specific school."
+}

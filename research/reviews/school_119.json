@@ -1,0 +1,54 @@
+{
+  "row_index": 119,
+  "slug": "school_119",
+  "rijschool": "M & S Rijopleidingen en Coaching V.O.F.",
+  "review_trust": "moderate",
+  "review_substance": "substantive",
+  "verified_reviews": false,
+  "reviews_read": 8,
+  "sentiment": "very_positive",
+  "sentiment_index": 92,
+  "english_in_reviews": "yes",
+  "review_summary": "Students (several of them international/expat) describe instructor Mehran as a patient, multilingual coach who focuses directly on weak points, helps learners overcome fear of driving, and gets them through the CBR exam; motorcycle refresher and advanced-rider training also draw warm praise. All reviews found are positive, but the corpus is small and from a young school.",
+  "themes_positive": [
+    "good with nervous learners",
+    "overcomes fear of driving",
+    "multilingual / English-speaking",
+    "focuses on weak points",
+    "clear and easy techniques",
+    "boosts confidence",
+    "helps pass the exam",
+    "strong motorcycle / advanced-rider coaching",
+    "punctual and good communication"
+  ],
+  "themes_negative": [],
+  "red_flags": [
+    "Very young school (registered Dec 2023) with tiny CBR exam volume (only ~1-3 exams), so the review base is thin",
+    "No independent verified platform (no klantenvertellen / Kiyoh page found); review trust rests on Google Maps plus two self-published testimonials on the school's own website",
+    "All reviews are uniformly 5-star positive with no critical or mixed feedback present to balance the picture"
+  ],
+  "representative_quotes": [
+    "Mehran is a very good instructor who taught me good and easy techniques which is very useful in the driving.",
+    "I reached him to get some guidance to clear the practical exam as I was not satisfied with my previous instructor. After few classes with Mehran, I felt more confident and was able to successfully clear the exam.",
+    "I took intensive driving lessons with Mehran in a short period of time. He gave me a completely different perspective compared to my previous instructors.",
+    "We focused directly on my weak points, and he helped me overcome my fears. Thanks to him, I passed my driving exam.",
+    "Even now, when I'm driving, his advice is still in my mind. I definitely recommend him.",
+    "Professional multilingual team who support you carefully to your success. Full attention during training sessions with thorough instruction. Decent vehicles. On time correspondence. Highly recommended.",
+    "De voortgezette rijopleiding voor de motor is zeker een aanrader. Ondanks mijn jaren lange ervaring van meer dan 30 jaar, 2x op pad geweest met Mehran. Erg fijn persoon die je veel tips meegeeft.",
+    "Dankzij de enthousiaste en deskundige lessen van Mehran heb ik in een moordend tempo mijn motorrijbewijs gehaald!",
+    "Superfijne rijschool! Ik vond het echt spannend om te beginnen met autorijlessen, maar mijn instructeur stelde me meteen op mijn gemak. De lessen waren heel duidelijk en werden op mijn tempo afgestemd. In een keer geslaagd!",
+    "Ik had er behoefte aan om na een aantal jaren niet gereden te hebben, een opfriscursus te volgen... Al met al een geslaagde cursus die ik ieder kan aanbevelen!"
+  ],
+  "sources": [
+    "https://rijloket.nl/rijscholen/s-hertogenbosch/m-s-rijopleidingen-en-coaching-v-o-f-s-hertogenbosch",
+    "https://msrijco.nl",
+    "https://www.drivedutch.nl/forum/M%20%26%20S%20Rijopleidingen%20en%20Coaching%20V.O.F./'S-HERTOGENBOSCH/92217354",
+    "https://www.cbr.nl/nl/service/nl/rijscholen/m-s-rijopleidingen-en-coaching-v.o.f."
+  ],
+  "platforms_found": [
+    "Google Maps (via rijloket.nl)",
+    "Own website testimonials (msrijco.nl)",
+    "DriveDutch (CBR exam stats only, no written reviews)",
+    "CBR (exam stats only)"
+  ]
+}
